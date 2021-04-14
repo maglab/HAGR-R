@@ -8,7 +8,7 @@ options(warn=-1)
 #' @export
 AnAge <- function(){
   driver = dbDriver("MySQL");
-  connection = dbConnect(driver, user='root', password='password', dbname='dev_anage', host='127.0.0.1',port=3306);
+  connection = dbConnect(driver, user='', password='', dbname='dev_anage', host='127.0.0.1',port=3306);
   assign("age",dbGetQuery(connection, statement= paste("select * from age")),.GlobalEnv);
   assign("biblio",dbGetQuery(connection, statement= paste("select * from biblio")),.GlobalEnv);
   assign("development",dbGetQuery(connection, statement= paste("select * from development")),.GlobalEnv);
@@ -23,7 +23,7 @@ AnAge <- function(){
 #' @export
 CellAge <- function(){
   driver = dbDriver("MySQL");
-  connection = dbConnect(driver, user='root', password='password', dbname='dev_cell_age', host='127.0.0.1',port=3306);
+  connection = dbConnect(driver, user='', password='', dbname='dev_cell_age', host='127.0.0.1',port=3306);
   assign("cell",dbGetQuery(connection, statement= paste("select * from senescence")),.GlobalEnv);
   assign("gene_interventions", dbGetQuery(connection, statement = paste("select * from gene_interventions")),.GlobalEnv);
 }
@@ -35,7 +35,7 @@ CellAge <- function(){
 #' @export
 DrugAge <- function(){
   driver = dbDriver("MySQL");
-  connection = dbConnect(driver, user='root', password='password', dbname='dev_drug_age', host='127.0.0.1',port=3306);
+  connection = dbConnect(driver, user='', password='', dbname='dev_drug_age', host='127.0.0.1',port=3306);
   assign("biblio",dbGetQuery(connection, statement= paste("select * from biblio")),.GlobalEnv);
   assign("compound_interactions",dbGetQuery(connection, statement= paste("select * from compound_interactions")),.GlobalEnv);
   assign("compound_synonyms",dbGetQuery(connection, statement= paste("select * from compound_synonyms")),.GlobalEnv);
@@ -48,7 +48,7 @@ DrugAge <- function(){
 #' @export
 GenAgeHuman <- function(){
   driver = dbDriver("MySQL");
-  connection = dbConnect(driver, user='root', password='password', dbname='dev_genage_human', host='127.0.0.1',port=3306);
+  connection = dbConnect(driver, user='', password='', dbname='dev_genage_human', host='127.0.0.1',port=3306);
   assign("biblio",dbGetQuery(connection, statement= paste("select * from biblio")),.GlobalEnv);
   assign("names",dbGetQuery(connection, statement= paste("select * from names")),.GlobalEnv);
   assign("gene_biblio",dbGetQuery(connection, statement= paste("select * from gene_biblio")),.GlobalEnv);
@@ -68,7 +68,7 @@ GenAgeHuman <- function(){
 #' @export
 GenAgeModels <- function(){
   driver = dbDriver("MySQL");
-  connection = dbConnect(driver, user='hagR', password='hagR.123', dbname='dev_genage_models', host='178.79.139.157',port=3306)
+  connection = dbConnect(driver, user='', password='', dbname='dev_genage_models', host='178.79.139.157',port=3306)
   assign("Mbiblio",dbGetQuery(connection, statement= paste("select * from biblio")),.GlobalEnv);
   assign("Mgene_biblio",dbGetQuery(connection, statement= paste("select * from gene_biblio")),.GlobalEnv);
   assign("Mlongevity",dbGetQuery(connection, statement= paste("select * from longevity")),.GlobalEnv);
