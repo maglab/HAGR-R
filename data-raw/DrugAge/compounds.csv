@@ -1,0 +1,584 @@
+﻿id,compound_name,cas_number,pubchem_cid,iupac_name
+2685,L-Carnitine,541-15-1,10917,(3R)-3-hydroxy-4-(trimethylazaniumyl)butanoate
+2686,Spermidine,124-20-9,1102,"N'-(3-aminopropyl)butane-1,4-diamine"
+2687,Ethanol,64-17-5,702,ethanol
+2688,Aspirin,50-78-2,2244,2-acetyloxybenzoic acid
+2689,N-butanol,71-36-3,263,butan-1-ol
+2690,Lithocholic acid,434-13-9,9903,"(4R)-4-[(3R,5R,8R,9S,10S,13R,14S,17R)-3-hydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1H-cyclopenta[a]phenanthren-17-yl]pentanoic acid"
+2691,SkQ1,934826-68-3,16679091,"10-(4,5-dimethyl-3,6-dioxocyclohexa-1,4-dien-1-yl)decyl-triphenylphosphanium;bromide"
+2692,N-propanol,71-23-8,1031,propan-1-ol
+2693,C60,99685-96-8,123591,"(C{60}-I{h})[5,6]fullerene"
+2694,Caffeine,58-08-2,2519,"1,3,7-trimethylpurine-2,6-dione"
+2695,Kinetin,525-79-1,3830,N-(furan-2-ylmethyl)-7H-purin-6-amine
+2696,Metformin,657-24-9,4091,"3-(diaminomethylidene)-1,1-dimethylguanidine"
+2697,EGTA,67-42-5,6207,2-[2-[2-[2-[bis(carboxymethyl)amino]ethoxy]ethoxy]ethyl-(carboxymethyl)amino]acetic acid
+2698,Hydrogen Sulphide,04/06/7783,402,sulfane
+2699,Resveratrol,501-36-0,445154,"5-[(E)-2-(4-hydroxyphenyl)ethenyl]benzene-1,3-diol"
+2700,Nordihydroguaiaretic acid,500-38-9,4534,"4-[4-(3,4-dihydroxyphenyl)-2,3-dimethylbutyl]benzene-1,2-diol"
+2701,Glucose,2280-44-6,5793,"(3R,4S,5S,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+2702,Minocycline,10118-90-8,54675783,"(4S,4aS,5aR,12aR)-4,7-bis(dimethylamino)-1,10,11,12a-tetrahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide"
+2703,Carbonylcyanide-3-chlorophenylhydrazone,555-60-2,2603,2-[(3-chlorophenyl)hydrazinylidene]propanedinitrile
+2704,Thioflavin T,2390-54-7,16953,"4-(3,6-dimethyl-1,3-benzothiazol-3-ium-2-yl)-N,N-dimethylaniline;chloride"
+2705,Paraquat,4685-14-7,15939,1-methyl-4-(1-methylpyridin-1-ium-4-yl)pyridin-1-ium
+2706,Rifampicin,13292-46-1,5381226,NULL
+2707,Fisetin,528-48-3,5281614,"2-(3,4-dihydroxyphenyl)-3,7-dihydroxychromen-4-one"
+2708,EUK-134,81065-76-1,45489809,manganese(2+);2-methoxy-6-[2-[(3-methoxy-2-oxidophenyl)methylideneamino]ethyliminomethyl]phenolate;chloride
+2709,Citrate,126-44-3,31348,"2-hydroxypropane-1,2,3-tricarboxylate"
+2710,D-glycerol,56-81-5,753,"propane-1,2,3-triol"
+2711,Glycerol,56-81-5,753,"propane-1,2,3-triol"
+2712,Taxifolin,480-18-2,439533,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxy-2,3-dihydrochromen-4-one"
+2713,N-acetylglucosamine,72-87-7,24139,"N-[(2R,3R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydroxymethyl)oxan-3-yl]acetamide"
+2714,Edetate Calcium Disodium,23411-34-9,6093170,calcium;disodium;2-[2-[bis(carboxylatomethyl)amino]ethyl-(carboxylatomethyl)amino]acetate
+2715,Curcumin,458-37-7,969516,"(1E,6E)-1,7-bis(4-hydroxy-3-methoxyphenyl)hepta-1,6-diene-3,5-dione"
+2716,Acetaminophen,103-90-2,1983,N-(4-hydroxyphenyl)acetamide
+2717,Alpha-ketoglutarate,328-50-7,51,2-oxopentanedioic acid
+2718,Trimethadione,127-48-0,5576,"3,5,5-trimethyl-1,3-oxazolidine-2,4-dione"
+2719,Baicalein,491-67-8,5281605,"5,6,7-trihydroxy-2-phenylchromen-4-one"
+2720,Loxapine succinate,27833-64-3,71399,"butanedioic acid;8-chloro-6-(4-methylpiperazin-1-yl)benzo[b][1,4]benzoxazepine"
+2721,(R)-2-hydroxyglutarate,13095-47-1,439391,(2R)-2-hydroxypentanedioic acid
+2722,Epicatechin,490-46-0,72276,"(2R,3R)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol"
+2723,Ciclopirox olamine,41621-49-2,38911,2-aminoethanol;6-cyclohexyl-1-hydroxy-4-methylpyridin-2-one
+2724,4-phenylbutyrate,1821-12-1,4775,4-phenylbutanoic acid
+2725,Glyceollin I,57103-57-8,162807,NULL
+2726,Protocatechuic acid,99-50-3,72,"3,4-dihydroxybenzoic acid"
+2727,Amperozide hydrochloride,75529-73-6,73334,"4-[4,4-bis(4-fluorophenyl)butyl]-N-ethylpiperazine-1-carboxamide;hydrochloride"
+2728,EUK-8,53177-12-1,171249,manganese(3+);2-[2-[(2-oxidophenyl)methylideneamino]ethyliminomethyl]phenolate;chloride
+2729,Octoclothepin maleate,13448-22-1,1238,"1-(3-chloro-5,6-dihydrobenzo[b][1]benzothiepin-5-yl)-4-methylpiperazine"
+2730,Pergolide methanesulfonate,66104-23-2,47812,"(6aR,9R,10aR)-9-(methylsulfanylmethyl)-7-propyl-6,6a,8,9,10,10a-hexahydro-4H-indolo[4,3-fg]quinoline;methanesulfonic acid"
+2731,Hesperidin,520-26-3,10621,"(2S)-5-hydroxy-2-(3-hydroxy-4-methoxyphenyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxy-2,3-dihydrochromen-4-one"
+2732,D-xylitol,87-99-0,6912,"(2S,4R)-pentane-1,2,3,4,5-pentol"
+2733,Doxycycline,564-25-0,54671203,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide"
+2734,Lithium Chloride,7447-41-8,433294,lithium;chloride
+2735,Ethosuximide,77-67-8,3291,"3-ethyl-3-methylpyrrolidine-2,5-dione"
+2736,Valproic acid,99-66-1,3121,2-propylpentanoic acid
+2737,Staurosporine,62996-74-1,44259,NULL
+2738,Ampicillin,7177-48-2,6249,"(2S,5R,6R)-6-[[(2R)-2-amino-2-phenylacetyl]amino]-3,3-dimethyl-7-oxo-4-thia-1-azabicyclo[3.2.0]heptane-2-carboxylic acid"
+2739,Curare,57-94-3,16051918,NULL
+2740,Dihydroergocristine methanesulfonate,24730-10-7,444034,NULL
+2741,Sulfamethoxazole,723-46-6,5329,"4-amino-N-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide"
+2742,Amoxapine,14028-44-5,2170,"8-chloro-6-piperazin-1-ylbenzo[b][1,4]benzoxazepine"
+2743,Chlorprothixene hydrochloride,6469-93-8,5282478,"(3Z)-3-(2-chlorothioxanthen-9-ylidene)-N,N-dimethylpropan-1-amine;hydrochloride"
+2744,Dimethyl formamide,68-12-2,6228,"N,N-dimethylformamide"
+2745,"LY-165,163",1814-64-8,121930,4-[2-[4-[3-(trifluoromethyl)phenyl]piperazin-1-yl]ethyl]aniline
+2746,Myricetin,529-44-2,5281672,"3,5,7-trihydroxy-2-(3,4,5-trihydroxyphenyl)chromen-4-one"
+2747,Mianserin,24219-97-4,4184,NULL
+2748,Myxothiazol,76706-55-3,6437357,"(2E,4R,5S,6E)-3,5-dimethoxy-4-methyl-7-[2-[2-[(3E,5E)-7-methylocta-3,5-dien-2-yl]-1,3-thiazol-4-yl]-1,3-thiazol-4-yl]hepta-2,6-dienamide"
+2749,Promethazine hydrochloride,58-33-3,6014,"N,N-dimethyl-1-phenothiazin-10-ylpropan-2-amine;hydrochloride"
+2750,Trehalose,99-20-7,7427,"(2R,3S,4S,5R,6R)-2-(hydroxymethyl)-6-[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyoxane-3,4,5-triol"
+2751,(S)-2-hydroxyglutarate,13095-48-2,439939,(2S)-2-hydroxypentanedioic acid
+2752,"3,3-diethyl-2-pyrrolidinone",175698-05-2,9793807,"3,3-diethylpyrrolidin-2-one"
+2753,Butein,487-52-5,5281222,"(E)-1-(2,4-dihydroxyphenyl)-3-(3,4-dihydroxyphenyl)prop-2-en-1-one"
+2754,Epithalamin,64082-79-7,219042,(4S)-4-[[(2S)-2-aminopropanoyl]amino]-5-[[(2S)-3-carboxy-1-(carboxymethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+2755,Epitalon,64082-79-7,219042,(4S)-4-[[(2S)-2-aminopropanoyl]amino]-5-[[(2S)-3-carboxy-1-(carboxymethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid
+2756,Reserpine,50-55-5,5770,"methyl (1R,15S,17R,18R,19S,20S)-6,18-dimethoxy-17-(3,4,5-trimethoxybenzoyl)oxy-1,3,11,12,14,15,16,17,18,19,20,21-dodecahydroyohimban-19-carboxylate"
+2757,Thiazolidine carboxylic acid,16310-13-7,42486,"1,3-thiazolidine-2-carboxylic acid"
+2758,Thioridazine hydrochloride,130-61-0,66062,10-[2-(1-methylpiperidin-2-yl)ethyl]-2-methylsulfanylphenothiazine;hydrochloride
+2759,Trolox,53188-07-1,40634,"6-hydroxy-2,5,7,8-tetramethyl-3,4-dihydrochromene-2-carboxylic acid"
+2760,Astragalus polysaccharide,89250-26-0,2782115,"2-(chloromethyl)-4-(4-nitrophenyl)-1,3-thiazole"
+2761,N-acetyl-L-cysteine,616-91-1,12035,(2R)-2-acetamido-3-sulfanylpropanoic acid
+2762,SB203580,896734-47-7,176155,4-[4-(4-fluorophenyl)-2-(4-methylsulfinylphenyl)-1H-imidazol-5-yl]pyridine
+2763,Ethidium bromide,1239-45-8,14710,"5-ethyl-6-phenylphenanthridin-5-ium-3,8-diamine;bromide"
+2764,Cis-(Z)-Flupenthixol dihydrochloride,2413-38-9,5282483,2-[4-[(3Z)-3-[2-(trifluoromethyl)thioxanthen-9-ylidene]propyl]piperazin-1-yl]ethanol;dihydrochloride
+2765,Polydatin,27208-80-6,5281718,"(2S,3R,4S,5S,6R)-2-[3-hydroxy-5-[(E)-2-(4-hydroxyphenyl)ethenyl]phenoxy]-6-(hydroxymethyl)oxane-3,4,5-triol"
+2766,Sorbitol,50-70-4,5780,"(2R,3R,4R,5S)-hexane-1,2,3,4,5,6-hexol"
+2767,Diiodomethane,75-11-6,6346,diiodomethane
+2768,Dimethyl sulfoxide,67-68-5,679,methylsulfinylmethane
+2769,Juglone,481-39-0,3806,"5-hydroxynaphthalene-1,4-dione"
+2770,Minocycline hydrochloride,13614-98-7,54685925,"(4S,4aS,5aR,12aR)-4,7-bis(dimethylamino)-1,10,11,12a-tetrahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride"
+2771,Phenformin,114-86-3,8249,1-(diaminomethylidene)-2-(2-phenylethyl)guanidine
+2772,Astaxanthin,472-61-7,5281224,"(6S)-6-hydroxy-3-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-18-[(4S)-4-hydroxy-2,6,6-trimethyl-3-oxocyclohexen-1-yl]-3,7,12,16-tetramethyloctadeca-1,3,5,7,9,11,13,15,17-nonaenyl]-2,4,4-trimethylcyclohex-2-en-1-one"
+2773,Sodium hypophosphite,7681-53-0,23675242,NULL
+2774,FCCP,370-86-5,3330,2-[[4-(trifluoromethoxy)phenyl]hydrazinylidene]propanedinitrile
+2775,Methylergonovine maleate,57432-61-8,5281072,"(6aR,9R)-N-[(2S)-1-hydroxybutan-2-yl]-7-methyl-6,6a,8,9-tetrahydro-4H-indolo[4,3-fg]quinoline-9-carboxamide;(Z)-but-2-enedioic acid"
+2776,Tamarixetin,603-61-2,5281699,"3,5,7-trihydroxy-2-(3-hydroxy-4-methoxyphenyl)chromen-4-one"
+2777,Genistein,446-72-0,5280961,"5,7-dihydroxy-3-(4-hydroxyphenyl)chromen-4-one"
+2778,Trichostatin A,58880-19-6,444732,"(2E,4E,6R)-7-[4-(dimethylamino)phenyl]-N-hydroxy-4,6-dimethyl-7-oxohepta-2,4-dienamide"
+2779,Kenpaullone,142273-20-9,3820,"9-bromo-7,12-dihydro-5H-indolo[3,2-d][1]benzazepin-6-one"
+2780,PD-98059,167869-21-8,4713,2-(2-amino-3-methoxyphenyl)chromen-4-one
+2781,Trequinsin hydrochloride,78416-81-6,3060974,"9,10-dimethoxy-3-methyl-2-(2,4,6-trimethylphenyl)imino-6,7-dihydropyrimido[6,1-a]isoquinolin-4-one;hydrochloride"
+2782,Folic acid,59-30-3,6037,(2S)-2-[[4-[(2-amino-4-oxo-1H-pteridin-6-yl)methylamino]benzoyl]amino]pentanedioic acid
+2783,Carnosine,305-84-0,439224,(2S)-2-(3-aminopropanoylamino)-3-(1H-imidazol-5-yl)propanoic acid
+2784,Butylated hydroxytoluene,128-37-0,31404,"2,6-ditert-butyl-4-methylphenol"
+2785,D-beta-hydroxybutyrate,625-72-9,92135,(3R)-3-hydroxybutanoic acid
+2786,Matairesinol,580-72-3,119205,"(3R,4R)-3,4-bis[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"
+2787,Nitrendipine,39562-70-4,4507,"5-O-ethyl 3-O-methyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate"
+2788,Oxaloacetate,328-42-7,970,2-oxobutanedioic acid
+2789,Oxatomide,60607-34-3,4615,3-[3-(4-benzhydrylpiperazin-1-yl)propyl]-1H-benzimidazol-2-one
+2790,Simvastatin,79902-63-9,54454,"[(1S,3R,7S,8S,8aR)-8-[2-[(2R,4R)-4-hydroxy-6-oxooxan-2-yl]ethyl]-3,7-dimethyl-1,2,3,7,8,8a-hexahydronaphthalen-1-yl] 2,2-dimethylbutanoate"
+2791,Vitamin E,59-02-9,14985,"(2R)-2,5,7,8-tetramethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
+2792,Alpha-lipoic acid,1077-28-7,864,5-(dithiolan-3-yl)pentanoic acid
+2793,Dihydroergotamine methanesulfonate,6190-39-2,71171,NULL
+2794,SP600125,129-56-6,8515,NULL
+2795,"3,4-dihydroxybenzaldehyde",139-85-5,8768,"3,4-dihydroxybenzaldehyde"
+2796,Acetic Acid,64-19-7,176,acetic acid
+2797,Cyproterone acetate,427-51-0,9880,NULL
+2798,Metergoline,17692-51-2,28693,"benzyl N-[[(6aR,9S,10aR)-4,7-dimethyl-6,6a,8,9,10,10a-hexahydroindolo[4,3-fg]quinoline-9-yl]methyl]carbamate"
+2799,Nicardipine hydrochloride,69441-18-5,41114,"5-O-[2-[benzyl(methyl)amino]ethyl] 3-O-methyl 2,6-dimethyl-4-(3-nitrophenyl)-1,4-dihydropyridine-3,5-dicarboxylate;hydrochloride"
+2800,Quercetin dihydrate,6151-25-3,5284452,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one;dihydrate"
+2801,Vitamin D3,1406-16-2,5280795,"(1S,3Z)-3-[(2E)-2-[(1R,3aS,7aR)-7a-methyl-1-[(2R)-6-methylheptan-2-yl]-2,3,3a,5,6,7-hexahydro-1H-inden-4-ylidene]ethylidene]-4-methylidenecyclohexan-1-ol"
+2802,Melatonin,73-31-4,896,N-[2-(5-methoxy-1H-indol-3-yl)ethyl]acetamide
+2803,Tyrphostin AG 1295,71897-07-9,2048,"6,7-dimethyl-2-phenylquinoxaline"
+2804,Beta-caryophyllene,87-44-5,5281515,"(1R,4E,9S)-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undec-4-ene"
+2805,Gluconate,133-42-6,10690,"(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoic acid"
+2806,Gluconic acid,133-42-6,10690,"(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoic acid"
+2807,Acarbose,56180-94-0,41774,"(3R,4R,5S,6R)-5-[(2R,3R,4R,5S,6R)-5-[(2R,3R,4S,5S,6R)-3,4-dihydroxy-6-methyl-5-[[(1S,4R,5S,6S)-4,5,6-trihydroxy-3-(hydroxymethyl)cyclohex-2-en-1-yl]amino]oxan-2-yl]oxy-3,4-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-(hydroxymethyl)oxane-2,3,4-triol"
+2808,Naphthazarin,475-38-7,10141,"5,8-dihydroxynaphthalene-1,4-dione"
+2809,Serine,56-45-1,5951,(2S)-2-amino-3-hydroxypropanoic acid
+2810,Allantoin,97-59-6,204,"(2,5-dioxoimidazolidin-4-yl)urea"
+2811,Chicoric acid,6537-80-0,5281764,"(2R,3R)-2,3-bis[[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxy]butanedioic acid"
+2812,Gamma-tocopherol,54-28-4,92729,"(2R)-2,7,8-trimethyl-2-[(4R,8R)-4,8,12-trimethyltridecyl]-3,4-dihydrochromen-6-ol"
+2813,Nortriptyline hydrochloride,894-71-3,441358,"3-(5,6-dihydrodibenzo[2,1-b:2',1'-f][7]annulen-11-ylidene)-N-methylpropan-1-amine;hydrochloride"
+2814,Tocotrienol,6829-55-6,9929901,"2-methyl-2-[(3E,7E)-4,8,12-trimethyltrideca-3,7,11-trienyl]-3,4-dihydrochromen-6-ol"
+2815,LY-294002,154447-36-6,3973,2-morpholin-4-yl-8-phenylchromen-4-one
+2816,Rifamycin SV,6998-60-3,6324616,NULL
+2817,Cortisone,53-06-5,222786,"(8S,9S,10R,13S,14S,17R)-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,12,14,15,16-decahydrocyclopenta[a]phenanthrene-3,11-dione"
+2818,Icariin,489-32-7,5318997,"5-hydroxy-2-(4-methoxyphenyl)-8-(3-methylbut-2-enyl)-7-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-3-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxychromen-4-one"
+2819,Rapamycin,53123-88-9,5284616,NULL
+2820,"2,4-dinitrophenol",51-28-5,1493,NULL
+2821,Epigallocatechin-3-gallate,989-51-5,65064,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate"
+2822,Polyphenols,989-51-5,65064,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate"
+2823,Green tea extract,989-51-5,65064,"[(2R,3R)-5,7-dihydroxy-2-(3,4,5-trihydroxyphenyl)-3,4-dihydro-2H-chromen-3-yl] 3,4,5-trihydroxybenzoate"
+2824,KN-93,139298-40-1,5312122,N-[2-[[[(E)-3-(4-chlorophenyl)prop-2-enyl]-methylamino]methyl]phenyl]-N-(2-hydroxyethyl)-4-methoxybenzenesulfonamide
+2825,Nicotinamide riboside,1341-23-7,439924,"1-[(2R,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]pyridin-1-ium-3-carboxamide"
+2826,Pregnenolone,145-13-1,8955,"1-[(3S,8S,9S,10R,13S,14S,17S)-3-hydroxy-10,13-dimethyl-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-17-yl]ethanone"
+2827,Propionylpromazine hydrochloride,7681-67-6,24351,1-[10-[3-(dimethylamino)propyl]phenothiazin-2-yl]propan-1-one;hydrochloride
+2828,Ethoxyquin,91-53-2,3293,"6-ethoxy-2,2,4-trimethyl-1H-quinoline"
+2829,Tyrphostin AG 1478,175178-82-2,2051,"N-(3-chlorophenyl)-6,7-dimethoxyquinazolin-4-amine"
+2830,Tyrosol,501-94-0,10393,4-(2-hydroxyethyl)phenol
+2831,Celecoxib,169590-42-5,2662,4-[5-(4-methylphenyl)-3-(trifluoromethyl)pyrazol-1-yl]benzenesulfonamide
+2832,Coenzyme Q10,303-98-0,5281915,"2-[(2E,6E,10E,14E,18E,22E,26E,30E,34E)-3,7,11,15,19,23,27,31,35,39-decamethyltetraconta-2,6,10,14,18,22,26,30,34,38-decaenyl]-5,6-dimethoxy-3-methylcyclohexa-2,5-diene-1,4-dione"
+2833,Fenofibrate,49562-28-9,3339,propan-2-yl 2-[4-(4-chlorobenzoyl)phenoxy]-2-methylpropanoate
+2834,Proline,37159-97-0,145742,(2S)-pyrrolidine-2-carboxylic acid
+2835,Quercetin,117-39-5,5280343,"2-(3,4-dihydroxyphenyl)-3,5,7-trihydroxychromen-4-one"
+2836,Tannic acid,1401-55-4,16129778,NULL
+2837,Tyrphostin 1,2826-26-8,2063,2-[(4-methoxyphenyl)methylidene]propanedinitrile
+2838,BRL 50481,433695-36-4,2921148,"N,N,2-trimethyl-5-nitrobenzenesulfonamide"
+2839,Cyclosporin A,59865-13-3,5284373,"(3S,6S,9S,12R,15S,18S,21S,24S,30S,33S)-30-ethyl-33-[(E,1R,2R)-1-hydroxy-2-methylhex-4-enyl]-1,4,7,10,12,15,19,25,28-nonamethyl-6,9,18,24-tetrakis(2-methylpropyl)-3,21-di(propan-2-yl)-1,4,7,10,13,16,19,22,25,28,31-undecazacyclotritriacontane-2,5,8,11,14,17,20,23,26,29,32-undecone"
+2840,D-aspartate,1783-96-6,83887,(2R)-2-aminobutanedioic acid
+2841,D-glutamate,6893-26-1,23327,(2R)-2-aminopentanedioic acid
+2842,Doxycycline hydrochloride,10592-13-9,54685920,"(4S,4aR,5S,5aR,6R,12aR)-4-(dimethylamino)-1,5,10,11,12a-pentahydroxy-6-methyl-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride"
+2843,Erbstatin analog,63177-57-1,5353609,"methyl (E)-3-(2,5-dihydroxyphenyl)prop-2-enoate"
+2844,HA-1004,91742-10-8,16760499,2-[2-(isoquinolin-5-ylsulfonylamino)ethyl]guanidine;dihydrochloride
+2845,Loratadine,79794-75-5,3957,"ethyl 4-(8-chloro-5,6-dihydrobenzo[1,2]cyclohepta[2,4-b]pyridin-11-ylidene)piperidine-1-carboxylate"
+2846,AG-490,133550-30-8,5328779,"(E)-N-benzyl-2-cyano-3-(3,4-dihydroxyphenyl)prop-2-enamide"
+2847,Celastrol,34157-83-0,122724,"(2R,4aS,6aR,6aS,14aS,14bR)-10-hydroxy-2,4a,6a,6a,9,14a-hexamethyl-11-oxo-1,3,4,5,6,13,14,14b-octahydropicene-2-carboxylic acid"
+2848,Ginkgo biloba extract,111-30-8,3485,pentanedial
+2849,Tyrphostin 9,10537-47-0,5614,"2-[(3,5-ditert-butyl-4-hydroxyphenyl)methylidene]propanedinitrile"
+2850,Lamotrigine,84057-84-1,3878,"6-(2,3-dichlorophenyl)-1,2,4-triazine-3,5-diamine"
+2851,Vitexin,3681-93-4,5280441,"5,7-dihydroxy-2-(4-hydroxyphenyl)-8-[(2S,3R,4R,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]chromen-4-one"
+2852,D-chiro-inositol,87-89-8,892,"cyclohexane-1,2,3,4,5,6-hexol"
+2853,Inositol,87-89-8,892,"cyclohexane-1,2,3,4,5,6-hexol"
+2854,L-deprenyl,14611-51-9,26757,(2R)-N-methyl-1-phenyl-N-prop-2-ynylpropan-2-amine
+2855,Everolimus,159351-69-6,6442177,
+2856,"3,3'-thiodipropionic acid",111-17-1,8096,3-(2-carboxyethylsulfanyl)propanoic acid
+2857,Thyroxin,51-48-9,5819,"(2S)-2-amino-3-[4-(4-hydroxy-3,5-diiodophenoxy)-3,5-diiodophenyl]propanoic acid"
+2858,Agmatine,306-60-5,199,2-(4-aminobutyl)guanidine
+2859,Clofibrate,637-07-0,2796,ethyl 2-(4-chlorophenoxy)-2-methylpropanoate
+2860,Cysteine,52-90-4,5862,(2R)-2-amino-3-sulfanylpropanoic acid
+2861,D-alanine,338-69-2,71080,(2R)-2-aminopropanoic acid
+2862,Demeclocycline hydrochloride,64-73-3,54686764,"(4S,4aS,5aS,6S,12aR)-7-chloro-4-(dimethylamino)-1,6,10,11,12a-pentahydroxy-3,12-dioxo-4a,5,5a,6-tetrahydro-4H-tetracene-2-carboxamide;hydrochloride"
+2863,Eliprodil,119431-25-3,60703,1-(4-chlorophenyl)-2-[4-[(4-fluorophenyl)methyl]piperidin-1-yl]ethanol
+2864,Fumarate,142-42-7,5460307,(E)-but-2-enedioate
+2865,Glutamine,56-85-9,5961,"(2S)-2,5-diamino-5-oxopentanoic acid"
+2866,Leucine,61-90-5,6106,(2S)-2-amino-4-methylpentanoic acid
+2867,Pyrrolidine dithiocarbamate,25769-03-3,65351,pyrrolidine-1-carbodithioic acid
+2868,Sevelamer,52757-95-6,3085017,2-(chloromethyl)oxirane;prop-2-en-1-amine
+2869,Chloramphenicol,56-75-7,5959,"2,2-dichloro-N-[(1R,2R)-1,3-dihydroxy-1-(4-nitrophenyl)propan-2-yl]acetamide"
+2870,Dehydroabietic acid,1740-19-8,94391,"(1R,4aS,10aR)-1,4a-dimethyl-7-propan-2-yl-2,3,4,9,10,10a-hexahydrophenanthrene-1-carboxylic acid"
+2871,Lactic acid,50-21-5,612,2-hydroxypropanoic acid
+2872,Specioside,72514-90-0,11948661,"[(1aS,1bS,2S,5aR,6S,6aS)-1a-(hydroxymethyl)-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,5a,6,6a-tetrahydro-1bH-oxireno[5,6]cyclopenta[1,3-c]pyran-6-yl] (E)-3-(4-hydroxyphenyl)prop-2-enoate"
+2873,Arctiin,20362-31-6,100528,"(3R,4R)-4-[(3,4-dimethoxyphenyl)methyl]-3-[[3-methoxy-4-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxyphenyl]methyl]oxolan-2-one"
+2874,Propyl gallate,121-79-9,4947,"propyl 3,4,5-trihydroxybenzoate"
+2875,Arginine,74-79-3,6322,(2S)-2-amino-5-(diaminomethylideneamino)pentanoic acid
+2876,Aurintricarboxylic acid,4431-00-9,2259,"5-[(3-carboxy-4-hydroxyphenyl)-(3-carboxy-4-oxocyclohexa-2,5-dien-1-ylidene)methyl]-2-hydroxybenzoic acid"
+2877,Cinnarizine,298-57-7,1547484,1-benzhydryl-4-[(E)-3-phenylprop-2-enyl]piperazine
+2878,DAPH,145915-58-8,1697,"5,6-dianilinoisoindole-1,3-dione"
+2879,Doxazosin mesylate,77883-43-3,62978,"[4-(4-amino-6,7-dimethoxyquinazolin-2-yl)piperazin-1-yl]-(2,3-dihydro-1,4-benzodioxin-3-yl)methanone;methanesulfonic acid"
+2880,Guanfacine hydrochloride,29110-48-3,71401,"N-(diaminomethylidene)-2-(2,6-dichlorophenyl)acetamide;hydrochloride"
+2881,Hexahydro-sila-diphenidol,98299-40-2,3602,cyclohexyl-hydroxy-phenyl-(3-piperidin-1-ylpropyl)silane
+2882,Nicotinamide adenine dinucleotide,53-84-9,5892,"[[(2R,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] [(2R,3S,4R,5R)-5-(3-carbamoylpyridin-1-ium-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl phosphate"
+2883,Oxoline,30266-58-1,169137,"naphthalene-1,2,3,4-tetrone"
+2884,Plumbagin,481-42-5,10205,"5-hydroxy-2-methylnaphthalene-1,4-dione"
+2885,Vinpocetine,42971-09-5,443955,NULL
+2886,Dibromoacetic acid,631-64-1,12433,"2,2-dibromoacetic acid"
+2887,Sodium butyrate,156-54-7,5222465,sodium;butanoate
+2888,HA-1077,103745-39-7,3547,"5-(1,4-diazepan-1-ylsulfonyl)isoquinoline"
+2889,Sesamin,607-80-7,72307,"5-[(3S,3aR,6S,6aR)-3-(1,3-benzodioxol-5-yl)-1,3,3a,4,6,6a-hexahydrofuro[3,4-c]furan-6-yl]-1,3-benzodioxole"
+2890,Fucoxanthin,3351-86-8,5281239,"[(1S,3R)-3-hydroxy-4-[(3E,5E,7E,9E,11E,13E,15E)-18-[(1R,3S,6S)-3-hydroxy-1,5,5-trimethyl-7-oxabicyclo[4.1.0]heptan-6-yl]-3,7,12,16-tetramethyl-17-oxooctadeca-1,3,5,7,9,11,13,15-octaenylidene]-3,5,5-trimethylcyclohexyl] acetate"
+2891,Glutamate,25513-46-6,33032,(2S)-2-aminopentanedioic acid
+2892,L-theanine,3081-61-6,439378,(2S)-2-amino-5-(ethylamino)-5-oxopentanoic acid
+2893,Malate,149-61-1,160434,2-hydroxybutanedioate
+2894,Methionine,63-68-3,6137,(2S)-2-amino-4-methylsulfanylbutanoic acid
+2895,Naftopidil dihydrochloride,57149-08-3,11957660,1-[4-(2-methoxyphenyl)piperazin-1-yl]-3-naphthalen-1-yloxypropan-2-ol;dihydrochloride
+2896,Tryptophan,73-22-3,6305,(2S)-2-amino-3-(1H-indol-3-yl)propanoic acid
+2897,Salicylic acid,69-72-7,338,2-hydroxybenzoic acid
+2898,Sodium pyruvate,113-24-6,23662274,sodium;2-oxopropanoate
+2899,Huperzine A,102518-79-6,854026,NULL
+2900,Arctigenin,7770-78-7,64981,"(3R,4R)-4-[(3,4-dimethoxyphenyl)methyl]-3-[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"
+2901,Beta-Guanidinopropionic acid,353-09-3,67701,3-(diaminomethylideneamino)propanoic acid
+2902,"3,4-dichloroisocoumarin",51050-59-0,1609,"3,4-dichloroisochromen-1-one"
+2903,Beta-alanine,107-95-9,239,3-aminopropanoic acid
+2904,Bezafibrate,41859-67-0,39042,2-[4-[2-[(4-chlorobenzoyl)amino]ethyl]phenoxy]-2-methylpropanoic acid
+2905,Catechin,154-23-4,9064,"(2R,3S)-2-(3,4-dihydroxyphenyl)-3,4-dihydro-2H-chromene-3,5,7-triol"
+2906,Danazol,17230-88-5,28417,NULL
+2907,Diallyl trisulfide,2050-87-5,16315,3-(prop-2-enyltrisulfanyl)prop-1-ene
+2908,Homocysteine,454-29-5,778,2-amino-4-sulfanylbutanoic acid
+2909,Ketanserin tartrate,83846-83-7,135348,"2,3-dihydroxybutanedioic acid;3-[2-[4-(4-fluorobenzoyl)piperidin-1-yl]ethyl]-1H-quinazoline-2,4-dione"
+2910,Valine,72-18-4,6287,(2S)-2-amino-3-methylbutanoic acid
+2911,Lappaol F,69394-17-8,73425459,"(3R,4R)-3,4-bis[[(2S,3R)-2-(4-hydroxy-3-methoxyphenyl)-3-(hydroxymethyl)-7-methoxy-2,3-dihydro-1-benzofuran-5-yl]methyl]oxolan-2-one"
+2912,Pinitol,484-68-4,164619,"(1S,2S,4S,5R)-6-methoxycyclohexane-1,2,3,4,5-pentol"
+2915,"1,2,4-triazolo[1,5-a]pyridine",274-85-1,67508,"[1,2,4]triazolo[1,5-a]pyridine"
+2916,Branched-Chain Amino Acids,77431-55-1,9907842,"(2S)-2-amino-3-methylbutanoic acid;(2S)-2-amino-4-methylpentanoic acid;(2S,3S)-2-amino-3-methylpentanoic acid"
+2917,Guanabenz acetate,23256-50-0,5702062,"acetic acid;2-[(E)-(2,6-dichlorophenyl)methylideneamino]guanidine"
+2918,Histidine,71-00-1,6274,(2S)-2-amino-3-(1H-imidazol-5-yl)propanoic acid
+2919,N-acetyl-l-histidine,01/02/2497,75619,(2S)-2-acetamido-3-(1H-imidazol-5-yl)propanoic acid
+2920,Phosphoenolpyruvate,138-08-9,1005,2-phosphonooxyprop-2-enoic acid
+2921,Quinidine sulfate,6591-63-5,5768,"(S)-[(2R,5R)-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol;sulfuric acid"
+2922,Trametinib,871700-17-3,11707110,"N-[3-[3-cyclopropyl-5-(2-fluoro-4-iodoanilino)-6,8-dimethyl-2,4,7-trioxopyrido[4,3-d]pyrimidin-1-yl]phenyl]acetamide"
+2923,Vincristine sulfate,2068-78-2,249332,NULL
+2924,Tetrahydrocurcumin,36062-04-1,124072,"1,7-bis(4-hydroxy-3-methoxyphenyl)heptane-3,5-dione"
+2925,Lappaol C,64855-00-1,46173978,"(3R,4R)-4-[[3-[1,3-dihydroxy-1-(4-hydroxy-3-methoxyphenyl)propan-2-yl]-4-hydroxy-5-methoxyphenyl]methyl]-3-[(4-hydroxy-3-methoxyphenyl)methyl]oxolan-2-one"
+2926,Lutein,127-40-2,5281243,"(1R)-4-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-18-[(1R,4R)-4-hydroxy-2,6,6-trimethylcyclohex-2-en-1-yl]-3,7,12,16-tetramethyloctadeca-1,3,5,7,9,11,13,15,17-nonaenyl]-3,5,5-trimethylcyclohex-3-en-1-ol"
+2927,"7-cyclopentyl-5-(4-phenoxy)phenyl-7H-pyrrolo[2,3-d]pyrimidin-4-ylamine",213743-31-8,6603792,"7-cyclopentyl-5-(4-phenoxyphenyl)pyrrolo[2,3-d]pyrimidin-4-amine"
+2928,Alanine,302-72-7,602,2-aminopropanoic acid
+2929,Caffeic acid,331-39-5,689043,"(E)-3-(3,4-dihydroxyphenyl)prop-2-enoic acid"
+2930,D-glucosamine,90-77-7,439213,"(3R,4R,5S,6R)-3-amino-6-(hydroxymethyl)oxane-2,4,5-triol"
+2931,Succinate,56-14-4,160419,butanedioate
+2932,Taurine,107-35-7,1123,2-aminoethanesulfonic acid
+2933,10-hydroxy-2-decenoic Acid,765-01-5,5312738,(E)-10-hydroxydec-2-enoic acid
+2934,BRL 15572,193611-72-2,3654103,"3-[4-(3-chlorophenyl)piperazin-1-yl]-1,1-diphenylpropan-2-ol"
+2935,Gallic Acid,149-91-7,370,"3,4,5-trihydroxybenzoic acid"
+2936,Glycine,56-40-6,750,2-aminoacetic acid
+2937,Metoprolol,51384-51-1,4171,1-[4-(2-methoxyethyl)phenoxy]-3-(propan-2-ylamino)propan-2-ol
+2938,Putrescine,110-60-1,1045,"butane-1,4-diamine"
+2939,Rosmarinic acid,537-15-5,5281792,"(2R)-3-(3,4-dihydroxyphenyl)-2-[(E)-3-(3,4-dihydroxyphenyl)prop-2-enoyl]oxypropanoic acid"
+2940,Rotenone,83-79-4,6758,NULL
+2941,Tyrosine,60-18-4,6057,(2S)-2-amino-3-(4-hydroxyphenyl)propanoic acid
+2942,Betaine,107-43-7,247,2-(trimethylazaniumyl)acetate
+2943,Caffeic acid phenethylester,104594-70-9,5281787,"2-phenylethyl (E)-3-(3,4-dihydroxyphenyl)prop-2-enoate"
+2944,L-histidine methyl ester,1499-46-3,92893,methyl (2S)-2-amino-3-(1H-imidazol-5-yl)propanoate
+2945,Ribose,10257-32-6,10975657,"(3R,4R,5R)-oxane-2,3,4,5-tetrol"
+2946,SRT1720,1001645-58-4,25232708,"N-[2-[3-(piperazin-1-ylmethyl)imidazo[2,1-b][1,3]thiazol-6-yl]phenyl]quinoxaline-2-carboxamide;hydrochloride"
+2947,Indirubin,479-41-4,5359405,(3E)-3-(3-oxo-1H-indol-2-ylidene)-1H-indol-2-one
+2948,Creatine,57-00-1,586,2-[carbamimidoyl(methyl)amino]acetic acid
+2949,Lonidamine,50264-69-2,39562,"1-[(2,4-dichlorophenyl)methyl]indazole-3-carboxylic acid"
+2950,Lysine,56-87-1,5962,"(2S)-2,6-diaminohexanoic acid"
+2951,MPTP,28289-54-5,1388,"1-methyl-4-phenyl-3,6-dihydro-2H-pyridine"
+2952,Ornithine,70-26-8,6262,"(2S)-2,5-diaminopentanoic acid"
+2953,Threonine,72-19-5,6288,"(2S,3R)-2-amino-3-hydroxybutanoic acid"
+2954,Dichloroacetate,13425-80-4,25975,"2,2-dichloroacetate"
+2955,Glaucarubinone,1259-86-5,441796,NULL
+2956,1-methyl nicotinamide,3106-60-3,457,1-methylpyridin-1-ium-3-carboxamide
+2957,"(R,R)-cis-Diethyl tetrahydro-2,8-chrysenediol",221368-54-3,446849,"(5R,11R)-5,11-diethyl-5,6,11,12-tetrahydrochrysene-2,8-diol"
+2958,Beta-Estradiol,50-28-2,5757,"(8R,9S,13S,14S,17S)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol"
+2959,Buformin,692-13-7,2468,2-butyl-1-(diaminomethylidene)guanidine
+2960,Caprylate,74-81-7,119389,octanoate
+2961,Picolinic acid,98-98-6,1018,pyridine-2-carboxylic acid
+2962,Nicotinamide,98-92-0,936,pyridine-3-carboxamide
+2963,Nebivolol,99200-09-6,71301,"1-(6-fluoro-3,4-dihydro-2H-chromen-2-yl)-2-[[2-(6-fluoro-3,4-dihydro-2H-chromen-2-yl)-2-hydroxyethyl]amino]ethanol"
+2964,Ivabradine,155974-00-8,132999,"3-[3-[[(7S)-3,4-dimethoxy-7-bicyclo[4.2.0]octa-1,3,5-trienyl]methyl-methylamino]propyl]-7,8-dimethoxy-2,5-dihydro-1H-3-benzazepin-4-one"
+2965,DL-lactate,113-21-3,91435,2-hydroxypropanoate
+2966,Galactose,10257-28-0,6036,"(3R,4S,5R,6R)-6-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+2967,Tartaric acid,133-37-9,875,"2,3-dihydroxybutanedioic acid"
+2968,Xylose,50855-32-8,135191,"(3R,4S,5R)-oxane-2,3,4,5-tetrol"
+2969,N-nitrosodimethylamine,62-75-9,6124,"N,N-dimethylnitrous amide"
+2970,Asparagine,70-47-3,6267,"(2S)-2,4-diamino-4-oxobutanoic acid"
+2971,Piericidin A,2738-64-9,6437838,"2-[(2E,5E,7E,9R,10R,11E)-10-hydroxy-3,7,9,11-tetramethyltrideca-2,5,7,11-tetraenyl]-5,6-dimethoxy-3-methyl-1H-pyridin-4-one"
+2972,SU 4312,07/07/5812,6450842,(3Z)-3-[[4-(dimethylamino)phenyl]methylidene]-1H-indol-2-one
+2973,Wortmannin,19545-26-7,312145,NULL
+2974,N-tert-butyl-alpha-phenylnitrone,3376-24-7,638877,N-tert-butyl-1-phenylmethanimine oxide
+2975,Morphine,57-27-2,5288826,"(4R,4aR,7S,7aR,12bS)-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol"
+2976,Isoleucine,73-32-5,6306,"(2S,3S)-2-amino-3-methylpentanoic acid"
+2977,N-(3-(aminomethyl)benzyl)acetamidine,180001-34-7,1433,N'-[[3-(aminomethyl)phenyl]methyl]ethanimidamide
+2978,Geldanamycin,30562-34-6,5288382,"[(3R,5S,6R,7S,8E,10S,11S,12Z,14E)-6-hydroxy-5,11,21-trimethoxy-3,7,9,15-tetramethyl-16,20,22-trioxo-17-azabicyclo[16.3.1]docosa-1(21),8,12,14,18-pentaen-10-yl] carbamate"
+2979,Calcium lactate,814-80-2,13144,calcium;2-hydroxypropanoate
+2980,GYY4137,106740-09-4,53393943,(4-methoxyphenyl)-morpholin-4-yl-sulfanylidene-sulfido-$l^{5}-phosphane;morpholin-4-ium
+2981,Methylene blue,61-73-4,6099,[7-(dimethylamino)phenothiazin-3-ylidene]-dimethylazanium;chloride
+2982,Calcium gluconate,299-28-5,9290,"calcium;(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanoate"
+2983,Glutathione,98726-08-0,124886,(2S)-2-amino-5-[[(2R)-1-(carboxymethylamino)-1-oxo-3-sulfanylpropan-2-yl]amino]-5-oxopentanoic acid
+2984,Myriocin,35891-70-4,6438394,"(E,2S,3R,4R)-2-amino-3,4-dihydroxy-2-(hydroxymethyl)-14-oxoicos-6-enoic acid"
+2985,Spermine,71-44-3,1103,"N,N'-bis(3-aminopropyl)butane-1,4-diamine"
+2986,Indolepropionamide,,NULL,
+2987,Shengmai yin,NULL,NULL,NULL
+2988,"3,5-dihydroxy-4'-thiomethyl-trans-stilbene",NULL,NULL,NULL
+2989,"Bis(1-hydroxy-2,2,6,6-tetramethyl-4-piperidinyl)-decandioate",NULL,NULL,NULL
+2990,Polypeptide Bovine Thymus extract,NULL,NULL,NULL
+2991,Peyssonnelia sp. extract,NULL,NULL,NULL
+2992,Oregano and Cranberry extracts,NULL,NULL,NULL
+2993,Butylated hydroxyanisole,25013-16-5,24667,2-tert-butyl-4-methoxyphenol;3-tert-butyl-4-methoxyphenol
+2994,Eleutherococcus senticosus root extract,NULL,NULL,NULL
+2995,4-hydroxy-E-globularinin,NULL,NULL,NULL
+2996,Dauer-inducing Pheromone,NULL,NULL,NULL
+2997,Apple,NULL,NULL,NULL
+2998,Platycladus orientalis seed extract,NULL,NULL,NULL
+2999,Omega-6,NULL,NULL,NULL
+3000,DhHP-6,NULL,NULL,NULL
+3001,"3,5-dihydroxy-4'-acetoxy-trans-stilbene",NULL,NULL,NULL
+3002,Polypeptide Pineal extract,NULL,NULL,NULL
+3003,Panax notoginseng main root polysaccharide,NULL,NULL,NULL
+3004,Marine collagen peptides,NULL,NULL,NULL
+3005,Cinnamon Extract,NULL,NULL,NULL
+3006,Crude BB extract (Vaccinium angustifolium),NULL,NULL,NULL
+3008,Ludwigia octovalvis extract,NULL,NULL,NULL
+3009,Stachys lavandulifolia ethanol extract,NULL,NULL,NULL
+3010,Rhodiola rosea extract,NULL,NULL,NULL
+3011,Rasayana,NULL,NULL,NULL
+3012,Recombinant buckwheat trypsin inhibitor,NULL,NULL,NULL
+3013,Royal Jelly,NULL,NULL,NULL
+3014,"3,5-dihydroxy-4'-ethyl-trans-stilbene",NULL,NULL,NULL
+3015,Reishi polysaccharide,NULL,NULL,NULL
+3016,Procyanidins,NULL,NULL,NULL
+3017,CU701,NULL,NULL,NULL
+3018,Apple polyphenols,NULL,NULL,NULL
+3019,Q3M,NULL,NULL,NULL
+3020,Korean red ginseng tonic,NULL,NULL,NULL
+3021,Korean mistletoe extract,NULL,NULL,NULL
+3022,Royalactin,NULL,NULL,NULL
+3023,Ascr#2,NULL,NULL,NULL
+3024,Sesame,NULL,NULL,NULL
+3026,Cordyceps sinensis oral liquid,NULL,NULL,NULL
+3027,Platinum nanoparticles,NULL,NULL,NULL
+3028,Electrolyzed reduced water,NULL,NULL,NULL
+3029,Protease treated royal jelly,NULL,NULL,NULL
+3030,Erchen wan,NULL,NULL,NULL
+3031,Rhodiola rosea root extract,NULL,NULL,NULL
+3032,Acacetin 7-O-alpha-l-rhamnopyranosyl (1_2) beta-D-xylopyranoside,NULL,NULL,NULL
+3033,Whole apple extract,NULL,NULL,NULL
+3034,"S,S-trolox-carnosine",NULL,NULL,NULL
+3035,Huanshao dan,NULL,NULL,NULL
+3036,Apple flesh,NULL,NULL,NULL
+3037,Phaseolus vulgaris Extract,NULL,NULL,NULL
+3038,HF-HQ,NULL,NULL,NULL
+3039,Olive Oil,NULL,NULL,NULL
+3040,Pomegrenate juice,NULL,NULL,NULL
+3041,Proanthocyanidins from Kunlun Chrysanthemum flowers,NULL,NULL,NULL
+3042,Damnacanthus officinarum root extract,NULL,NULL,NULL
+3043,Proanthocycanidin,NULL,NULL,NULL
+3044,Turmeric powder,NULL,NULL,NULL
+3045,Black tea extract,NULL,NULL,NULL
+3046,VI-28,NULL,NULL,NULL
+3047,Stachys lavandulifolia water extract,NULL,NULL,NULL
+3048,HuminFeed,NULL,NULL,NULL
+3049,Liuwei dihuang wan,NULL,NULL,NULL
+3050,SQDB,NULL,NULL,NULL
+3051,L-Glu-L-Trp dipeptide,NULL,NULL,NULL
+3052,Cocoa,NULL,NULL,NULL
+3053,Echinacea purpurea root,NULL,NULL,NULL
+3054,Jania acutilobum extract,NULL,NULL,NULL
+3055,Apple peal,NULL,NULL,NULL
+3056,PP2 AG1879,NULL,NULL,NULL
+3057,Acticoa powder,NULL,NULL,NULL
+3058,Q3'G,NULL,NULL,NULL
+3059,Freeze dried royal jelly,NULL,NULL,NULL
+3060,Acanthophora spicifera extract,NULL,NULL,NULL
+3061,Green tea polyphenols,NULL,NULL,NULL
+3062,Black rice extract,NULL,NULL,NULL
+3063,Damnacanthus officinarum leaf extract,NULL,NULL,NULL
+3064,Acanthopanax sessiliflorus stem extract,NULL,NULL,NULL
+3065,Rosa damascena extract,NULL,NULL,NULL
+3066,Cranberry anthocyanin extract,NULL,NULL,NULL
+3067,Astragalus membranaceus polysaccharide,NULL,NULL,NULL
+3068,Garlic extract,NULL,NULL,NULL
+3069,Fish oil,NULL,NULL,NULL
+3070,Soybean trypsin inhibitor,NULL,NULL,NULL
+3071,Nectarine,NULL,NULL,NULL
+3073,4-dafachronic acid,NULL,NULL,NULL
+3074,Shiquan dabu wan,NULL,NULL,NULL
+3075,Medium-chain triglyceride oil,NULL,NULL,NULL
+3076,DL-isocitrate,NULL,NULL,NULL
+3077,Pine Bark extract,NULL,NULL,NULL
+3078,Ascr#3,NULL,NULL,NULL
+3079,Sodium borate,NULL,NULL,NULL
+3080,Emblica officinalis,90028-28-7,NULL,
+3081,Mulberry leaf polyphenols,NULL,NULL,NULL
+3082,Cynomorium songaricum Rupr.,NULL,NULL,NULL
+3083,Psoralea corylifolia extract,NULL,NULL,NULL
+3084,Rhodiola rosea,NULL,NULL,NULL
+3085,AU701,NULL,NULL,NULL
+3086,Tea (Camellia sinensis) extract,NULL,NULL,NULL
+3087,Arsenite,NULL,NULL,NULL
+3088,Blueberry extract,84082-34-8,NULL,
+3089,(Iso)lappaol A,NULL,NULL,NULL
+3090,AMN082,NULL,11698390,"N,N'-dibenzhydrylethane-1,2-diamine;dihydrochloride"
+3091,Psora-4,NULL,6603977,"4-(4-phenylbutoxy)furo[3,2-g]chromen-7-one"
+3092,LFM-A13,NULL,54676905,"(Z)-2-cyano-N-(2,5-dibromophenyl)-3-hydroxybut-2-enamide"
+3093,Verminoside,NULL,12000883,"[(1aS,1bS,2S,5aR,6S,6aS)-1a-(hydroxymethyl)-2-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2,5a,6,6a-tetrahydro-1bH-oxireno[5,6]cyclopenta[1,3-c]pyran-6-yl] (E)-3-(3,4-dihydroxyphenyl)prop-2-enoate"
+3094,N-(2-[4-(4-chlorophenyl)piperazin-1-yl]ethyl)-3-methoxybenzamide,NULL,3626837,N-[2-[4-(4-chlorophenyl)piperazin-1-yl]ethyl]-3-methoxybenzamide
+3095,Dafadine-A,NULL,24790866,"[5-[(2,6-dimethylphenoxy)methyl]-1,2-oxazol-3-yl]-(4-pyridin-4-ylpiperidin-1-yl)methanone"
+3096,Nolinospiroside F,NULL,21630160,NULL
+3097,Tartrate,NULL,3806114,"2,3-dihydroxybutanedioate"
+3098,BTCP hydrochloride,NULL,11957484,1-[1-(1-benzothiophen-2-yl)cyclohexyl]piperidine;hydrochloride
+3099,Cortexolone maleate,NULL,6604000,5-(dimethylamino)-N-[4-[4-(2-methoxyphenyl)piperazin-1-yl]butyl]naphthalene-1-sulfonamide
+3100,Ferulsinaic acid,NULL,102469382,"3-[(1R,2R,3S,5S)-1,3-dimethyl-5-(2-methylprop-1-enyl)-2-[(2-oxochromen-7-yl)oxymethyl]cyclopentyl]propanoic acid"
+3101,"LY-367,265",NULL,4605800,NULL
+3102,Otophylloside B,NULL,10079485,"[(3S,8S,9R,10R,12R,13S,14R,17S)-17-acetyl-8,14,17-trihydroxy-3-[(2R,4S,5R,6R)-5-[(2S,4S,5R,6R)-5-[(2S,4R,5R,6R)-5-hydroxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-4-methoxy-6-methyloxan-2-yl]oxy-10,13-dimethyl-1,2,3,4,7,9,11,12,15,16-decahydrocyclopenta[a]phenanthren-12-yl] (E)-3,4-dimethylpent-2-enoate"
+3103,4-phenyl-3-furoxancarbonitrile,NULL,1756,"2-oxido-4-phenyl-1,2,5-oxadiazol-2-ium-3-carbonitrile"
+3196,Ascorbic acid,50-81-7,54670067,"(2R)-2-[(1S)-1,2-dihydroxyethyl]-3,4-dihydroxy-2H-furan-5-one"
+3197,Cranberry extract,NULL,NULL,NULL
+3198,Bacitracin,1405-87-4,56679083,"(4S)-4-[[(2R)-2-[[(4S)-2-[(1R,2S)-1-amino-2-methylbutyl]-4,5-dihydro-1,3-thiazole-4-carbonyl]amino]-4-methylpentanoyl]amino]-5-[[(2R,3S)-1-[[(3R,6S,9R,12S,15R,18S,21R)-3-(2-amino-2-oxoethyl)-18-(3-aminopropyl)-12-benzyl-15-[(2S)-butan-2-yl]-6-(carboxymethyl)-9-(1H-imidazol-5-ylmethyl)-2,5,8,11,14,17,20-heptaoxo-1,4,7,10,13,16,19-heptazacyclopentacos-21-yl]amino]-3-methyl-1-oxopentan-2-yl]amino]-5-oxopentanoic acid"
+3199,Hydralazine,86-54-4,3637,phthalazin-1-ylhydrazine
+3200,Torin 1,1222998-36-8,49836027,"1-[4-(4-propanoylpiperazin-1-yl)-3-(trifluoromethyl)phenyl]-9-quinolin-3-ylbenzo[h][1,6]naphthyridin-2-one"
+3201,Ikarugamycin,36531-78-9,57369669,"(2R,3R,3aS,5aR,5bR,7Z,14S,19E,20aR,21aR,21bR)-3-ethyl-22-hydroxy-2-methyl-2,3,3a,5a,5b,6,10,11,12,13,14,15,20a,21,21a,21b-hexadecahydro-1H-14,17-(metheno)-as-indaceno[3,2-k][1,6]diazacycloheptadecine-9,16,18(17H)-trione"
+3202,J147,1146963-51-0,25229652,"N-(2,4-dimethylphenyl)-2,2,2-trifluoro-N-[(E)-(3-methoxyphenyl)methylideneamino]acetamide"
+3203,Naringin,10236-47-2,442428,"7-[[2-O-(6-Deoxy-Œ±-L-mannopyranosyl)-Œ≤-D-glucopyranosyl]oxy]-2,3-dihydro-5-hydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one"
+3204,Luteolin,491-70-3,5280445,"2-(3,4-Dihydroxyphenyl)- 5,7-dihydroxy-4-chromenone"
+3205,Chy,,NULL,
+3206,Chrysin,480-40-0,5281607,"5,7-Dihydroxy-2-phenyl-4H-chromen-4-one"
+3207,BP-C3,,NULL,
+3208,Alaskan Blueberry Extract,,NULL,
+3209,"trans-3,5-dimethoxy-4-fluoro-4'-hydroxystilbene",,NULL,
+3210,"trans-2,40,5-trihydroxystilbene",,NULL,
+3211,A.sinensis root peptides,,NULL,
+3212,Selenocysteine, 10236-58-5,25076,3-Selanyl-2-aminopropanoic acid
+3213,Guduchi Churna,,NULL,
+3214,S-allylmercapto-N-acetylcysteine,,NULL,
+3215,2-deoxy-D-glucose,‚Äé154-17-6\t,108223,"(4R,5S,6R)-6-(hydroxymethyl)oxane-2,4,5-triol"
+3216,D-glucose,50-99-7,5793,"(2R,3S,4R,5R)-2,3,4,5,6-pentahydroxyhexanol"
+3217,Hon Tsai Tai Extract,,NULL,
+3218,2-Selenium-bridged Œ≤-cyclodextrin,,NULL,
+3219,2-Selenium-bridged-beta-cyclodextrin,,NULL,
+3220,"2,5-Dimethyl-Celecoxib",457639-26-8,329798845,"4-[5-(2,5-dimethylphenyl)-3-(trifluoromethyl)-1H-pyrazol-1-yl]-benzenesulfonamide"
+3221,Quinoa Leachate,,NULL,
+3222,Œ±‚Äêlinolenic acid,463-40-1,5280934,"(9Z,12Z,15Z)-9,12,15-Octadecatrienoic acid"
+3223,d-Allulose,551-68-8,441036,"(3R,4R,5R)-1,3,4,5,6-Pentahydroxyhexan-2-one"
+3224,Platanus orientalis Extract,,NULL,
+3225,Tiliroside,5320686,20316625,"[(2R,3S,4S,5R,6S)-6-[5,7-dihydroxy-2-(4-hydroxyphenyl)-4-oxochromen-3-yl]oxy-3,4,5-trihydroxyoxan-2-yl]methyl (E)-3-(4-hydroxyphenyl)prop-2-enoate"
+3226,Indole,120-72-9,798,1H-indole
+3227,Tyrosine-Alanine Dipeptide,,NULL,
+3228,Œ±‚Äêketoisovalerate,759-05-7,49,3-Methyl-2-oxobutanoic acid
+3229,Œ±‚Äêketo‚ÄêŒ≤‚Äêmethylvalerate,1460-34-0,47,3-methyl-2-oxopentanoic acid
+3230,4‚Äêmethyl‚Äê2‚Äêoxovalerate,816-66-0,70,4-methyl-2-oxopentanoic acid
+3231,Pyruvate,57-60-3,107735,2-oxopropanoate
+3232,"2,4-pyridinedicarboxylic acid",499-80-9,10365,"pyridine-2,4-dicarboxylic acid"
+3233,Alkaline Water,,NULL,
+3234,Dafachronic Acid,949004-12-0,25172310,"(2S,6R)-6-[(5S,8R,9S,10S,13R,14S,17R)-10,13-dimethyl-3-oxo-1,2,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthren-17-yl]-2-methylheptanoic acid"
+3235,Nitrophenyl piperazine containing compound 1,,NULL,
+3236,Withanolide A,32911-62-9,11294368,"5-[1-(4,5-dimethyl-6-oxo-3,6-dihydro-2H-pyran-2-yl)-1-hydroxyethyl]-5-hydroxy-10,14-dimethyl-3-oxapentacyclo[9.7.0.0¬≤,‚Å¥.0‚Åµ,¬π‚Å∞.0¬π‚Å¥,¬π‚Å∏]octadec-7-en-9-one"
+3237,M084,51314-51-3 ,121513894,N-Butyl-1H-benzimidazol-2-amine hydrochloride
+3238,17‚ÄêŒ±‚Äêestradiol, 57-91-0,68570,"(8R,9S,13S,14S,17R)-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol"
+3239,Protandim,,NULL,
+3240,Colanic acid,9012-87-7,NULL,
+3241,Powdered Broccoli Lyophilisate,,NULL,
+3242,Prunetin,552-59-0,5281804,5-hydroxy-3-(4-hydroxyphenyl)-7-methoxychromen-4-one
+3243,L-Leucine,61-90-5,6106,(2S)-2-amino-4-methylpentanoic acid
+3244,L-Valine,72-18-4,24900695,(2S)-2-amino-3-methylbutanoic acid
+3245,L-isoleucine,73-32-5,6306,"(2S,3S)-2-amino-3-methylpentanoic acid"
+3246,Pyrroloquinoline quinone,72909-34-3,1024,"4,5-dioxo-1H-pyrrolo[2,3-f]quinoline-2,7,9-tricarboxylic acid"
+3247,Echinacoside,82854-37-3,5281771,"[(2R,3R,4R,5R,6R)-6-[2-(3,4-dihydroxyphenyl)ethoxy]-5-hydroxy-2-[[(2R,3R,4S,5S,6R)-3,4,5-trihydroxy-6-(hydroxymethyl)oxan-2-yl]oxymethyl]-4-[(2S,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl] (E)-3-(3,4-dihydroxyphenyl)prop-2-enoate"
+3250,Rosemary Extract,84604-14-8,NULL,
+3251,Piceatannol,10083-24-6,667639,"4-[(E)-2-(3,5-dihydroxyphenyl)ethenyl]benzene-1,2-diol"
+3252,Buthionine Sulfoximine ,5072-26-4,21157,2-amino-4-(butylsulfonimidoyl)butanoic acid
+3253,2-Oxothiazolidine-4-carboxylate,19771-63-2,22476743,"2-oxo-1,3-thiazolidine-4-carboxylate"
+3254,Serpisten,,NULL,
+3255,Fenugreek Extract,,NULL,
+3256,Triptolide,38748-32-2,107985,
+3257,Crocus Sativus Aqueous Extract,,NULL,
+3258,Ribes fasciculatum eylacetate fraction,,NULL,
+3259,Royal Jelly Protein,,NULL,
+3260,Casein,9000-71-9,73995022,
+3261,Calycosin,20575-57-9,5280448,7-Hydroxy-3-(3-hydroxy-4-methoxyphenyl)chromen-4-one
+3262,Rutin,153-18-4,5280805,"2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-3-[(2S,3R,4S,5S,6R)-3,4,5-trihydroxy-6-[[(2R,3R,4R,5R,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxymethyl]oxan-2-yl]oxychromen-4-one"
+3263,Oleic Acid,112-80-1,445639,(Z)-octadec-9-enoic acid
+3264,Palmitoleic acid,373-49-9,445638,(Z)-hexadec-9-enoic acid
+3265,cis-vaccenic acid ,506-17-2,5282761,(Z)-octadec-11-enoic acid
+3266,Fructose,57-48-7,2723872,"(3S,4R,5R)-2-(hydroxymethyl)oxane-2,3,4,5-tetrol"
+3267,Sucrose,57-50-1,5988,beta-D-arabino-hex-2-ulofuranosyl alpha-D-gluco-hexopyranoside
+3268,Silymarin,84604-20-6,44147684,"(2S)-3,5,7-trihydroxy-2-[(2S,3R)-3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-2,3-dihydrochromen-4-one"
+3269,Silychristin A/B,,NULL,
+3270,Silydianin,29782-68-1,20056308,
+3272,Silybin A/B,,3086637,"(2R,3R)-3,5,7-trihydroxy-2-[3-(4-hydroxy-3-methoxyphenyl)-2-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-2,3-dihydrochromen-4-one"
+3273,Isosilybin A/B,72581-71-6,3085830,"3,5,7-trihydroxy-2-[2-(4-hydroxy-3-methoxyphenyl)-3-(hydroxymethyl)-2,3-dihydro-1,4-benzodioxin-6-yl]-2,3-dihydrochromen-4-one"
+3274,"2,3-dehydrosilybin",,NULL,
+3275,"2,3-Dehydrosilybin A",,NULL,
+3276,"2,3-Dehydrosilybin B",,NULL,
+3277,7-methyl-Dehydrosilybin,,NULL,
+3278,18Œ±-Glycyrrhetinic acid,1449-05-4,73398,"(2S,4aS,6aR,6aS,6bR,8aR,10S,12aS,14bS)-10-hydroxy-2,4a,6a,6b,9,9,12a-heptamethyl-13-oxo-3,4,5,6,6a,7,8,8a,10,11,12,14b-dodecahydro-1H-picene-2-carboxylic acid"
+3279,Dimethyl Sulfide, 75-18-3,1068,(Methylsulfanyl)methane
+3281,Acai Fruit Hydroalcoholic Extract,,NULL,
+3282,3Œ≤-Hydroxy-urs-12-en-28-oic acid,,NULL,
+3283,Sodium Chloride,7647-14-5,5234,Sodium Chloride
+3284,Potassium Chloride,7447-40-7,4873,Potassium Chloride
+3285,Urolithin A,1143-70-0,5488186,"3,8-dihydroxy-6H-dibenzo[b,d]pyran-6-one"
+3286,Urolithin B,1139-83-9,5380406,3-hydroxybenzo[c]chromen-6-one
+3287,Urolithin C,165393-06-6,60198001,"3,8,9-Trihydroxy-6H-benzo[c]chromen-6-one"
+3288,Urolithin D,131086-98-1,5482042,"3,4,8,9-Tetrahydroxybenzo[c]chromen-6-one"
+3290,2-Bromo-4'-nitroacetophenone,99-81-0,66840,2-bromo-1-(4-nitrophenyl)ethanone
+3291,Oxyresveratrol,29700-22-9,5281717,"4-[(E)-2-(3,5-dihydroxyphenyl)ethenyl]benzene-1,3-diol"
+3292,Enalapril,75847-73-3,5388962,(2S)-1-[(2S)-2-[[(2S)-1-ethoxy-1-oxo-4-phenylbutan-2-yl]amino]propanoyl]pyrrolidine-2-carboxylic acid
+3293,Losartan,114798-26-4,3961,(2-butyl-4-chloro-1-{[2'-(2H-tetrazol-5-yl)biphenyl-4-yl]methyl}-1H-imidazol-5-yl)methanol
+3294,jujube fruit powder,,NULL,
+3295,Captopril,62571-86-2,44093,(2S)-1-[(2S)-2-methyl-3-sulfanylpropanoyl]pyrrolidine-2-carboxylic acid
+3296,Menadione,58-27-5,4055,"2-Methylnaphthalene-1,4-dione"
+3297,Diethyl Maleate,141-05-9,5271566,diethyl (Z)-but-2-enedioate
+3299,Ibuprofen,15687-27-1,3672,RS)-2-(4-(2-methylpropyl)phenyl)propanoic acid
+3300,Salicylamine,932-30-9,70267,2-(aminomethyl)phenol
+3301,Buthus martensii Karsch Polypeptide Toxin ,,NULL,
+3302,Oleanolic acid,508-02-1,10494,"(4aS,6aR,6aS,6bR,8aR,10S,12aR,14bS)-10-hydroxy-2,2,6a,6b,9,9,12a-heptamethyl-1,3,4,5,6,6a,7,8,8a,10,11,12,13,14b-tetradecahydropicene-4a-carboxylic acid"
+3303,Zinc Sulfate,7733-02-0,24424,
+3304,TPEN,16858-02-9,5519,"N,N,N',N'-tetrakis(pyridin-2-ylmethyl)ethane-1,2-diamine"
+3305,Sesame Cake Peptides,,NULL,
+3306,Pictilisib,957054-30-7,17755052,"4-[2-(1H-indazol-4-yl)-6-[(4-methylsulfonylpiperazin-1-yl)methyl]thieno[3,2-d]pyrimidin-4-yl]morpholine"
+3307,Phosphatidylinositol ether lipid analogue 6,,NULL,
+3308,Phosphatidylinositol ether lipid analogue 24 ,,NULL,
+3310,Chlorophyll,479-61-8,6477652,"Magnesium [methyl (3S,4S,21R)-14-ethyl-4,8,13,18-tetramethyl-20-oxo-3-(3-oxo-3-{[(2E,7R,11R)-3,7,11,15-tetramethyl-2-hexadecen-1-yl]oxy}propyl)-9-vinyl-21-phorbinecarboxylatato(2‚àí)-Œ∫2N,N‚Ä≤]"
+3311,Naproxen,22204-53-1,156391,(2S)-2-(6-methoxynaphthalen-2-yl)propanoic acid
+3312,Fludarabine,21679-14-1,657237,"(2R,3S,4S,5R)-2-(6-amino-2-fluoropurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol"
+3313,Chlorophytum borivilianum polysaccharide extract,,NULL,
+3314,Nicotinamide mononucleotide,1094-61-7,16219737,3-Carbamoyl-1-[5-O-(hydroxyphosphinato)-Œ≤-D-ribofuranosyl]pyridinium
+3315,Argyreia boseana,,NULL,
+3317,East Indian sandalwood oil,NULL,NULL,NULL
+3318,Œ±-Santalol,115-71-9,NULL,
+3385,Œ≤-Santalol,77-42-9,NULL,
+3400,Lonicera japonica,NULL,NULL,NULL
+3405,Aronia extract,NULL,NULL,NULL
+3410,Glucomannan Hydrolysate,NULL,NULL,NULL
+3419,Polygonum multiflorum Extract,NULL,NULL,NULL
+3423,Xanthine,NULL,NULL,"3,7-dihydropurine-2,6-dione"
+3424,1-methylxanthine,6136-37-4,NULL,
+3475,3-methylxanthine,1076-22-8,NULL,3-methyl Xanthine
+3476,7-methylxanthine,552-62-5,68374,"7-methyl-3H-purine-2,6-dione"
+3477,"1,3-dimemethyl Xan",NULL,NULL,NULL
+3478,"1,7-dimethylxanthine",611-59-6,NULL,
+3479,"3,7-dimethylxanthine",83-67-0,NULL,
+3481,5-octanoyl salicylic acid,78418-01-6,NULL,
+3482,Damaurone D,NULL,NULL,NULL
+3485,"2,5-Di-tert-butylhydroquinone",88-58-4,NULL,"2,5-ditert-butylbenzene-1,4-diol"
+3487,Thapsigargin,67526-95-8,NULL,
+3488,Enoxacin,74011-58-8,NULL,
+3489,guarana ethanolic extract,NULL,NULL,NULL
+3492,6-shogaol,NULL,NULL,(E)-1-(4-hydroxy-3-methoxyphenyl)dec-4-en-3-one
+3493,Mussel peptides,NULL,NULL,NULL
+3494,"Methyl 3,4-dihydroxybenzoate",2150-43-8,NULL,
+3497,"1,2,3-Triazolyl ester of ketorolac ",NULL,NULL,NULL
+3498,Tert-butyl hydroperoxide,75-91-2,NULL,
+3508,Arbutin,497-76-7,NULL,"(2R,3S,4S,5R,6S)-2-(hydroxymethyl)-6-(4-hydroxyphenoxy)oxane-3,4,5-triol"
+3509,phenylethanoid glycosides,NULL,NULL,NULL
+3511,Shatavarin IV,84633-34-1,NULL,
+3512,Emodin,NULL,NULL,NULL
+3514,ursolic acid,77-52-1,NULL,
+3515,N-Acetyl Cysteine,NULL,NULL,NULL
+3590,Tomatidine,NULL,NULL,NULL
+3591,L2-Cmu,NULL,NULL,NULL
+3592,Dasatinib + Quercetin,NULL,NULL,NULL
+3593,Diosgenin,512-04-9,NULL,
+3594,Omega-3 Monoacylglyceride Docosahexaenoic acid,NULL,NULL,NULL
+3595,Omega-3 Monoacylglyceride Eicosatetraenoic acid,NULL,NULL,NULL
+3596,Calcium Pantothenate,137-08-6,NULL,
+3597,Sodium Yeast Nucleate,NULL,NULL,NULL
+3600,Ganoderma lucidum extract,NULL,NULL,NULL
+3601,Disulfiram,97-77-8,NULL,NULL
+3618,Sodim cyclamate,139-05-9,NULL,NULL
+3619,Aspirin (Bufferin),50-78-2,NULL,NULL
+3623,Dimethylaminoethyl p-chlorophenoxyacetate,51-68-3,44147095,2-(dimethylamino)ethyl 2-(4-chlorophenoxy)acetate;(2S)-5-oxopyrrolidine-2-carboxylic acid
+3624,Chlorpromazine,50-53-3,NULL,NULL
+3633,Chlorpheniramine,132-22-9,NULL,"3-(4-chlorophenyl)-N,N-dimethyl-3-pyridin-2-ylpropan-1-amine"
+3635,Chloroquine,54-05-7,NULL,"4-N-(7-chloroquinolin-4-yl)-1-N,1-N-diethylpentane-1,4-diamine"
+3666,Recombinant GDF11,NULL,NULL,NULL
+3667,ethanol extract of Agrimonia procera herba,NULL,NULL,NULL
+3670,Paxilline,‚Äé57186-25-1,NULL,"(1S,2R,5S,7R,11S,14S)-11-hydroxy-7-(2-hydroxypropan-2-yl)-1,2-dimethyl-6-oxa-23-azahexacyclo[12.10.0.0^2,11.0^5,10.0^16,24.0^17,22]tetracosa-9,16(24),17,19,21-pentaen-8-one"
+3671,Ellagic acid,476-66-4,NULL,"6,7,13,14-tetrahydroxy-2,9-dioxatetracyclo[6.6.2.0^4,16.0^11,15]hexadeca-1(15),4,6,8(16),11,13-hexaene-3,10-dione"
+3678,Tanespimycin,75747-14-7,6440175,"[(4E,6Z,8S,9S,10E,12S,13R,14S,16R)-13-hydroxy-8,14-dimethoxy-4,10,12,16-tetramethyl-3,20,22-trioxo-19-(prop-2-enylamino)-2-azabicyclo[16.3.1]docosa-1(21),4,6,10,18-pentaen-9-yl] carbamate"
+3679,Isoprenol,763-32-6,NULL,3-methylbut-3-en-1-ol
+3682,Limonene,NULL,NULL,NULL
+3707,CGP37157,75450-34-9,2688,"7-chloro-5-(2-chlorophenyl)-1,5-dihydro-4,1-benzothiazepin-2-one"
+3709,Icariin in Epimedium Flavonoid,,NULL,

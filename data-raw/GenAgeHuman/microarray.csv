@@ -1,0 +1,74 @@
+﻿entrez_id,name,symbol,overexpressed
+347,apolipoprotein D,APOD,1
+2213,"Fc fragment of IgG, low affinity IIb, receptor (CD32)",FCGR2B,1
+718,complement component 3,C3,1
+1191,clusterin,CLU,1
+1520,cathepsin S,CTSS,1
+4069,lysozyme (renal amyloidosis),LYZ,1
+3512,"immunoglobulin J polypeptide, linker protein for immunoglobulin alpha and mu polypeptides",IGJ,1
+712,"complement component 1, q subcomponent, A chain",C1QA,1
+6277,S100 calcium binding protein A6,S100A6,1
+2670,glial fibrillary acidic protein,GFAP,1
+4494,metallothionein 1F,MT1F,1
+713,"complement component 1, q subcomponent, B chain",C1QB,1
+3958,"lectin, galactoside-binding, soluble, 3",LGALS3,1
+4257,microsomal glutathione S-transferase 1,MGST1,1
+306,annexin A3,ANXA3,1
+308,annexin A5,ANXA5,1
+6275,S100 calcium binding protein A4,S100A4,1
+10457,glycoprotein (transmembrane) nmb,GPNMB,1
+2938,glutathione S-transferase A1,GSTA1,1
+714,"complement component 1, q subcomponent, C chain",C1QC,1
+7450,von Willebrand factor,VWF,1
+79139,"Der1-like domain family, member 1",DERL1,1
+10397,N-myc downstream regulated gene 1,NDRG1,1
+360341,activity and neurotransmitter-induced early gene protein 4 (ania-4),Ania4,1
+2212,"Fc fragment of IgG, low affinity IIa, receptor (CD32)",FCGR2A,1
+2634,"guanylate binding protein 2, interferon-inducible",GBP2,1
+2799,glucosamine (N-acetyl)-6-sulfatase (Sanfilippo disease IIID),GNS,1
+90865,interleukin 33,IL33,1
+219972,macrophage expressed gene 1,MPEG1,1
+10577,"Niemann-Pick disease, type C2",NPC2,1
+79602,adiponectin receptor 2,ADIPOR2,1
+567,beta-2-microglobulin,B2M,1
+9516,lipopolysaccharide-induced TNF factor,LITAF,1
+710,"serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)",SERPING1,1
+10870,hematopoietic cell signal transducer,HCST,1
+57674,ring finger protein 213,RNF213,1
+720,complement component 4A (Rodgers blood group),C4A,1
+6696,"secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)",SPP1,1
+25932,chloride intracellular channel 4,CLIC4,1
+2202,EGF-containing fibulin-like extracellular matrix protein 1,EFEMP1,1
+7805,lysosomal associated multispanning membrane protein 5,LAPTM5,1
+10493,vesicle amine transport protein 1 homolog (T. californica),VAT1,1
+3006,"histone cluster 1, H1c",HIST1H1C,1
+9813,KIAA0494,KIAA0494,1
+10728,prostaglandin E synthase 3 (cytosolic),PTGES3,1
+360231,MHC class I RT1.O type 149 processed pseudogene,LOC360231,1
+22821,RAS p21 protein activator 3,RASA3,1
+5717,"proteasome (prosome, macropain) 26S subunit, non-ATPase, 11",PSMD11,1
+6446,serum/glucocorticoid regulated kinase 1,SGK1,1
+10628,thioredoxin interacting protein,TXNIP,1
+16061,immunoglobulin heavy chain (J558 family),Igh-VJ558,1
+3039,"hemoglobin, alpha 1",HBA1,1
+3135,"major histocompatibility complex, class I, G",HLA-G,1
+5046,proprotein convertase subtilisin/kexin type 6,PCSK6,1
+10972,transmembrane emp24-like trafficking protein 10 (yeast),TMED10,1
+4478,moesin,MSN,1
+1281,"collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)",COL3A1,0
+7037,"transferrin receptor (p90, CD71)",TFRC,0
+1277,"collagen, type I, alpha 1",COL1A1,0
+1287,"collagen, type IV, alpha 5 (Alport syndrome)",COL4A5,0
+2170,"fatty acid binding protein 3, muscle and heart (mammary-derived growth inhibitor)",FABP3,0
+518,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C3 (subunit 9)",ATP5G3,0
+54539,"NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 11, 17.3kDa",NDUFB11,0
+9315,chromosome 5 open reading frame 13,C5orf13,0
+27089,"ubiquinol-cytochrome c reductase, complex III subunit VII, 9.5kDa",UQCRQ,0
+436430,LOC436430 (WITHDRAWN),LOC436430,0
+793,"calbindin 1, 28kDa",CALB1,0
+7386,"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1",UQCRFS1,0
+27069,growth hormone inducible transmembrane protein,GHITM,0
+55902,acyl-CoA synthetase short-chain family member 2,ACSS2,0
+56616,diablo homolog (Drosophila),DIABLO,0
+6376,chemokine (C-X3-C motif) ligand 1,CX3CL1,0
+762,carbonic anhydrase IV,CA4,0

@@ -1,0 +1,308 @@
+﻿id_hagr,aliases,symbol_hugo,name_common,entrez_id,pubmed
+1,GHBP,GHR,growth hormone receptor,2690,0000-00-00
+2,GHRF,GHRH,growth hormone releasing hormone,2691,0000-00-00
+3,p66 ShcA SHC,SHC1,SHC (Src homology 2 domain containing) transforming protein 1,6464,0000-00-00
+4,GHF-1 POU1F1a PIT1,POU1F1,POU class 1 homeobox 1,5449,0000-00-00
+5,NULL,PROP1,PROP paired-like homeobox 1,5626,0000-00-00
+6,p53 LFS1,TP53,tumor protein p53,7157,0000-00-00
+7,TR hTR TRC3 DKCA1 PFBMFT2 SCARNA19,TERC,telomerase RNA component,7012,0000-00-00
+8,TRT TP2 TCS1 hEST2 EST2,TERT,telomerase reverse transcriptase,7015,0000-00-00
+9,TEL1 TELO1 ATA ATDC ATC ATD,ATM,ATM serine/threonine kinase,472,0000-00-00
+10,URK UPA,PLAU,"plasminogen activator, urokinase",5328,0000-00-00
+11,MAG EM9 MGC102762 MGC126218 MGC126219 TFIIH XPD,ERCC2,excision repair cross-complementation group 2,2068,0000-00-00
+12,CSA CKN1,ERCC8,excision repair cross-complementation group 8,1161,0000-00-00
+13,RECQL2 RECQ3,WRN,"Werner syndrome, RecQ helicase-like",7486,0000-00-00
+14,HGPS LMN1 CMD1A LGMD1B PRO1 LMNL1,LMNA,lamin A/C,4000,0000-00-00
+15,JTK13 CD221 IGFIR MGC18216 IGFR,IGF1R,insulin-like growth factor 1 receptor,3480,0000-00-00
+16,TRX,TXN,thioredoxin,7295,0000-00-00
+17,,KL,klotho,9365,0000-00-00
+19,BPTP3 SH-PTP2 SHP-2 PTP2C SHP2 NS1,PTPN11,"protein tyrosine phosphatase, non-receptor type 11",5781,0000-00-00
+20,LYT-10 p52 p105 NF-kB2,NFKB2,nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100),4791,0000-00-00
+21,NULL,STAT5B,signal transducer and activator of transcription 5B,6777,0000-00-00
+22,APRF,STAT3,signal transducer and activator of transcription 3 (acute-phase response factor),6774,0000-00-00
+23,MGF STAT5,STAT5A,signal transducer and activator of transcription 5A,6776,0000-00-00
+26,GH-N GHN GH hGH-N,GH1,growth hormone 1,2688,0000-00-00
+27,CD127,IL7R,interleukin 7 receptor,3575,0000-00-00
+28,IGF1A IGFI IGF-I,IGF1,insulin-like growth factor 1 (somatomedin C),3479,0000-00-00
+29,FLJ44734 IGF-II C11orf43,IGF2,insulin-like growth factor 2,3481,0000-00-00
+30,IDDM2 IDDM1,INS,insulin,3630,0000-00-00
+31,NGFB,NGF,nerve growth factor (beta polypeptide),4803,0000-00-00
+32,HIRS-1,IRS1,insulin receptor substrate 1,3667,0000-00-00
+33,PTP1B,PTPN1,"protein tyrosine phosphatase, non-receptor type 1",5770,0000-00-00
+34,NULL,IRS2,insulin receptor substrate 2,8660,0000-00-00
+35,RAC PKB PRKBA AKT,AKT1,v-akt murine thymoma viral oncogene homolog 1,207,0000-00-00
+36,PIK3C1,PIK3CB,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit beta",5291,0000-00-00
+37,TNFRSF16 CD271 p75NTR,NGFR,nerve growth factor receptor,4804,0000-00-00
+38,HRAS1,HRAS,Harvey rat sarcoma viral oncogene homolog,3265,0000-00-00
+39,c-Myc bHLHe39 MYCC,MYC,v-myc avian myelocytomatosis viral oncogene homolog,4609,0000-00-00
+40,ERBB1 ERBB,EGFR,epidermal growth factor receptor,1956,0000-00-00
+41,NEU HER-2 CD340 HER2 NGL,ERBB2,erb-b2 receptor tyrosine kinase 2,2064,0000-00-00
+42,CD220,INSR,insulin receptor,3643,0000-00-00
+24,HRG NDF GGF HGL NRG1-IT2,NRG1,neuregulin 1,3084,0000-00-00
+46,IL-2 TCGF,IL2,interleukin 2,3558,0000-00-00
+47,SSV SIS,PDGFB,platelet-derived growth factor beta polypeptide,5155,0000-00-00
+48,NULL,EGF,epidermal growth factor,1950,0000-00-00
+49,CD132 SCIDX1 IMD4 CIDX,IL2RG,"interleukin 2 receptor, gamma",3561,0000-00-00
+50,c-fos AP-1,FOS,FBJ murine osteosarcoma viral oncogene homolog,2353,0000-00-00
+51,JTK12 CD140b PDGFR1 PDGFR,PDGFRB,"platelet-derived growth factor receptor, beta polypeptide",5159,0000-00-00
+52,EPO-R,EPOR,Erythropoietin receptor,2057,0000-00-00
+53,SMST,SST,somatostatin,6750,0000-00-00
+54,NULL,PRKCD,"protein kinase C, delta",5580,0000-00-00
+55,hPPAR NR1C1 PPAR,PPARA,peroxisome proliferator-activated receptor alpha,5465,0000-00-00
+56,PTC CDHF12 RET51 CDHR16 HSCR1 MEN2A MTC1 MEN2B,RET,ret proto-oncogene,5979,0000-00-00
+57,NULL,PLCG2,"phospholipase C, gamma 2 (phosphatidylinositol-specific)",5336,0000-00-00
+58,PTS1R PXR1,PEX5,peroxisomal biogenesis factor 5,5830,0000-00-00
+25,RPD3 HD3 RPD3-2,HDAC3,histone deacetylase 3,8841,0000-00-00
+60,PARP PPOL ADPRT,PARP1,poly (ADP-ribose) polymerase 1,142,0000-00-00
+61,RNF53 BRCC1 PPP1R53 FANCS,BRCA1,"breast cancer 1, early onset",672,0000-00-00
+62,dod,PIN1,"peptidylprolyl cis/trans isomerase, NIMA-interacting 1",5300,0000-00-00
+63,MMAC1 TEP1 PTEN1 BZS MHAM,PTEN,phosphatase and tensin homolog,5728,0000-00-00
+64,RTS CBP KAT3A RSTS,CREBBP,CREB binding protein,1387,0000-00-00
+65,MOP1 HIF-1alpha PASD8 HIF1 bHLHe78,HIF1A,"hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)",3091,0000-00-00
+43,N-CoR hCIT529I10 TRAC1 hN-CoR KIAA1047 MGC104216 PPP1R109,NCOR1,nuclear receptor corepressor 1,9611,0000-00-00
+67,REPA1 RPA70 HSSB RF-A RP-A,RPA1,"replication protein A1, 70kDa",6117,0000-00-00
+68,BS RECQL3 RECQ2,BLM,"Bloom syndrome, RecQ helicase-like",641,0000-00-00
+69,Bcl-2 PPP1R50,BCL2,B-cell CLL/lymphoma 2,596,0000-00-00
+70,S100beta,S100B,S100 calcium binding protein B,6285,0000-00-00
+73,IBP3 BP-53,IGFBP3,insulin-like growth factor binding protein 3,3486,0000-00-00
+74,Hsp89 Hsp90 FLJ31884 HSP90N HSPC1 HSPCA,HSP90AA1,"heat shock protein 90kDa alpha (cytosolic), class A member 1",3320,0000-00-00
+76,TIS8 G0S30 NGFI-A KROX-24 ZIF-268 AT225 ZNF225,EGR1,early growth response 1,1958,0000-00-00
+77,VEGF-A VPF VEGF,VEGFA,vascular endothelial growth factor A,7422,0000-00-00
+78,JTK7 c-ABL p150 ABL,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase",25,0000-00-00
+79,FAD FAD1 BRCC2 XRCC11 FANCD1 FACD FANCD,BRCA2,"breast cancer 2, early onset",675,0000-00-00
+80,TOP2,TOP2A,topoisomerase (DNA) II alpha,7153,0000-00-00
+81,NULL,TOP2B,topoisomerase (DNA) II beta,7155,0000-00-00
+82,KBF1 p105 NFKB-p50 p50 NF-kappaB NFkappaB NF-kB1,NFKB1,nuclear factor of kappa light polypeptide gene enhancer in B-cells 1,4790,0000-00-00
+83,NULL,TOP1,topoisomerase (DNA) I,7150,0000-00-00
+84,HsRad51 HsT16930 BRCC5 FANCR RAD51A RECA,RAD51,RAD51 recombinase,5888,0000-00-00
+85,UBC9,UBE2I,ubiquitin-conjugating enzyme E2I,7329,0000-00-00
+86,TNFSF2 DIF TNF-alpha TNFA,TNF,tumor necrosis factor,7124,0000-00-00
+91,CED TGFbeta TGFB DPD1,TGFB1,"transforming growth factor, beta 1",7040,0000-00-00
+92,CSB RAD26 ARMD5 CKN2,ERCC6,excision repair cross-complementation group 6,2074,0000-00-00
+93,PJS LKB1,STK11,serine/threonine kinase 11,6794,0000-00-00
+94,p300 KAT3B,EP300,E1A binding protein p300,2033,0000-00-00
+96,MYL TRIM19 RNF71,PML,promyelocytic leukemia,5371,0000-00-00
+97,NULL,GSK3B,glycogen synthase kinase 3 beta,2932,0000-00-00
+98,IT15 HD,HTT,huntingtin,3064,0000-00-00
+99,PKCA,PRKCA,"protein kinase C, alpha",5578,0000-00-00
+100,NULL,SSTR3,somatostatin receptor 3,6753,0000-00-00
+103,EEF-2 EF2,EEF2,eukaryotic translation elongation factor 2,1938,0000-00-00
+104,XPB BTF2 RAD25 TFIIH GTF2H,ERCC3,excision repair cross-complementation group 3,2071,0000-00-00
+105,PIN2 TRF1 TRF TRBF1,TERF1,telomeric repeat binding factor (NIMA-interacting) 1,7013,0000-00-00
+106,DNPK1 p350 DNAPK XRCC7 DNA-PKcs HYRC HYRC1,PRKDC,"protein kinase, DNA-activated, catalytic polypeptide",5591,0000-00-00
+107,,CAT,catalase,847,0000-00-00
+109,ERCM2 XPGC,ERCC5,excision repair cross-complementation group 5,2073,0000-00-00
+110,AIS NR3C4 SMAX1 HUMARA DHTR SBMA,AR,androgen receptor,367,0000-00-00
+111,BTF2 TFIIH BTF2P44 T-BTF2P44 p44,GTF2H2,"general transcription factor IIH, polypeptide 2, 44kDa",2966,0000-00-00
+112,KU80 KARP-1 Ku86 KUB2,XRCC5,X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining),7520,0000-00-00
+113,NULL,PCNA,proliferating cell nuclear antigen,5111,0000-00-00
+114,FEN-1 MF1 RAD2,FEN1,flap structure-specific endonuclease 1,2237,0000-00-00
+118,CDC2 POLD,POLD1,"polymerase (DNA directed), delta 1, catalytic subunit",5424,0000-00-00
+116,TRF2 TRBF2,TERF2,telomeric repeat binding factor 2,7014,0000-00-00
+117,D22S731 D22S671 KU70 ML8 G22P1,XRCC6,X-ray repair complementing defective repair in Chinese hamster cells 6,2547,0000-00-00
+199,HSC71 HSC70 HSP73 HSPA10,HSPA8,heat shock 70kDa protein 8,3312,0000-00-00
+119,BCL2L4,BAX,BCL2-associated X protein,581,0000-00-00
+120,RB PPP1R130 OSRC,RB1,retinoblastoma 1,5925,0000-00-00
+121,STA LEMD5,EMD,emerin,2010,0000-00-00
+122,NCKAP2,GRB2,growth factor receptor-bound protein 2,2885,0000-00-00
+123,AF6q21 FOXO2 FKHRL1 FOXO3A,FOXO3,forkhead box O3,2309,0000-00-00
+124,FKH1 FKHR FOXO1A,FOXO1,forkhead box O1,2308,0000-00-00
+125,HSTF1,HSF1,heat shock transcription factor 1,3297,0000-00-00
+126,XPAC XP1,XPA,"xeroderma pigmentosum, complementation group A",7507,0000-00-00
+127,,MSRA,methionine sulfoxide reductase A,4482,0000-00-00
+128,RecQ4,RECQL4,RecQ helicase-like 4,9401,0000-00-00
+129,,SOD2,"superoxide dismutase 2, mitochondrial",6648,0000-00-00
+130,IPOA ALS ALS1,SOD1,"superoxide dismutase 1, soluble",6647,0000-00-00
+131,HFH-11 trident HNF-3 INS-1 MPP2 MPHOSPH2 TGT3 FKHL16,FOXM1,forkhead box M1,2305,0000-00-00
+132,CLK-1 CAT5,COQ7,"coenzyme Q7 homolog, ubiquinone (yeast)",10229,0000-00-00
+133,Cav2.1 EA2 APCA HPCA FHM CACNL1A4 SCA6 MHP1 MHP,CACNA1A,"calcium channel, voltage-dependent, P/Q type, alpha 1A subunit",773,0000-00-00
+134,gp330 DBS,LRP2,low density lipoprotein receptor-related protein 2,4036,0000-00-00
+135,AIF CMTX4 PDCD8 NAMSD,AIFM1,"apoptosis-inducing factor, mitochondrion-associated, 1",9131,0000-00-00
+136,PGP9.5 Uch-L1 PARK5,UCHL1,ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase),7345,0000-00-00
+137,AD1,APP,amyloid beta (A4) precursor protein,351,0000-00-00
+138,AD2,APOE,apolipoprotein E,348,0000-00-00
+139,FWP007 S863-7 CPAMD5,A2M,alpha-2-macroglobulin,2,0000-00-00
+141,NKEFA PAGA,PRDX1,peroxiredoxin 1,5052,0000-00-00
+142,ESA PON,PON1,paraoxonase 1,5444,0000-00-00
+144,IL-6 BSF2 HGF HSF IFNB2,IL6,interleukin 6,3569,0000-00-00
+145,SMP30 RC,RGN,regucalcin,9104,0000-00-00
+146,OSCP ATPO,ATP5O,"ATP synthase, H+ transporting, mitochondrial F1 complex, O subunit",539,0000-00-00
+147,NULL,RAD52,"RAD52 homolog, DNA repair protein",5893,0000-00-00
+148,NULL,TOP3B,topoisomerase (DNA) III beta,8940,0000-00-00
+149,RAD10,ERCC1,excision repair cross-complementation group 1,2067,0000-00-00
+150,SIR2L1,SIRT1,sirtuin 1,23411,0000-00-00
+151,HD1 GON-10 RPD3L1,HDAC1,histone deacetylase 1,3065,0000-00-00
+153,NULL,GPX1,glutathione peroxidase 1,2876,0000-00-00
+154,NULL,GSR,glutathione reductase,2936,0000-00-00
+155,NULL,GSS,glutathione synthetase,2937,0000-00-00
+156,NULL,GSTA4,glutathione S-transferase alpha 4,2941,0000-00-00
+157,GSTP FAEES3 GST3,GSTP1,glutathione S-transferase pi 1,2950,0000-00-00
+158,COX1 COI MTCO1,MT-CO1,mitochondrially encoded cytochrome c oxidase I,4512,0000-00-00
+159,GroEL HSP60 SPG13,HSPD1,heat shock 60kDa protein 1 (chaperonin),3329,0000-00-00
+160,HSP70-1 HSPA1,HSPA1A,heat shock 70kDa protein 1A,3303,0000-00-00
+161,HSP70-2,HSPA1B,heat shock 70kDa protein 1B,3304,0000-00-00
+162,NULL,PCMT1,protein-L-isoaspartate (D-aspartate) O-methyltransferase,5110,0000-00-00
+163,JNK JNK1 SAPK1 PRKM8,MAPK8,mitogen-activated protein kinase 8,5599,0000-00-00
+164,KCIP-1 14-3-3-zeta YWHAD,YWHAZ,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta",7534,0000-00-00
+165,CAKB PYK2 RAFTK PTK CADTK FAK2,PTK2B,protein tyrosine kinase 2 beta,2185,0000-00-00
+166,FAK FADK FAK1 PPP1R71,PTK2,protein tyrosine kinase 2,5747,0000-00-00
+167,IL-7,IL7,interleukin 7,3574,0000-00-00
+168,PRKM14 p38 Mxi2 PRKM15 CSPB1 CSBP1 CSBP2,MAPK14,mitogen-activated protein kinase 14,1432,0000-00-00
+169,H2 H3 H4 H5 CEK FLG BFGFR N-SAM CD331 FLT2 KAL2,FGFR1,fibroblast growth factor receptor 1,2260,0000-00-00
+170,NULL,SP1,Sp1 transcription factor,6667,0000-00-00
+171,VEGFR1 FLT,FLT1,fms-related tyrosine kinase 1,2321,0000-00-00
+172,c-Jun AP-1,JUN,jun proto-oncogene,3725,0000-00-00
+173,PBP TRAP220 RB18A DRIP230 CRSP200 CRSP1 TRIP2 PPARGBP PPARBP,MED1,mediator complex subunit 1,5469,0000-00-00
+174,JNK2 p54a SAPK PRKM9,MAPK9,mitogen-activated protein kinase 9,5601,0000-00-00
+175,ERK1 p44mapk p44erk1 PRKM3,MAPK3,mitogen-activated protein kinase 3,5595,0000-00-00
+176,HMG3 SBP-1 DKFZp686A04236 HMG1,HMGB1,high mobility group box 1,3146,0000-00-00
+177,CCNA CCN1,CCNA2,cyclin A2,890,0000-00-00
+178,HMG2,HMGB2,high mobility group box 2,3148,0000-00-00
+179,MAPKKK5 ASK1 MEKK5,MAP3K5,mitogen-activated protein kinase kinase kinase 5,4217,0000-00-00
+115,CD95 APO-1 FAS1 APT1 TNFRSF6,FAS,Fas cell surface death receptor,355,0000-00-00
+181,NULL,LMNB1,lamin B1,4001,0000-00-00
+182,CYB560 PGL3,SDHC,"succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa",6391,0000-00-00
+183,AFX1 MLLT7,FOXO4,forkhead box O4,4303,0000-00-00
+184,RPX ANF,HESX1,HESX homeobox 1,8820,0000-00-00
+185,GRB1 p85-ALPHA p85,PIK3R1,"phosphoinositide-3-kinase, regulatory subunit 1 (alpha)",5295,0000-00-00
+186,GNG3LG SPG17,BSCL2,Berardinelli-Seip congenital lipodystrophy 2 (seipin),26580,0000-00-00
+187,LPAAT-beta BSCL,AGPAT2,1-acylglycerol-3-phosphate O-acyltransferase 2,10555,0000-00-00
+188,RNF51 PCGF4,BMI1,"BMI1 proto-oncogene, polycomb ring finger",648,0000-00-00
+189,EE1A1 EF1A EEF1A LENG7,EEF1A1,eukaryotic translation elongation factor 1 alpha 1,1915,0000-00-00
+190,AP-2 TFAP2 AP2TF,TFAP2A,transcription factor AP-2 alpha (activating enhancer binding protein 2 alpha),7020,0000-00-00
+191,NULL,BDNF,brain-derived neurotrophic factor,627,0000-00-00
+192,NULL,CREB1,cAMP responsive element binding protein 1,1385,0000-00-00
+193,TREB7 CRE-BP1 HB16 CREB2,ATF2,activating transcription factor 2,1386,0000-00-00
+194,TFIID GTF2D1 SCA17,TBP,TATA box binding protein,6908,0000-00-00
+195,APE REF1 HAP1 APX APEN REF-1 APE-1 APEX,APEX1,APEX nuclease (multifunctional DNA repair enzyme) 1,328,0000-00-00
+196,NULL,HBP1,HMG-box transcription factor 1,26959,0000-00-00
+215,JTK10,JAK2,Janus kinase 2,3717,0000-00-00
+198,COX2,PTGS2,prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase),5743,0000-00-00
+152,GRP75 PBP74 mot-2 mthsp75 HSPA9B,HSPA9,heat shock 70kDa protein 9 (mortalin),3313,0000-00-00
+200,KIAA0700 DKFZP434K2235,SIN3A,SIN3 transcription regulator family member A,25942,0000-00-00
+201,CDC28A CDC2,CDK1,cyclin-dependent kinase 1,983,0000-00-00
+202,Dp-1 DRTF1 DP1,TFDP1,transcription factor Dp-1,7027,0000-00-00
+18,RBP3 RBBP3,E2F1,E2F transcription factor 1,1869,0000-00-00
+206,IGFBP8 CCN2,CTGF,connective tissue growth factor,1490,0000-00-00
+207,RPD3 YAF1,HDAC2,histone deacetylase 2,3066,0000-00-00
+208,bHLHd4 bHLHd5 bHLHd6 bHLHd7 bHLHd8,MAX,MYC associated factor X,4149,0000-00-00
+209,MAD1 bHLHc58 MAD,MXD1,MAX dimerization protein 1,4084,0000-00-00
+210,HDM2 MGC5370,MDM2,"MDM2 proto-oncogene, E3 ubiquitin protein ligase",4193,0000-00-00
+180,NSCL2 TAFII250 KAT4 DYT3/TAF1 TAF2A BA2R CCG1 CCGS DYT3,TAF1,"TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa",6872,0000-00-00
+204,p180 POLA NSX,POLA1,"polymerase (DNA directed), alpha 1, catalytic subunit",5422,0000-00-00
+203,CHOP10 GADD153 CHOP,DDIT3,DNA-damage-inducible transcript 3,1649,0000-00-00
+143,p65 NFKB3,RELA,v-rel avian reticuloendotheliosis viral oncogene homolog A,5970,0000-00-00
+71,IBMPFD p97,VCP,valosin containing protein,7415,0000-00-00
+66,MGC8385 FLJ25987,UBB,ubiquitin B,7314,0000-00-00
+59,E2A ITF1 MGC129647 MGC129648 bHLHb21 VDIR E47,TCF3,transcription factor 3,6929,0000-00-00
+45,AP-1,JUND,jun D proto-oncogene,3727,0000-00-00
+90,MXD2 MAD2 MXI bHLHc11,MXI1,"MAX interactor 1, dimerization protein",4601,0000-00-00
+44,ATV AT-V2 AT-V1 NBS NBS1,NBN,nibrin,4683,0000-00-00
+211,PIC1 GMP1 SMT3C SUMO-1 SMT3H3 OFC10 UBL1,SUMO1,small ubiquitin-like modifier 1,7341,0000-00-00
+212,H2AX,H2AFX,"H2A histone family, member X",3014,0000-00-00
+213,HOX2 HOX2C,HOXB7,homeobox B7,3217,0000-00-00
+75,GR GRL,NR3C1,"nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)",2908,0000-00-00
+214,HOX3 HOX3E,HOXC4,homeobox C4,3221,0000-00-00
+101,PASG SMARCA6 LSH Nbla10143,HELLS,"helicase, lymphoid-specific",3070,0000-00-00
+72,POLG1 POLGA,POLG,"polymerase (DNA directed), gamma",5428,0000-00-00
+197,BUBR1 MAD3L Bub1A SSK1,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B,701,0000-00-00
+140,BCSG1 SR persyn,SNCG,"synuclein, gamma (breast cancer-specific protein 1)",6623,0000-00-00
+95,FLJ20157 AOA AOA1 EAOH EOAHA AXA1,APTX,aprataxin,54840,0000-00-00
+88,C/EBP-alpha CEBP,CEBPA,"CCAAT/enhancer binding protein (C/EBP), alpha",1050,0000-00-00
+89,LAP CRP2 NFIL6 IL6DBP C/EBP-beta TCF5,CEBPB,"CCAAT/enhancer binding protein (C/EBP), beta",1051,0000-00-00
+216,NR3A1 Era ESR,ESR1,estrogen receptor 1,2099,0000-00-00
+217,OBS OB,LEP,leptin,3952,0000-00-00
+218,OBR CD295,LEPR,leptin receptor,3953,0000-00-00
+219,IKBA MAD-3 IkappaBalpha NFKBI,NFKBIA,"nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha",4792,0000-00-00
+220,SGP-2 SP-40 TRPM-2 KUB1 CLU1 CLU2 CLI APOJ,CLU,clusterin,1191,0000-00-00
+221,RAFT1 RAPT1 FLJ44809 FRAP FRAP2 FRAP1,MTOR,mechanistic target of rapamycin (serine/threonine kinase),2475,0000-00-00
+222,NULL,GHRHR,growth hormone releasing hormone receptor,2692,0000-00-00
+223,beta-catenin armadillo CTNNB,CTNNB1,"catenin (cadherin-associated protein), beta 1, 88kDa",1499,0000-00-00
+224,FAD S182 PS1 AD3,PSEN1,presenilin 1,5663,0000-00-00
+225,SCDO1,DLL3,delta-like 3 (Drosophila),10683,0000-00-00
+226,CDK4I p16 INK4a MTS1 CMM2 ARF p19 p14 INK4 p16INK4a p19Arf p14ARF CDKN2 MLM,CDKN2A,cyclin-dependent kinase inhibitor 2A,1029,0000-00-00
+228,D0S117E,DBN1,drebrin 1,1627,0000-00-00
+229,SYNS1 SYM1,NOG,noggin,9241,0000-00-00
+230,WBS WS SVAS,ELN,elastin,2006,0000-00-00
+227,PP1A PP-1A PP1alpha PPP1A,PPP1CA,"protein phosphatase 1, catalytic subunit, alpha isozyme",5499,0000-00-00
+205,MTBT1 tau PPND FTDP-17 TAU MSTD MTBT2 FLJ31424 MGC138549 PPP1R103 DDPAC MAPTL,MAPT,microtubule-associated protein tau,4137,0000-00-00
+232,SLC25A9,UCP3,"uncoupling protein 3 (mitochondrial, proton carrier)",7352,0000-00-00
+233,FACE-1 Ste24p STE24 HGPS PRO1,ZMPSTE24,zinc metallopeptidase STE24,10269,0000-00-00
+234,p51 SHFM4 EEC3 p63 p73L OFC8 KET p73H NBP p53CP TP73L TP53L TP53CP,TP63,tumor protein p63,8626,0000-00-00
+235,SLC25A8 BMIQ4,UCP2,"uncoupling protein 2 (mitochondrial, proton carrier)",7351,0000-00-00
+236,NULL,POLB,"polymerase (DNA directed), beta",5423,0000-00-00
+237,GCS GLCLC GLCL,GCLC,"glutamate-cysteine ligase, catalytic subunit",2729,0000-00-00
+238,GLCLR,GCLM,"glutamate-cysteine ligase, modifier subunit",2730,0000-00-00
+239,,SIRT6,sirtuin 6,51548,0000-00-00
+240,BUB3L,BUB3,BUB3 mitotic checkpoint protein,9184,0000-00-00
+241,Mnrp41,RAE1,ribonucleic acid export 1,8480,0000-00-00
+242,MCH,PMCH,pro-melanin-concentrating hormone,5367,0000-00-00
+87,PDK1,PDPK1,3-phosphoinositide dependent protein kinase 1,5170,0000-00-00
+231,FRP1 SCKL SCKL1 MEC1,ATR,ATR serine/threonine kinase,545,0000-00-00
+243,HNPCC FCC2 HNPCC2 COCA2,MLH1,mutL homolog 1,4292,0000-00-00
+102,NULL,APOC3,apolipoprotein C-III,345,0000-00-00
+244,HCKIE CKIE CKIepsilon,CSNK1E,"casein kinase 1, epsilon",1454,0000-00-00
+245,UBOX1 CHIP SDCCAG7 HSPABP2 NY-CO-7,STUB1,"STIP1 homology and U-box containing protein 1, E3 ubiquitin protein ligase",10273,0000-00-00
+246,Wip1 PP2C-DELTA,PPM1D,"protein phosphatase, Mg2+/Mn2+ dependent, 1D",8493,0000-00-00
+247,CDS1 CHK2 HuCds1 PP1425 bA444G7 RAD53,CHEK2,checkpoint kinase 2,11200,0000-00-00
+248,PEPCK-C,PCK1,phosphoenolpyruvate carboxykinase 1 (soluble),5105,0000-00-00
+249,RhoGAP p50rhoGAP CDC42GAP Cdc42GAP,ARHGAP1,Rho GTPase activating protein 1,392,0000-00-00
+250,G25K CDC42Hs,CDC42,cell division cycle 42,998,0000-00-00
+251,MOP3 JAP3 BMAL1 PASD3 bHLHe5,ARNTL,aryl hydrocarbon receptor nuclear translocator-like,406,0000-00-00
+252,KIAA0334 KAT13D bHLHe8,CLOCK,clock circadian regulator,9575,0000-00-00
+253,ZBTB29 ZNF901,HIC1,hypermethylated in cancer 1,3090,0000-00-00
+254,PAPP-A PAPPA1 IGFBP-4ase PAPA ASBABP2 DIPLA1,PAPPA,"pregnancy-associated plasma protein A, pappalysin 1",5069,0000-00-00
+255,AC5,ADCY5,adenylate cyclase 5,111,0000-00-00
+256,PGC1 PGC1A PPARGC1,PPARGC1A,"peroxisome proliferator-activated receptor gamma, coactivator 1 alpha",10891,0000-00-00
+257,PHGPx MCSP,GPX4,glutathione peroxidase 4,2879,0000-00-00
+258,SLC25A7 UCP,UCP1,"uncoupling protein 1 (mitochondrial, proton carrier)",7350,0000-00-00
+259,NULL,FGF23,fibroblast growth factor 23,8074,0000-00-00
+260,S1-5 FBLN3 MTLV DHRD FBNL,EFEMP1,EGF containing fibulin-like extracellular matrix protein 1,2202,0000-00-00
+261,RAD1 FANCQ XPF,ERCC4,excision repair cross-complementation group 4,2072,0000-00-00
+262,BPIFF,CETP,"cholesteryl ester transfer protein, plasma",1071,0000-00-00
+263,PPARG1 PPARG2 NR1C3 PPARgamma,PPARG,peroxisome proliferator-activated receptor gamma,5468,0000-00-00
+264,AT1 AT2R1 AGTR1A AT2R1A HAT1R AG2S AT2R1B AT1B AGTR1B,AGTR1,"angiotensin II receptor, type 1",185,0000-00-00
+265,Miner1 ERIS NAF-1 ZCD2 WFS2,CISD2,CDGSH iron sulfur domain 2,493856,0000-00-00
+266,AIMP3 P18,EEF1E1,eukaryotic translation elongation factor 1 epsilon 1,9521,0000-00-00
+267,,EPS8,epidermal growth factor receptor pathway substrate 8,2059,0000-00-00
+268,Kv1.3 MK3 HLK3 HPCN3,KCNA3,"potassium channel, voltage gated shaker related subfamily A, member 3",3738,0000-00-00
+269,,SIRT7,sirtuin 7,51547,0000-00-00
+270,NaSi-1 NAS1,SLC13A1,"solute carrier family 13 (sodium/sulfate symporter), member 1",6561,0000-00-00
+271,STATI2 SSI2 SOCS-2 SSI-2 CIS2 Cish2,SOCS2,suppressor of cytokine signaling 2,8835,0000-00-00
+273,,TPP2,tripeptidyl peptidase II,7174,0000-00-00
+274,53BP1 p202 TDRD30,TP53BP1,tumor protein p53 binding protein 1,7158,0000-00-00
+275,SIR2L3,SIRT3,sirtuin 3,23410,0000-00-00
+276,SMRT SMRTE TRAC-1 CTG26 TNRC14,NCOR2,nuclear receptor corepressor 2,9612,0000-00-00
+277,KIAA0810 FLJ12407 UNC84A,SUN1,Sad1 and UNC84 domain containing 1,23353,0000-00-00
+278,BCL2L7 BAK CDN1,BAK1,BCL2-antagonist/killer 1,578,0000-00-00
+279,IBP2,IGFBP2,"insulin-like growth factor binding protein 2, 36kDa",3485,0000-00-00
+280,P5C,PYCR1,pyrroline-5-carboxylate reductase 1,5831,0000-00-00
+281,P73,TP73,tumor protein p73,7161,0000-00-00
+282,CB1K5 CB-R CB1 CANN6 CB1A CNR,CNR1,cannabinoid receptor 1 (brain),1268,0000-00-00
+283,NRF2,NFE2L2,"nuclear factor, erythroid 2-like 2",4780,0000-00-00
+284,P21 CIP1 WAF1 SDI1 CAP20 p21CIP1 p21Cip1/Waf1 CDKN1,CDKN1A,"cyclin-dependent kinase inhibitor 1A (p21, Cip1)",1026,0000-00-00
+285,CD140a PDGFR2,PDGFRA,"platelet-derived growth factor receptor, alpha polypeptide",5156,0000-00-00
+286,PI3K,PIK3CA,"phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha",5290,0000-00-00
+287,NULL,C1QA,"complement component 1, q subcomponent, A chain",712,0000-00-00
+288,P15 MTS2 INK4B TP15 CDK4I p15INK4b,CDKN2B,"cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)",1030,0000-00-00
+289,NULL,EIF5A2,eukaryotic translation initiation factor 5A2,56648,0000-00-00
+290,GIF GLIF,MIF,macrophage migration inhibitory factor (glycosylation-inhibiting factor),4282,0000-00-00
+291,ARGP1 DGAT,DGAT1,diacylglycerol O-acyltransferase 1,8694,0000-00-00
+292,MTD MT1,MT1E,metallothionein 1E,4493,0000-00-00
+293,,FGF21,fibroblast growth factor 21,26291,0000-00-00
+294,OMI PARK13 PRSS25,HTRA2,HtrA serine peptidase 2,27429,0000-00-00
+295,NULL,GSK3A,glycogen synthase kinase 3 alpha,2931,0000-00-00
+296,MTH1,NUDT1,nudix (nucleoside diphosphate linked moiety X)-type motif 1,4521,0000-00-00
+297,IKK2 NFKBIKB IKK-beta IKKB,IKBKB,"inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta",3551,0000-00-00
+298,p62 p60 p62B A170 PDB3 OSIL,SQSTM1,sequestosome 1,8878,0000-00-00
+299,CAK1 CDKN7 MO15 STK1 CAK,CDK7,cyclin-dependent kinase 7,1022,0000-00-00
+300,PCDGF PGRN CLN11,GRN,granulin,2896,0000-00-00
+301,PAI PLANH1 PAI1,SERPINE1,"serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1",5054,0000-00-00
+302,DKFZP547N043 Spartan DVC1 C1orf124,SPRTN,SprT-like N-terminal domain,83932,0000-00-00
+303,MGC39830 AVO3 PIA KIAA1999,RICTOR,"RPTOR independent companion of MTOR, complex 2",253260,0000-00-00
+304,CT-1 CT1,CTF1,cardiotrophin 1,1489,0000-00-00
+306,VR1,TRPV1,transient receptor potential cation channel subfamily V member 1,7442,0000-00-00
+307,NRF1 LCR-F1 FLJ00380 TCF11,NFE2L1,"nuclear factor, erythroid 2-like 1",4779,0000-00-00
+305,HSP75 HSP90L,TRAP1,TNF receptor-associated protein 1,10131,0000-00-00
+308,IFB IFF IFNB IFN-beta,IFNB1,Interferon beta,3456,NULL
+309,BMP11 BMP-11,GDF11,growth differentiation factor 11,10220,NULL

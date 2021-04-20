@@ -1,0 +1,413 @@
+﻿id,hagr_id,cell_type
+1,1,Dermal fibroblast
+2,2,Lung fibroblast
+3,2,Embryonic kidney
+4,3,Thyroid cancer
+5,3,Colon cancer
+6,4,Embryonic kidney
+7,4,Lung fibroblast
+8,5,Keratinocyte
+9,6,Vascular smooth muscle
+10,7,Aortic endothelial
+11,7,Umbilical vein endothelial
+12,7,Dermal microvascular endothelial cells
+13,8,Prostate epithelial
+14,9,Hair follicular keratinocyte
+15,10,Osteosarcoma
+16,11,Lung fibroblast
+17,12,Liver cancer
+18,13,Lung fibroblast
+19,14,Foreskin fibroblast
+20,14,Lung fibroblast
+21,15,Embryonic kidney
+22,15,Retinal pigment epithelial
+23,16,Lung fibroblast
+24,16,Embryonic kidney
+25,17,Laryngeal cancer
+26,17,Glioma
+27,18,Esophageal cancer
+28,18,Breast cancer
+29,19,B-cell
+30,20,Embryonic kidney
+31,20,Lung fibroblast
+32,21,Fibroblast
+33,22,Foreskin fibroblast
+34,22,Lung fibroblast
+35,22,Skin fibroblast
+36,23,Foreskin fibroblast
+37,23,Melanocyte
+38,24,Foreskin fibroblast
+39,25,Breast cancer
+40,26,Lung fibroblast
+41,27,Lung fibroblast
+42,28,Fibroblast
+43,29,Lung fibroblast
+44,29,Keratinocyte
+45,30,Fibroblast
+46,31,Fibroblast
+47,32,Retinal pigment epithelial
+48,32,Embryonic kidney
+49,33,Embryonic kidney
+50,33,Lung fibroblast
+51,34,Dermal fibroblast
+52,35,Foreskin fibroblast
+53,36,Foreskin fibroblast
+54,37,Fibroblast
+55,38,Liver cancer
+56,39,Lung fibroblast
+57,40,Lung fibroblast
+58,41,Lung fibroblast
+59,42,Glioblastoma
+60,43,Lung fibroblast
+61,44,Prostate cancer
+62,45,Colon cancer
+63,46,Embryonic kidney
+64,46,Lung fibroblast
+65,47,Lung fibroblast
+66,47,Foreskin fibroblast
+67,48,Embryonic kidney
+68,48,Retinal pigment epithelial
+69,49,Lung cancer
+70,49,Squamous carcinoma
+71,50,Lung fibroblast
+72,51,Ovarian fibroblast
+73,52,Lung fibroblast
+74,53,Lung fibroblast
+75,53,Foreskin fibroblast
+76,54,Foreskin keratinocyte
+77,55,Lung fibroblast
+78,56,Lung fibroblast
+79,57,Foreskin fibroblast
+80,57,Lung fibroblast
+81,58,Lung fibroblast
+82,59,Lung fibroblast
+83,60,Cervical cancer
+84,61,Embryonic kidney
+85,61,Liver cancer
+86,62,Lung fibroblast
+87,63,Lung fibroblast
+88,64,Endothelial
+89,65,Retinal pigment epithelial
+90,65,Embryonic kidney
+91,66,Lung fibroblast
+92,67,Lung fibroblast
+93,67,Foreskin fibroblast
+94,68,Foreskin fibroblast
+95,68,Lung fibroblast
+96,69,Hematopoietic stem
+97,70,Embryonic kidney
+98,70,Lung fibroblast
+99,71,Gastric cancer
+100,72,Breast cancer
+101,73,Gallbladder cancer
+102,74,Lung fibroblast
+103,75,Dermal fibroblast
+104,76,Laryngeal cancer
+105,76,Tongue cancer
+106,77,Foreskin fibroblast
+107,78,Lung cancer
+108,79,Gastric cancer
+109,80,Foreskin fibroblast
+110,80,Lung fibroblast
+111,81,Lung fibroblast
+112,82,Foreskin fibroblast
+113,83,Lung fibroblast
+114,83,Embryonic kidney
+115,84,Lung fibroblast
+116,85,Cervical cancer
+117,86,Breast cancer
+118,87,Dermal fibroblast
+119,87,Umbilical vein endothelial
+120,88,Foreskin fibroblast
+121,89,Lung fibroblast
+122,89,Embryonic kidney
+123,90,Melanoma
+124,90,Lung cancer
+125,91,Lung fibroblast
+126,92,Ovarian cancer
+127,93,Breast epithelial
+128,94,Dermal endothelial
+129,94,Umbilical vein endothelial
+130,95,Prostate cancer
+131,96,Breast cancer
+132,97,Umbilical vein endothelial
+133,98,Lung fibroblast
+134,99,Fibroblast
+135,100,Umbilical vein endothelial
+136,101,Umbilical vein endothelial
+137,102,Foreskin fibroblast
+138,102,Lung fibroblast
+139,103,Foreskin fibroblast
+140,104,Lung fibroblast
+141,105,Foreskin fibroblast
+142,106,Li Fraumeni syndrome fibroblast
+143,107,Li Fraumeni syndrome fibroblast
+144,108,Embryonic kidney
+145,108,Lung fibroblast
+146,109,Umbilical vein endothelial
+147,110,Embryonic kidney
+148,110,Lung fibroblast
+149,111,Foreskin fibroblast
+150,111,Lung fibroblast
+151,112,Prostate cancer
+152,112,Breast cancer
+153,112,Gastric cancer
+154,113,Lung cancer
+155,114,Colon cancer
+156,115,Gastric cancer
+157,116,Lung fibroblast
+158,117,Embryonic kidney
+159,117,Retinal pigment epithelial
+160,118,Embryonic kidney
+161,118,Retinal pigment epithelial
+162,119,Lung fibroblast
+163,120,Gastric cancer
+164,121,Lung fibroblast
+165,122,Embryonic kidney
+166,122,Lung fibroblast
+167,123,Foreskin fibroblast
+168,124,Lung fibroblast
+169,125,Breast epithelial
+170,125,Lung fibroblast
+171,126,Lung fibroblast
+172,127,Intestinal epithelial
+173,128,Retinal pigment epithelial
+174,128,Embryonic kidney
+175,129,Lung fibroblast
+176,130,Osteosarcoma
+177,131,Lung fibroblast
+178,131,Embryonic kidney
+179,132,Embryonic kidney
+180,132,Lung fibroblast
+181,133,Embryonic kidney
+182,133,Retinal pigment epithelial
+183,134,Lung fibroblast
+184,134,Embryonic kidney
+185,135,Lung fibroblast
+186,135,Embryonic kidney
+187,136,Foreskin fibroblast
+188,137,Cervical cancer
+189,138,Lung fibroblast
+190,139,Embryonic kidney
+191,139,Lung fibroblast
+192,140,Embryonic kidney
+193,140,Lung fibroblast
+194,141,Colon cancer
+195,142,Dermal fibroblast
+196,142,Lung fibroblast
+197,143,Foreskin fibroblast
+198,143,Lung fibroblast
+199,143,Mammary epithelial
+200,144,Mesenchymal stem
+201,145,Lung fibroblast
+202,145,Embryonic kidney
+203,146,Medulloblastoma
+204,147,Lung fibroblast
+205,148,Fibrosarcoma
+206,149,Lung fibroblast
+207,150,Embryonic kidney
+208,150,Lung fibroblast
+209,151,Fibroblast
+210,152,Retinal pigment epithelial
+211,152,Embryonic kidney
+212,153,Embryonic kidney
+213,153,Lung fibroblast
+214,154,Fibroblast
+215,154,Dermal fibroblast
+216,155,Liver cancer
+217,156,Embryonic kidney
+218,156,Retinal pigment epithelial
+219,157,Foreskin fibroblast
+220,158,Lung cancer
+221,158,Bladder cancer
+222,159,Lung fibroblast
+223,160,Hepatoma
+224,161,Glioma
+225,161,Fibroblast
+226,161,Melanoma
+227,161,Foreskin fibroblast
+228,161,Breast cancer
+229,162,Lung fibroblast
+230,162,Breast epithelial
+231,163,Prostate epithelial
+232,163,Lung fibroblast
+233,163,Neural Stem
+234,164,Glioma
+235,165,Lung fibroblast
+236,166,Medulloblastoma
+237,167,Lung fibroblast
+238,168,Umbilical vein endothelial
+239,169,Lung fibroblast
+240,169,Embryonic kidney
+241,170,Foreskin fibroblast
+242,171,Foreskin fibroblast
+243,171,Lung fibroblast
+244,172,Coronary artery endothelial
+245,172,Lung fibroblast
+246,173,Lung fibroblast
+247,173,Embryonic kidney
+248,174,Breast cancer
+249,174,Prostate cancer
+250,174,Liver cancer
+251,175,Lung fibroblast
+252,175,Embryonic kidney
+253,176,Prostate cancer
+254,176,Colon cancer
+255,176,Lung cancer
+256,176,Gastric cancer
+257,177,Osteosarcoma
+258,178,Lung fibroblast
+259,179,Embryonic kidney
+260,179,Lung fibroblast
+261,180,Embryonic kidney
+262,180,Retinal pigment epithelial
+263,181,Foreskin fibroblast
+264,181,Lung fibroblast
+265,182,Lung fibroblast
+266,183,Lung fibroblast
+267,183,Embryonic kidney
+268,184,Lung fibroblast
+269,185,Melanoma
+270,186,Embryonic kidney
+271,186,Lung fibroblast
+272,187,Lung fibroblast
+273,188,Mesenchymal stromal
+274,189,Lung fibroblast
+275,190,Mesenchymal stem
+276,191,Breast cancer
+277,191,Breast epithelial
+278,192,Breast cancer
+279,193,Lung fibroblast
+280,194,Liver cancer
+281,195,Umbilical vein endothelial
+282,195,Dermal fibroblast
+283,196,Multipotent bone marrow stromal
+284,197,Lung fibroblast
+285,197,Cervical cancer
+286,198,Foreskin fibroblast
+287,198,Lung fibroblast
+288,199,Colorectal cancer
+289,199,Melanoma
+290,199,Pancreatic cancer
+291,199,Lung cancer
+292,199,Breast cancer
+293,199,Cervical cancer
+294,199,Prostate cancer
+295,199,Ovarian cancer
+296,199,Glioma
+297,200,Breast cancer
+298,201,Lung fibroblast
+299,202,Osteoblast
+300,203,Cervical cancer
+301,203,Gastric cancer
+302,204,Glioblastoma
+303,204,Lung cancer
+304,205,Lung fibroblast
+305,206,Colon cancer
+306,206,Lung fibroblast
+307,207,Lung fibroblast
+308,208,Foreskin fibroblast
+309,209,Kidney cancer
+310,210,Foreskin fibroblast
+311,211,Foreskin fibroblast
+312,212,Foreskin fibroblast
+313,213,Foreskin fibroblast
+314,214,Melanoma
+315,215,Embryonic kidney
+316,215,Lung fibroblast
+317,216,Umbilical vein endothelial
+318,217,Lung fibroblast
+319,218,Lung fibroblast
+320,219,Chondrocyte
+321,220,Lung fibroblast
+322,221,Lung fibroblast
+323,221,Renal tubular
+324,222,Gastric cancer
+325,222,Colon cancer
+326,223,Mesenchymal stem
+327,224,Retinal pigment epithelial
+328,224,Embryonic kidney
+329,225,Malignant rhabdoid tumor
+330,226,Foreskin fibroblast
+331,226,Skin fibroblast
+332,226,Lung fibroblast
+333,227,Prostate cancer
+334,228,Lung fibroblast
+335,229,Lung fibroblast
+336,230,Fibroblast
+337,230,Keratinocyte
+338,231,Colon cancer
+339,231,Embryonic kidney
+340,232,Cervical cancer
+341,233,Glioma
+342,234,Lung fibroblast
+343,235,Lung fibroblast
+344,236,Fibrosarcoma
+345,237,Fibroblast
+346,238,Foreskin fibroblast
+347,239,Lung fibroblast
+348,240,Embryonic kidney
+349,240,Lung fibroblast
+350,241,Lung fibroblast
+351,241,Embryonic kidney
+352,242,Cervical cancer
+353,243,Melanoma
+354,244,Breast cancer
+355,245,Cervical cancer
+356,246,Melanoma
+357,247,Neuroblastoma
+358,248,Foreskin fibroblast
+359,248,Retinal pigment epithelial
+360,249,Retinal pigment epithelial
+361,249,Breast cancer
+362,250,Lung cancer
+363,250,Cervical cancer
+364,250,Lung fibroblast
+365,251,Fibroblast
+366,252,Fibroblast
+367,252,Keratinocyte
+368,253,Nucleus pulposus
+369,254,Colon cancer
+370,255,Endothelial progenitor
+371,256,Lung fibroblast
+372,257,Foreskin fibroblast
+373,258,Cervical cancer
+374,258,Melanoma
+375,258,Osteosarcoma
+376,259,Bladder cancer
+377,260,Lung fibroblast
+378,261,Pancreatic cancer
+379,262,Foreskin fibroblast
+380,263,Lung fibroblast
+381,264,Prostate cancer
+382,264,Gastric cancer
+383,264,Colorectal cancer
+384,264,Gastric epithelial
+385,264,Lung fibroblast
+386,264,Breast cancer
+387,265,Embryonic kidney
+388,265,Lung fibroblast
+389,266,Embryonic kidney
+390,266,Osteosarcoma
+391,266,Lung fibroblast
+392,266,Cervical cancer
+393,266,Lymphoblastic leukemia
+394,267,Lung fibroblast
+395,267,Foreskin fibroblast
+396,268,Dermal endothelial
+397,269,Lung fibroblast
+398,270,Lung fibroblast
+399,271,Fibroblast
+400,271,WRN syndrome fibroblast
+401,272,Lung cancer
+402,273,Dermal microvascular endothelial cells
+403,274,Lung fibroblast
+404,275,Lung fibroblast
+405,275,Foreskin fibroblast
+406,276,Breast cancer
+407,277,Cervical cancer
+408,278,Dermal fibroblast
+409,278,Breast cancer
+410,278,Osteosarcoma
+411,278,Embryonic kidney
+412,279,Lung cancer
