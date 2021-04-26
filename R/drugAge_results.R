@@ -1,7 +1,7 @@
+#' DrugAge compounds database
+#'
 #' A curated database of compounds that modulate longevity in model organisms
-#'
-#' The DrugAge database contains an extensive compilation of drugs, compounds and supplements (including natural products and nutraceuticals) with anti-ageing properties that extend longevity in model organisms. Our focus is on drugs/compounds potentially impacting on ageing, and therefore drugs/compounds extending lifespan in disease-prone animals (e.g., cancer models) are excluded.
-#'
+#' 
 #' @format A table with 1823 rows and 14 variables:
 #' \describe{
 #'   \item{id}{Primary id of compound}

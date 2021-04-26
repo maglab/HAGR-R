@@ -6,7 +6,7 @@ Author: Zoya Abidi
 Maintainer: Zoya Abidi <zoya.farooq@liverpool.ac.uk>
 Description: R data package for the Human Ageing Resources Databases
     https://genomics.senescence.info/
-License: MIT
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
@@ -16,3 +16,5 @@ Depends: R (>= 3.5.0)
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Imports: 
+    tibble
