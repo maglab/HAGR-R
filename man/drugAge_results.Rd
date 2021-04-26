@@ -3,7 +3,7 @@
 \docType{data}
 \name{drugAge_results}
 \alias{drugAge_results}
-\title{DrugAge compounds database}
+\title{DrugAge Compounds Database}
 \format{
 A table with 1823 rows and 14 variables:
 \describe{

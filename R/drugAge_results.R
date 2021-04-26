@@ -1,4 +1,4 @@
-#' DrugAge compounds database
+#' DrugAge Compounds Database
 #'
 #' A curated database of compounds that modulate longevity in model organisms
 #' 
