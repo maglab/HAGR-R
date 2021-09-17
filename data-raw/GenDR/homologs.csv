@@ -1,0 +1,566 @@
+"id_homolog","organism","entrez_id","gene_symbol","gene_name","gene_id"
+00001,"Homo sapiens",853826,"NFU1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",27247
+00002,"Pan troglodytes",853826,"NFU1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",470394
+00003,"Canis lupus familiaris",853826,"NFU1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",612607
+00004,"Bos taurus",853826,"NFU1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",615964
+00005,"Mus musculus",853826,"Nfu1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",56748
+00006,"Rattus norvegicus",853826,"Nfu1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",297416
+00007,"Gallus gallus",853826,"NFU1","NFU1 iron-sulfur cluster scaffold homolog (S. cerevisiae)",419513
+00008,"Danio rerio",853826,"hirip5","HIRA interacting protein 5",403053
+00009,"Drosophila melanogaster",853826,"CG32857","CG32857",318252
+00010,"Drosophila melanogaster",853826,"CG32500","CG32500, isoform A",2768879
+00011,"Drosophila melanogaster",853826,"CG33502","CG33502",2768875
+00013,"Caenorhabditis elegans",853826,"lpd-8","LiPid Depleted",177928
+00014,"Schizosaccharomyces pombe",853826,"SPBC1709.19c","NifU-like protein",2539883
+00015,"Saccharomyces cerevisiae",853826,"NFU1","Nfu1p",853826
+00023,"Homo sapiens",856092,"SIRT2","sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)",22933
+00024,"Pan troglodytes",856092,"SIRT2","sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)",456013
+00025,"Canis lupus familiaris",856092,"SIRT2","sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)",612558
+00026,"Bos taurus",856092,"SIRT2","sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)",504463
+00027,"Mus musculus",856092,"Sirt2","sirtuin 2 (silent mating type information regulation 2, homolog) 2 (S. cerevisiae)",64383
+00028,"Rattus norvegicus",856092,"Sirt2","sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)",361532
+00029,"Danio rerio",856092,"sirt2","sirtuin 2 (silent mating type information regulation 2, homolog) 2 (S. cerevisiae)",322309
+00030,"Drosophila melanogaster",856092,"Sirt2","Sirt2",42414
+00032,"Schizosaccharomyces pombe",856092,"hst2","Sir2 family histone deacetylase Hst2",2538868
+00033,"Saccharomyces cerevisiae",856092,"HST2","Cytoplasmic member of the silencing information regulator 2 (Sir2) family of NAD(+)-dependent protei",856092
+00037,"Homo sapiens",850745,"SC5DL","sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, S. cerevisiae)-like",6309
+00038,"Pan troglodytes",850745,"SC5DL","sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, S. cerevisiae)-like",451624
+00039,"Canis lupus familiaris",850745,"SC5DL","sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, S. cerevisiae)-like",610411
+00040,"Mus musculus",850745,"Sc5d","sterol-C5-desaturase (fungal ERG3, delta-5-desaturase) homolog (S. cerevisae)",235293
+00041,"Rattus norvegicus",850745,"Sc5dl","sterol-C5-desaturase (ERG3 delta-5-desaturase homolog, S. cerevisiae)-like",114100
+00042,"Danio rerio",850745,"sc5d","sterol-C5-desaturase (fungal ERG3, delta-5-desaturase) homolog (S. cerevisae)",447891
+00043,"Schizosaccharomyces pombe",850745,"erg3","C-5 sterol desaturase Erg3 (predicted)",2542109
+00044,"Saccharomyces cerevisiae",850745,"ERG3","C-5 sterol desaturase, catalyzes the introduction of a C-5(6) double bond into episterol, a precurso",850745
+00052,"Homo sapiens",14600,"GHR","growth hormone receptor",2690
+00053,"Pan troglodytes",14600,"GHR","growth hormone receptor",471560
+00054,"Canis lupus familiaris",14600,"GHR","growth hormone receptor",403721
+00055,"Bos taurus",14600,"GHR","growth hormone receptor",280805
+00056,"Mus musculus",14600,"Ghr","growth hormone receptor",14600
+00057,"Rattus norvegicus",14600,"Ghr","growth hormone receptor",25235
+00058,"Gallus gallus",14600,"GHR","growth hormone receptor",408184
+00059,"Danio rerio",14600,"ghra","growth hormone receptor a",100001424
+00060,"Homo sapiens",855386,"HDAC1","histone deacetylase 1",3065
+00061,"Pan troglodytes",855386,"LOC464259","similar to histone deacetylase",464259
+00062,"Canis lupus familiaris",855386,"LOC487309","similar to histone deacetylase 1",487309
+00063,"Bos taurus",855386,"HDAC1","histone deacetylase 1",404126
+00064,"Mus musculus",855386,"Hdac1","histone deacetylase 1",433759
+00065,"Rattus norvegicus",855386,"Hdac1","histone deacetylase 1",297893
+00066,"Gallus gallus",855386,"HDAC1","histone deacetylase 1",373961
+00067,"Danio rerio",855386,"hdac1","histone deacetylase 1",192302
+00068,"Drosophila melanogaster",855386,"Rpd3","Rpd3",38565
+00070,"Caenorhabditis elegans",855386,"hda-1","Histone DeAcetylase",179959
+00071,"Schizosaccharomyces pombe",855386,"clr6","histone deacetylase (class I) Clr6",2540368
+00072,"Saccharomyces cerevisiae",855386,"RPD3","Histone deacetylase; regulates transcription and silencing",855386
+00079,"Homo sapiens",47396,"MTOR","mechanistic target of rapamycin (serine/threonine kinase)",2475
+00080,"Canis lupus familiaris",47396,"MTOR","mechanistic target of rapamycin (serine/threonine kinase)",478232
+00081,"Bos taurus",47396,"LOC100139219","similar to FKBP12-rapamycin complex-associated protein (FK506-binding protein 12-rapamycin complex-a",100139219
+00082,"Mus musculus",47396,"Mtor","mechanistic target of rapamycin (serine/threonine kinase)",56717
+00083,"Rattus norvegicus",47396,"Mtor","mechanistic target of rapamycin (serine/threonine kinase)",56718
+00084,"Gallus gallus",47396,"FRAP1","FK506 binding protein 12-rapamycin associated protein 1",419455
+00085,"Danio rerio",47396,"frap1","FK506 binding protein 12-rapamycin associated protein 1",324254
+00086,"Drosophila melanogaster",47396,"Tor","Target of rapamycin",47396
+00088,"Schizosaccharomyces pombe",47396,"tor1","phosphatidylinositol kinase Tor1",2540473
+00089,"Saccharomyces cerevisiae",47396,"TOR2","PIK-related protein kinase and rapamycin target; subunit of TORC1, a complex that regulates growth i",853632
+00094,"Saccharomyces cerevisiae",854086,"SIR2","Conserved NAD+ dependent histone deacetylase of the Sirtuin family involved in regulation of lifespa",851520
+00095,"Saccharomyces cerevisiae",854086,"HST1","Hst1p",854086
+00098,"Homo sapiens",177924,"SIRT1","sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)",23411
+00099,"Canis lupus familiaris",177924,"SIRT1","sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)",489012
+00100,"Bos taurus",177924,"SIRT1","sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)",613629
+00101,"Mus musculus",177924,"Sirt1","sirtuin 1 (silent mating type information regulation 2, homolog) 1 (S. cerevisiae)",93759
+00102,"Rattus norvegicus",177924,"Sirt1","sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)",309757
+00103,"Gallus gallus",177924,"SIRT1","sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)",423646
+00104,"Danio rerio",177924,"sirt1","sirtuin (silent mating type information regulation 2 homolog) 1",100150700
+00105,"Drosophila melanogaster",177924,"Sir2","Sir2",34708
+00106,"Caenorhabditis elegans",177924,"sir-2.1","yeast SIR related",177924
+00107,"Homo sapiens",852639,"HK1","hexokinase 1",3098
+00108,"Pan troglodytes",852639,"HK1","hexokinase 1",450505
+00109,"Canis lupus familiaris",852639,"HK1","hexokinase 1",479234
+00110,"Bos taurus",852639,"MTOR","mechanistic target of rapamycin (serine/threonine kinase)",281771
+00111,"Mus musculus",852639,"Hk1","hexokinase 1",15275
+00112,"Gallus gallus",852639,"HK1","hexokinase 1",373889
+00113,"Danio rerio",852639,"hk1","hexokinase 1",406791
+00114,"Drosophila melanogaster",852639,"Hex-t2","Hex-t2",43191
+00115,"Schizosaccharomyces pombe",852639,"hxk1","hexokinase 1 (PMID 8549830)",2542634
+00116,"Saccharomyces cerevisiae",852639,"HXK1","Hexokinase isoenzyme 1, a cytosolic protein that catalyzes phosphorylation of glucose during glucose",850614
+00117,"Saccharomyces cerevisiae",852639,"HXK2","Hexokinase isoenzyme 2 that catalyzes phosphorylation of glucose in the cytosol; predominant hexokin",852639
+00126,"Schizosaccharomyces pombe",856741,"git8","heterotrimeric G protein alpha-2 subunit Gpa2 (PMID 1340462)",2541720
+00127,"Saccharomyces cerevisiae",856741,"GPA2","Gpa2p",856741
+00132,"Saccharomyces cerevisiae",855053,"MSN4","Msn4p",853803
+00133,"Saccharomyces cerevisiae",855053,"MSN2","Msn2p",855053
+00134,"Danio rerio",851676,"ywhae2","tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide 2",503763
+00135,"Schizosaccharomyces pombe",851676,"rad25","14-3-3 protein Rad25",2542252
+00136,"Saccharomyces cerevisiae",851676,"BMH1","14-3-3 protein, major isoform; controls proteome at post-transcriptional level, binds proteins and D",856924
+00137,"Saccharomyces cerevisiae",851676,"BMH2","14-3-3 protein, minor isoform; controls proteome at post-transcriptional level, binds proteins and D",851676
+00146,"Caenorhabditis elegans",854651,"Y50E8A.6","hypothetical protein",190107
+00147,"Schizosaccharomyces pombe",854651,"gut2","glycerol-3-phosphate dehydrogenase Gut2",2539217
+00148,"Saccharomyces cerevisiae",854651,"GUT2","Gut2p",854651
+00151,"Schizosaccharomyces pombe",850432,"atg15","triacylglycerol lipase Atg15 (predicted)",2541924
+00152,"Saccharomyces cerevisiae",850432,"ATG15","Atg15p",850432
+00155,"Schizosaccharomyces pombe",855029,"erg5","C-22 sterol desaturase Erg5 (predicted)",2542469
+00156,"Saccharomyces cerevisiae",855029,"ERG5","C-22 sterol desaturase, a cytochrome P450 enzyme that catalyzes the formation of the C-22(23) double",855029
+00167,"Saccharomyces cerevisiae",853972,"PCK1","Pck1p",853972
+00175,"Homo sapiens",855012,"RAB7A","RAB7A, member RAS oncogene family",7879
+00176,"Pan troglodytes",855012,"RAB7A","RAB7A, member RAS oncogene family",470919
+00177,"Canis lupus familiaris",855012,"RAB7A","RAB7A, member RAS oncogene family",404007
+00178,"Bos taurus",855012,"RAB7A","RAB7A, member RAS oncogene family",509970
+00179,"Mus musculus",855012,"Rab7","RAB7, member RAS oncogene family",19349
+00180,"Rattus norvegicus",855012,"Rab7a","RAB7A, member RAS oncogene family",29448
+00181,"Gallus gallus",855012,"RAB7A","RAB7A, member RAS oncogene family",416016
+00182,"Danio rerio",855012,"rab7","RAB7, member RAS oncogene family",393902
+00183,"Drosophila melanogaster",855012,"Rab7","Rab-protein 7",42841
+00185,"Schizosaccharomyces pombe",855012,"ypt7","GTPase Ypt7",2540763
+00186,"Saccharomyces cerevisiae",855012,"YPT7","GTPase; GTP-binding protein of the rab family; required for homotypic fusion event in vacuole inheri",855012
+00195,"Schizosaccharomyces pombe",2540329,"atf1","transcription factor Atf1",2540329
+00198,"Caenorhabditis elegans",178554,"cup-4","Coelomocyte UPtake defective",176104
+00199,"Caenorhabditis elegans",178554,"lgc-26","Ligand-Gated ion Channel",178554
+00200,"Caenorhabditis elegans",178554,"lgc-25","Ligand-Gated ion Channel",181525
+00201,"Canis lupus familiaris",851484,"LOC607833","similar to ribosomal protein L31",607833
+00202,"Mus musculus",851484,"Gm13004","predicted gene 13004",665533
+00203,"Rattus norvegicus",851484,"LOC688416","similar to ribosomal protein L31",688416
+00204,"Danio rerio",851484,"zgc:136896","zgc:136896",677758
+00205,"Drosophila melanogaster",851484,"RpL31","Ribosomal protein L31",35988
+00207,"Schizosaccharomyces pombe",851484,"rpl31","60S ribosomal protein L31",2543475
+00208,"Saccharomyces cerevisiae",851484,"RPL31B","Protein component of the large (60S) ribosomal subunit, nearly identical to Rpl31Ap and has similari",851122
+00209,"Saccharomyces cerevisiae",851484,"RPL31A","Protein component of the large (60S) ribosomal subunit, nearly identical to Rpl31Bp and has similari",851484
+00220,"Homo sapiens",855346,"PPAT","phosphoribosyl pyrophosphate amidotransferase",5471
+00221,"Pan troglodytes",855346,"PPAT","phosphoribosyl pyrophosphate amidotransferase",461309
+00222,"Canis lupus familiaris",855346,"PPAT","phosphoribosyl pyrophosphate amidotransferase",611407
+00223,"Bos taurus",855346,"PPAT","phosphoribosyl pyrophosphate amidotransferase",509652
+00224,"Mus musculus",855346,"Ppat","phosphoribosyl pyrophosphate amidotransferase",231327
+00225,"Rattus norvegicus",855346,"Ppat","phosphoribosyl pyrophosphate amidotransferase",117544
+00226,"Gallus gallus",855346,"PPAT","phosphoribosyl pyrophosphate amidotransferase",422743
+00227,"Danio rerio",855346,"ppat","phosphoribosyl pyrophosphate amidotransferase",572027
+00228,"Drosophila melanogaster",855346,"Prat","Phosphoribosylamidotransferase",40935
+00229,"Drosophila melanogaster",855346,"Prat2","Phosphoribosylamidotransferase 2",38753
+00231,"Caenorhabditis elegans",855346,"Amidophosphoribosylt","hypothetical protein",175613
+00232,"Schizosaccharomyces pombe",855346,"ade4","amidophosphoribosyltransferase (PMID 8082193)",2543626
+00233,"Saccharomyces cerevisiae",855346,"ADE4","Ade4p",855346
+00241,"Homo sapiens",854231,"CYC1","cytochrome c-1",1537
+00242,"Pan troglodytes",854231,"CYC1","cytochrome c-1",472893
+00243,"Canis lupus familiaris",854231,"LOC475121","similar to cytochrome c-1",475121
+00244,"Bos taurus",854231,"CYC1","cytochrome c-1",512500
+00245,"Mus musculus",854231,"Cyc1","cytochrome c-1",66445
+00246,"Rattus norvegicus",854231,"Cyc1","cytochrome c-1",300047
+00247,"Danio rerio",854231,"cyc1","cytochrome c-1",564379
+00248,"Drosophila melanogaster",854231,"CG4769","CG4769",38612
+00250,"Caenorhabditis elegans",854231,"cyc-1","CYtochrome C",172582
+00251,"Schizosaccharomyces pombe",854231,"cyt1","cytochrome c1",2540456
+00252,"Saccharomyces cerevisiae",854231,"CYT1","Cyt1p",854231
+00262,"Schizosaccharomyces pombe",855003,"erg6","delta-sterol C-methyltransferase (predicted)",2539602
+00263,"Saccharomyces cerevisiae",855003,"ERG6","Delta(24)-sterol C-methyltransferase, converts zymosterol to fecosterol in the ergosterol biosynthet",855003
+00270,"Drosophila melanogaster",33918,"CG11015","CG11015",33918
+00272,"Caenorhabditis elegans",33918,"cco-1","Cytochrome C Oxidase",172832
+00273,"Homo sapiens",188774,"CCKAR","cholecystokinin A receptor",886
+00274,"Pan troglodytes",188774,"CCKAR","cholecystokinin A receptor",471163
+00275,"Canis lupus familiaris",188774,"CCKAR","cholecystokinin A receptor",488846
+00276,"Bos taurus",188774,"CCKAR","cholecystokinin A receptor",506207
+00277,"Mus musculus",188774,"Cckar","cholecystokinin A receptor",12425
+00278,"Rattus norvegicus",188774,"Cckar","cholecystokinin A receptor",24889
+00279,"Gallus gallus",188774,"CCKAR","cholecystokinin A receptor",422801
+00280,"Danio rerio",188774,"LOC569038","similar to cholecystokinin A receptor",569038
+00282,"Caenorhabditis elegans",188774,"ckr-2","CholecystoKinin Receptor homolog",175341
+00283,"Caenorhabditis elegans",188774,"ckr-1","CholecystoKinin Receptor homolog",188774
+00284,"Drosophila melanogaster",33569,"Thor","thor",33569
+00286,"Homo sapiens",854303,"IDH3A","isocitrate dehydrogenase 3 (NAD+) alpha",3419
+00287,"Pan troglodytes",854303,"IDH3A","isocitrate dehydrogenase 3 (NAD+) alpha",453565
+00288,"Canis lupus familiaris",854303,"IDH3A","isocitrate dehydrogenase 3 (NAD+) alpha",479066
+00289,"Bos taurus",854303,"IDH3A","isocitrate dehydrogenase 3 (NAD+) alpha",282446
+00290,"Mus musculus",854303,"Idh3a","isocitrate dehydrogenase 3 (NAD+) alpha",67834
+00291,"Rattus norvegicus",854303,"Idh3a","isocitrate dehydrogenase 3 (NAD+) alpha",114096
+00292,"Gallus gallus",854303,"IDH3A","isocitrate dehydrogenase 3 (NAD+) alpha",415362
+00293,"Danio rerio",854303,"idh3a","isocitrate dehydrogenase 3 (NAD+) alpha",393926
+00294,"Drosophila melanogaster",854303,"l(1)G0156","lethal (1) G0156",32940
+00296,"Caenorhabditis elegans",854303,"F43G9.1","hypothetical protein",172655
+00297,"Schizosaccharomyces pombe",854303,"glu2","isocitrate dehydrogenase (NAD+) subunit 2",2541260
+00298,"Saccharomyces cerevisiae",854303,"IDH2","Idh2p",854303
+00306,"Homo sapiens",855983,"BECN1","beclin 1, autophagy related",8678
+00307,"Pan troglodytes",855983,"BECN1","beclin 1, autophagy related",454700
+00308,"Bos taurus",855983,"BECN1","beclin 1, autophagy related",527278
+00309,"Mus musculus",855983,"Becn1","beclin 1, autophagy related",56208
+00310,"Rattus norvegicus",855983,"Becn1","beclin 1, autophagy related",114558
+00311,"Gallus gallus",855983,"BECN1","beclin 1, autophagy related",420018
+00312,"Drosophila melanogaster",855983,"Atg6","Autophagy-specific gene 6",42850
+00314,"Caenorhabditis elegans",855983,"bec-1","BEClin (human autophagy) homolog",177345
+00315,"Schizosaccharomyces pombe",855983,"SPAC20G8.10c","beclin family protein",3361548
+00316,"Saccharomyces cerevisiae",855983,"VPS30","Subunit of phosphatidylinositol (PtdIns) 3-kinase complexes I and II; Complex I is essential in auto",855983
+00324,"Homo sapiens",39322,"SLC25A30","solute carrier family 25, member 30",253512
+00325,"Pan troglodytes",39322,"SLC25A30","solute carrier family 25, member 30",452577
+00326,"Canis lupus familiaris",39322,"SLC25A30","solute carrier family 25, member 30",609084
+00327,"Bos taurus",39322,"SLC25A30","solute carrier family 25, member 30",507021
+00328,"Mus musculus",39322,"Slc25a30","solute carrier family 25, member 30",67554
+00329,"Rattus norvegicus",39322,"Slc25a30","solute carrier family 25, member 30",361074
+00330,"Gallus gallus",39322,"SLC25A30","solute carrier family 25, member 30",418845
+00331,"Drosophila melanogaster",39322,"Bmcp","bmcp, isoform B",39322
+00333,"Drosophila melanogaster",852846,"CG31216","CG31216",42348
+00335,"Caenorhabditis elegans",852846,"pnc-2","Pyrazinamidase and NiCotinamidase",3565064
+00336,"Caenorhabditis elegans",852846,"pnc-1","Pyrazinamidase and NiCotinamidase",176833
+00337,"Schizosaccharomyces pombe",852846,"SPBC365.20c","nicotinamidase (predicted)",2540906
+00338,"Saccharomyces cerevisiae",852846,"PNC1","Nicotinamidase that converts nicotinamide to nicotinic acid as part of the NAD(+) salvage pathway, r",852846
+00343,"Homo sapiens",181370,"MAT2A","methionine adenosyltransferase II, alpha",4144
+00344,"Pan troglodytes",181370,"MAT2A","methionine adenosyltransferase II, alpha",459363
+00345,"Canis lupus familiaris",181370,"MAT2A","methionine adenosyltransferase II, alpha",475770
+00346,"Bos taurus",181370,"MAT2A","methionine adenosyltransferase II, alpha",527403
+00347,"Mus musculus",181370,"Mat2a","methionine adenosyltransferase II, alpha",232087
+00348,"Rattus norvegicus",181370,"Mat2a","methionine adenosyltransferase II, alpha",171347
+00349,"Danio rerio",181370,"LOC791612","hypothetical LOC791612",791612
+00350,"Drosophila melanogaster",181370,"M(2)21AB","Minute (2) 21AB",48552
+00352,"Caenorhabditis elegans",181370,"tag-32","Temporarily Assigned Gene name",177389
+00353,"Caenorhabditis elegans",181370,"C06E7.3","hypothetical protein",177354
+00354,"Caenorhabditis elegans",181370,"C06E7.1","hypothetical protein",177355
+00355,"Caenorhabditis elegans",181370,"Y105C5B.12","hypothetical protein",178446
+00356,"Caenorhabditis elegans",181370,"sams-1","S-Adenosyl Methionine Synthetase",181370
+00357,"Schizosaccharomyces pombe",181370,"sam1","S-adenosylmethionine synthetase (PMID 10620770)",2539943
+00358,"Saccharomyces cerevisiae",181370,"SAM2","S-adenosylmethionine synthetase, catalyzes transfer of the adenosyl group of ATP to the sulfur atom ",852113
+00359,"Saccharomyces cerevisiae",181370,"SAM1","S-adenosylmethionine synthetase, catalyzes transfer of the adenosyl group of ATP to the sulfur atom ",850877
+00366,"Homo sapiens",855625,"RRAS2","related RAS viral (r-ras) oncogene homolog 2",22800
+00367,"Pan troglodytes",855625,"RRAS2","related RAS viral (r-ras) oncogene homolog 2",451038
+00368,"Canis lupus familiaris",855625,"RRAS2","related RAS viral (r-ras) oncogene homolog 2",476865
+00369,"Bos taurus",855625,"RRAS2","related RAS viral (r-ras) oncogene homolog 2",519269
+00370,"Mus musculus",855625,"Rras2","related RAS viral (r-ras) oncogene homolog 2",66922
+00371,"Rattus norvegicus",855625,"Rras2","related RAS viral (r-ras) oncogene homolog 2",365355
+00372,"Gallus gallus",855625,"RRAS2","related RAS viral (r-ras) oncogene homolog 2",423062
+00373,"Danio rerio",855625,"rras2","related RAS viral (r-ras) oncogene homolog 2",550513
+00374,"Drosophila melanogaster",855625,"Ras64B","Ras oncogene at 64B",38494
+00376,"Caenorhabditis elegans",855625,"ras-1","R-RAS related",174875
+00377,"Schizosaccharomyces pombe",855625,"ras1","GTPase Ras1",2542285
+00378,"Saccharomyces cerevisiae",855625,"RAS2","GTP-binding protein that regulates the nitrogen starvation response, sporulation, and filamentous gr",855625
+00379,"Saccharomyces cerevisiae",855625,"RAS1","GTPase involved in G-protein signaling in the adenylate cyclase activating pathway, plays a role in ",854268
+00383,"Homo sapiens",38654,"RPS6KB1","ribosomal protein S6 kinase, 70kDa, polypeptide 1",6198
+00384,"Pan troglodytes",38654,"RPS6KB1","ribosomal protein S6 kinase, 70kDa, polypeptide 1",468426
+00385,"Canis lupus familiaris",38654,"RPS6KB1","ribosomal protein S6 kinase, 70kDa, polypeptide 1",480580
+00386,"Bos taurus",38654,"RPS6KB1","ribosomal protein S6 kinase, 70kDa, polypeptide 1",404181
+00387,"Rattus norvegicus",38654,"Rps6kb1","ribosomal protein S6 kinase, 70kDa, polypeptide 1",83840
+00388,"Gallus gallus",38654,"RCJMB04_4j14","ribosomal protein S6 kinase, 70kDa, polypeptide 1",417637
+00389,"Danio rerio",38654,"rps6kb1","ribosomal protein S6 kinase b, polypeptide 1",406349
+00390,"Drosophila melanogaster",38654,"S6k","RPS6-p70-protein kinase",38654
+00392,"Caenorhabditis elegans",38654,"rsks-1","RSK-pSeventy (RSK-p70 kinase) homolog",176554
+00397,"Homo sapiens",174190,"AQP9","aquaporin 9",366
+00398,"Pan troglodytes",174190,"AQP9","aquaporin 9",467693
+00399,"Canis lupus familiaris",174190,"AQP9","aquaporin 9",487576
+00400,"Bos taurus",174190,"AQP9","aquaporin 9",516762
+00401,"Mus musculus",174190,"Aqp9","aquaporin 9",64008
+00402,"Rattus norvegicus",174190,"Aqp9","aquaporin 9",65054
+00403,"Gallus gallus",174190,"AQP9","aquaporin 9",415402
+00404,"Danio rerio",174190,"LOC570191","similar to aquaglyceroporin",570191
+00405,"Caenorhabditis elegans",174190,"aqp-2","AQuaPorin or aquaglyceroporin related",174467
+00406,"Caenorhabditis elegans",174190,"aqp-1","AQuaPorin or aquaglyceroporin related",174190
+00407,"Caenorhabditis elegans",174190,"aqp-7","AQuaPorin or aquaglyceroporin related",180589
+00408,"Caenorhabditis elegans",174190,"aqp-3","AQuaPorin or aquaglyceroporin related",190553
+00411,"Schizosaccharomyces pombe",854342,"SPAC4A8.07c","sphingoid long chain base (LCB) kinase",2543328
+00412,"Saccharomyces cerevisiae",854342,"LCB5","Lcb5p",850964
+00413,"Saccharomyces cerevisiae",854342,"LCB4","Lcb4p",854342
+00418,"Caenorhabditis elegans",177778,"hsp-12.1","Heat Shock Protein",188710
+00419,"Caenorhabditis elegans",177778,"hsp-12.2","Heat Shock Protein",176148
+00420,"Caenorhabditis elegans",177778,"hsp-12.3","Heat Shock Protein",177777
+00421,"Caenorhabditis elegans",177778,"hsp-12.6","Heat Shock Protein",177778
+00422,"Saccharomyces cerevisiae",855922,"TCO89","Subunit of TORC1 (Tor1p or Tor2p-Kog1p-Lst8p-Tco89p), a complex that regulates growth in response to",855922
+00425,"Homo sapiens",174305,"ERN1","endoplasmic reticulum to nucleus signaling 1",2081
+00426,"Pan troglodytes",174305,"ERN1","endoplasmic reticulum to nucleus signaling 1",454769
+00427,"Canis lupus familiaris",174305,"ERN1","endoplasmic reticulum to nucleus signaling 1",610766
+00428,"Bos taurus",174305,"LOC524719","similar to endoplasmic reticulum to nucleus signalling 1",524719
+00429,"Mus musculus",174305,"Ern1","endoplasmic reticulum (ER) to nucleus signalling 1",78943
+00430,"Rattus norvegicus",174305,"Ern1","endoplasmic reticulum to nucleus signaling 1",498013
+00431,"Gallus gallus",174305,"ERN1","endoplasmic reticulum to nucleus signaling 1",771230
+00432,"Danio rerio",174305,"LOC567021","similar to MGC83537 protein",567021
+00433,"Drosophila melanogaster",174305,"ire-1","ire-1, isoform C",42358
+00435,"Caenorhabditis elegans",174305,"ire-1","IRE1 kinase related",174305
+00436,"Drosophila melanogaster",40650,"Or83b","Odorant receptor 83b",40650
+00438,"Homo sapiens",2539781,"PRKACB","protein kinase, cAMP-dependent, catalytic, beta",5567
+00439,"Pan troglodytes",2539781,"PRKACB","protein kinase, cAMP-dependent, catalytic, beta",469367
+00440,"Canis lupus familiaris",2539781,"PRKACB","protein kinase, cAMP-dependent, catalytic, beta",479975
+00441,"Bos taurus",2539781,"PRKACB","protein kinase, cAMP-dependent, catalytic, beta",282323
+00442,"Mus musculus",2539781,"Prkacb","protein kinase, cAMP dependent, catalytic, beta",18749
+00443,"Rattus norvegicus",2539781,"Prkacb","protein kinase, cAMP dependent, catalytic, beta",293508
+00444,"Gallus gallus",2539781,"PRKACB","protein kinase, cAMP-dependent, catalytic, beta",424542
+00445,"Danio rerio",2539781,"prkacb","protein kinase, cAMP-dependent, catalytic, beta",563147
+00446,"Drosophila melanogaster",2539781,"Pka-C1","cAMP-dependent protein kinase 1",34284
+00448,"Schizosaccharomyces pombe",2539781,"git6","cAMP-dependent protein kinase catalytic subunit Pka1 (PMID 8144551)",2539781
+00449,"Saccharomyces cerevisiae",2539781,"TPK2","Tpk2p",855898
+00454,"Danio rerio",41709,"foxo3a","forkhead box O3A",494532
+00455,"Drosophila melanogaster",41709,"foxo","forkhead box, sub-group O",41709
+00456,"Danio rerio",856612,"si:ch211-195b13.1","si:ch211-195b13.1",768159
+00457,"Schizosaccharomyces pombe",856612,"sck1","serine/threonine protein kinase Sck1",2542492
+00458,"Saccharomyces cerevisiae",856612,"SCH9","Protein kinase involved in transcriptional activation of osmostress-responsive genes; regulates G1 p",856612
+00463,"Schizosaccharomyces pombe",853529,"tor2","phosphatidylinositol kinase Tor2",2540720
+00464,"Saccharomyces cerevisiae",853529,"TOR1","PIK-related protein kinase and rapamycin target; subunit of TORC1, a complex that controls growth in",853529
+00467,"Caenorhabditis elegans",851087,"elo-1","fatty acid ELOngation",177787
+00468,"Caenorhabditis elegans",851087,"elo-5","fatty acid ELOngation",177320
+00469,"Caenorhabditis elegans",851087,"elo-6","fatty acid ELOngation",177321
+00470,"Caenorhabditis elegans",851087,"elo-7","fatty acid ELOngation",186426
+00471,"Saccharomyces cerevisiae",851087,"SUR4","Elongase, involved in fatty acid and sphingolipid biosynthesis; synthesizes very long chain 20-26-ca",851087
+00474,"Homo sapiens",2541055,"MAP2K4","mitogen-activated protein kinase kinase 4",6416
+00475,"Pan troglodytes",2541055,"MAP2K4","mitogen-activated protein kinase kinase 4",455065
+00476,"Canis lupus familiaris",2541055,"MAP2K4","mitogen-activated protein kinase kinase 4",489508
+00477,"Bos taurus",2541055,"MAP2K4","mitogen-activated protein kinase kinase 4",526469
+00478,"Mus musculus",2541055,"Map2k4","mitogen-activated protein kinase kinase 4",26398
+00479,"Rattus norvegicus",2541055,"Map2k4","mitogen activated protein kinase kinase 4",287398
+00480,"Gallus gallus",2541055,"MAP2K4","mitogen-activated protein kinase kinase 4",417312
+00481,"Danio rerio",2541055,"zgc:194486","zgc:194486",568951
+00482,"Drosophila melanogaster",2541055,"Mkk4","MAP kinase kinase 4",41020
+00484,"Caenorhabditis elegans",2541055,"mkk-4","MKK (MAP Kinase Kinase) homolog",185682
+00485,"Caenorhabditis elegans",2541055,"VZC374L.1","hypothetical protein",189074
+00486,"Schizosaccharomyces pombe",2541055,"smf2","MAP kinase kinase Wis1",2541055
+00487,"Saccharomyces cerevisiae",2541055,"PBS2","MAP kinase kinase that plays a pivotal role in the osmosensing signal-transduction pathway, activate",853313
+00492,"Saccharomyces cerevisiae",850782,"NYV1","Nyv1p",850782
+00495,"Homo sapiens",2541652,"MAPK14","mitogen-activated protein kinase 14",1432
+00496,"Pan troglodytes",2541652,"MAPK14","mitogen-activated protein kinase 14",450161
+00497,"Canis lupus familiaris",2541652,"MAPK14","mitogen-activated protein kinase 14",403856
+00498,"Bos taurus",2541652,"MAPK14","mitogen-activated protein kinase 14",534492
+00499,"Mus musculus",2541652,"Mapk14","mitogen-activated protein kinase 14",26416
+00500,"Rattus norvegicus",2541652,"Mapk14","mitogen activated protein kinase 14",81649
+00501,"Gallus gallus",2541652,"MAPK14","mitogen-activated protein kinase 14",421183
+00502,"Danio rerio",2541652,"mapk14a","mitogen-activated protein kinase 14a",65237
+00503,"Drosophila melanogaster",2541652,"p38b","p38b",34780
+00504,"Drosophila melanogaster",2541652,"Mpk2","Mpk2, isoform B",42866
+00506,"Caenorhabditis elegans",2541652,"pmk-1","P38 Map Kinase family",191743
+00507,"Schizosaccharomyces pombe",2541652,"phh1","MAP kinase Sty1",2541652
+00508,"Saccharomyces cerevisiae",2541652,"HOG1","Hog1p",850803
+00515,"Homo sapiens",40049,"SLC13A2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",9058
+00516,"Pan troglodytes",40049,"SLC13A2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",454528
+00517,"Canis lupus familiaris",40049,"SLC13A2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",491167
+00518,"Bos taurus",40049,"SLC13A2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",505069
+00519,"Mus musculus",40049,"Slc13a2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",20500
+00520,"Rattus norvegicus",40049,"Slc13a2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",65202
+00521,"Gallus gallus",40049,"SLC13A2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",427830
+00522,"Danio rerio",40049,"slc13a2","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2",406537
+00523,"Drosophila melanogaster",40049,"Indy","I'm not dead yet",40049
+00529,"Homo sapiens",40201,"TSC2","tuberous sclerosis 2",7249
+00530,"Pan troglodytes",40201,"TSC2","tuberous sclerosis 2",468086
+00531,"Canis lupus familiaris",40201,"TSC2","tuberous sclerosis 2",479883
+00532,"Bos taurus",40201,"TSC2","tuberous sclerosis 2",504985
+00533,"Mus musculus",40201,"Tsc2","tuberous sclerosis 2",22084
+00534,"Rattus norvegicus",40201,"Tsc2","tuberous sclerosis 2",24855
+00535,"Danio rerio",40201,"tsc2","tuberous sclerosis 2",567524
+00536,"Drosophila melanogaster",40201,"gig","gigas",40201
+00538,"Saccharomyces cerevisiae",853452,"CYR1","Adenylate cyclase, required for cAMP production and cAMP-dependent protein kinase signaling; the cAM",853452
+00543,"Saccharomyces cerevisiae",854914,"PGA3","Essential protein required for maturation of Gas1p and Pho8p, protein trafficking; GFP-fusion protei",854914
+00546,"Schizosaccharomyces pombe",850511,"ppk18","serine/threonine protein kinase Ppk18 (predicted)",3361535
+00547,"Saccharomyces cerevisiae",850511,"RIM15","Glucose-repressible protein kinase involved in signal transduction during cell proliferation in resp",850511
+00552,"Saccharomyces cerevisiae",853755,"AAT1","Aat1p",853755
+00555,"Homo sapiens",853777,"MDH2","malate dehydrogenase 2, NAD (mitochondrial)",4191
+00556,"Pan troglodytes",853777,"MDH2","malate dehydrogenase 2, NAD (mitochondrial)",463484
+00557,"Canis lupus familiaris",853777,"MDH2","malate dehydrogenase 2, NAD (mitochondrial)",482945
+00558,"Mus musculus",853777,"Mdh2","malate dehydrogenase 2, NAD (mitochondrial)",17448
+00559,"Rattus norvegicus",853777,"Mdh2","malate dehydrogenase 2, NAD (mitochondrial)",81829
+00560,"Gallus gallus",853777,"MDH2","malate dehydrogenase 2, NAD (mitochondrial)",417517
+00561,"Danio rerio",853777,"zgc:64133","zgc:64133",406405
+00562,"Drosophila melanogaster",853777,"CG7998","CG7998",42185
+00564,"Caenorhabditis elegans",853777,"mdh-1","Malate DeHydrogenase",175936
+00565,"Schizosaccharomyces pombe",853777,"SPCC306.08c","malate dehydrogenase",2538766
+00566,"Saccharomyces cerevisiae",853777,"MDH1","Mdh1p",853777
+00574,"Saccharomyces cerevisiae",850532,"HSP12","Hsp12p",850532
+00576,"Schizosaccharomyces pombe",854384,"SPAC1486.06","nicotinate phosphoribosyltransferase (predicted)",2542272
+00577,"Saccharomyces cerevisiae",854384,"NPT1","Nicotinate phosphoribosyltransferase, acts in the salvage pathway of NAD+ biosynthesis; required for",854384
+00581,"Saccharomyces cerevisiae",855479,"ATG2","Atg2p",855479
+00584,"Schizosaccharomyces pombe",855080,"fio1","iron transport multicopper oxidase Fio1",2541558
+00585,"Saccharomyces cerevisiae",855080,"FET3","Ferro-O2-oxidoreductase required for high-affinity iron uptake and involved in mediating resistance ",855080
+00591,"Saccharomyces cerevisiae",851019,"CDC25","Cdc25p",851019
+00594,"Saccharomyces cerevisiae",851527,"GPR1","Gpr1p",851527
+00597,"Schizosaccharomyces pombe",855710,"clr3","histone deacetylase (class II) Clr3",2540821
+00598,"Saccharomyces cerevisiae",855710,"HDA1","Hda1p",855710
+00603,"Homo sapiens",175729,"COQ7","coenzyme Q7 homolog, ubiquinone (yeast)",10229
+00604,"Pan troglodytes",175729,"COQ7","coenzyme Q7 homolog, ubiquinone (yeast)",740917
+00605,"Canis lupus familiaris",175729,"COQ7","coenzyme Q7 homolog, ubiquinone (yeast)",479828
+00606,"Bos taurus",175729,"COQ7","coenzyme Q7 homolog, ubiquinone (yeast)",504771
+00607,"Mus musculus",175729,"Coq7","demethyl-Q 7",12850
+00608,"Rattus norvegicus",175729,"Coq7","coenzyme Q7 homolog, ubiquinone (yeast)",25249
+00609,"Gallus gallus",175729,"COQ7","coenzyme Q7 homolog, ubiquinone (yeast)",416609
+00610,"Danio rerio",175729,"zgc:158731","zgc:158731",559504
+00611,"Drosophila melanogaster",175729,"COQ7","COQ7",44007
+00612,"Caenorhabditis elegans",175729,"clk-1","CLocK (biological timing) abnormality",175729
+00613,"Schizosaccharomyces pombe",175729,"coq7","ubiquinone biosynthesis protein Coq7",2541024
+00614,"Saccharomyces cerevisiae",175729,"CAT5","Cat5p",854292
+00619,"Homo sapiens",855653,"DLAT","dihydrolipoamide S-acetyltransferase",1737
+00620,"Pan troglodytes",855653,"DLAT","dihydrolipoamide S-acetyltransferase",466780
+00621,"Canis lupus familiaris",855653,"DLAT","dihydrolipoamide S-acetyltransferase",489406
+00622,"Bos taurus",855653,"DLAT","dihydrolipoamide S-acetyltransferase",512723
+00623,"Mus musculus",855653,"Dlat","dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)",235339
+00624,"Rattus norvegicus",855653,"Dlat","dihydrolipoamide S-acetyltransferase",81654
+00625,"Gallus gallus",855653,"DLAT","dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)",419796
+00626,"Danio rerio",855653,"dlat","dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)",324201
+00627,"Drosophila melanogaster",855653,"CG5261","CG5261, isoform B",34021
+00629,"Caenorhabditis elegans",855653,"F23B12.5","hypothetical protein",179945
+00630,"Schizosaccharomyces pombe",855653,"SPCC794.07","dihydrolipoamide S-acetyltransferase E2 (predicted)",2538797
+00631,"Saccharomyces cerevisiae",855653,"LAT1","Dihydrolipoamide acetyltransferase component (E2) of pyruvate dehydrogenase complex, which catalyzes",855653
+00641,"Schizosaccharomyces pombe",855176,"SPAC3A11.07","NADH dehydrogenase",2543119
+00642,"Saccharomyces cerevisiae",855176,"NDE1","Mitochondrial external NADH dehydrogenase, a type II NAD(P)H:quinone oxidoreductase that catalyzes t",855176
+00650,"Homo sapiens",853344,"GCLC","glutamate-cysteine ligase, catalytic subunit",2729
+00651,"Pan troglodytes",853344,"GCLC","glutamate-cysteine ligase, catalytic subunit",742732
+00652,"Canis lupus familiaris",853344,"GCLC","glutamate-cysteine ligase, catalytic subunit",609822
+00653,"Bos taurus",853344,"GCLC","glutamate-cysteine ligase, catalytic subunit",512468
+00654,"Mus musculus",853344,"Gclc","glutamate-cysteine ligase, catalytic subunit",14629
+00655,"Rattus norvegicus",853344,"Gclc","glutamate-cysteine ligase, catalytic subunit",25283
+00656,"Gallus gallus",853344,"GCLC","glutamate-cysteine ligase, catalytic subunit",421894
+00657,"Danio rerio",853344,"gclc","glutamate-cysteine ligase, catalytic subunit",326857
+00658,"Drosophila melanogaster",853344,"Gclc","Glutamate-cysteine ligase catalytic subunit",53581
+00660,"Caenorhabditis elegans",853344,"gcs-1","gamma GlutamylCysteine Synthetase",174438
+00661,"Schizosaccharomyces pombe",853344,"apd1","glutamate-cysteine ligase Gcs1 (PMID 8619315)",2541881
+00662,"Saccharomyces cerevisiae",853344,"GSH1","Gamma glutamylcysteine synthetase catalyzes the first step in glutathione (GSH) biosynthesis; expres",853344
+00667,"Caenorhabditis elegans",177343,"sknr-1","SKN Related",189139
+00668,"Caenorhabditis elegans",177343,"skn-1","SKiNhead",177343
+00669,"Drosophila melanogaster",180359,"sima","similar",43580
+00671,"Caenorhabditis elegans",180359,"hif-1","HIF (hypoxia inducible factor) homolog",180359
+00672,"Homo sapiens",179243,"SMEK1","SMEK homolog 1, suppressor of mek1 (Dictyostelium)",55671
+00673,"Pan troglodytes",179243,"LOC461513","similar to KIAA2010 protein",461513
+00674,"Pan troglodytes",179243,"LOC739423","similar to KIAA2010 protein",739423
+00675,"Canis lupus familiaris",179243,"SMEK1","SMEK homolog 1, suppressor of mek1 (Dictyostelium)",612974
+00676,"Bos taurus",179243,"SMEK1","SMEK homolog 1, suppressor of mek1",407220
+00677,"Mus musculus",179243,"Smek1","SMEK homolog 1, suppressor of mek1 (Dictyostelium)",68734
+00678,"Rattus norvegicus",179243,"Smek1","SMEK homolog 1, suppressor of mek1 (Dictyostelium)",314388
+00679,"Gallus gallus",179243,"SMEK1","SMEK homolog 1, suppressor of mek1 (Dictyostelium)",423411
+00680,"Danio rerio",179243,"smek1","SMEK homolog 1, suppressor of mek1 (Dictyostelium)",558578
+00681,"Caenorhabditis elegans",179243,"smk-1","SMEK (Dictyostelium Suppressor of MEK null) homolog",179243
+00684,"Danio rerio",173078,"hsf4","heat shock transcription factor 4",503739
+00685,"Caenorhabditis elegans",173078,"hsf-1","Heat Shock Factor",173078
+00686,"Danio rerio",179461,"egln1","egl nine homolog 1 (C. elegans)",436868
+00687,"Caenorhabditis elegans",179461,"egl-9","EGg Laying defective",179461
+00688,"Gallus gallus",180357,"FOXA2","forkhead box A2",395539
+00689,"Caenorhabditis elegans",180357,"pha-4","defective PHArynx development",180357
+00690,"Homo sapiens",175985,"UBE2L3","ubiquitin-conjugating enzyme E2L 3",7332
+00691,"Pan troglodytes",175985,"UBE2L3","ubiquitin-conjugating enzyme E2L 3",452921
+00692,"Canis lupus familiaris",175985,"UBE2L3","ubiquitin-conjugating enzyme E2L 3",477572
+00693,"Bos taurus",175985,"UBE2L3","ubiquitin-conjugating enzyme E2L 3",767894
+00694,"Mus musculus",175985,"Ube2l3","ubiquitin-conjugating enzyme E2L 3",22195
+00695,"Rattus norvegicus",175985,"Ube2l3","ubiquitin-conjugating enzyme E2L 3",363836
+00696,"Gallus gallus",175985,"UBE2L3","ubiquitin-conjugating enzyme E2L 3",416769
+00697,"Danio rerio",175985,"ube2l3","ubiquitin-conjugating enzyme E2L 3",415162
+00698,"Drosophila melanogaster",175985,"UbcD10","Ubiquitin conjugating enzyme 10",37035
+00700,"Caenorhabditis elegans",175985,"ubc-18","UBiquitin Conjugating enzyme",175985
+00701,"Homo sapiens",266836,"RAB10","RAB10, member RAS oncogene family",10890
+00702,"Pan troglodytes",266836,"RAB10","RAB10, member RAS oncogene family",470332
+00703,"Canis lupus familiaris",266836,"RAB10","RAB10, member RAS oncogene family",403958
+00704,"Bos taurus",266836,"RAB10","RAB10, member RAS oncogene family",783373
+00705,"Mus musculus",266836,"Rab10","RAB10, member RAS oncogene family",19325
+00706,"Rattus norvegicus",266836,"Rab10","RAB10, member RAS oncogene family",50993
+00707,"Gallus gallus",266836,"RAB10","RAB10, member RAS oncogene family",421994
+00708,"Danio rerio",266836,"zgc:92757","zgc:92757",436839
+00709,"Drosophila melanogaster",266836,"Rab10","Rab-protein 10",33025
+00711,"Caenorhabditis elegans",266836,"rab-10","RAB family",266836
+00712,"Homo sapiens",175410,"IGF1R","insulin-like growth factor 1 receptor",3480
+00713,"Pan troglodytes",175410,"IGF1R","insulin-like growth factor 1 receptor",453676
+00714,"Canis lupus familiaris",175410,"IGF1R","insulin-like growth factor 1 receptor",442951
+00715,"Bos taurus",175410,"IGF1R","insulin-like growth factor 1 receptor",281848
+00716,"Mus musculus",175410,"Igf1r","insulin-like growth factor I receptor",16001
+00717,"Rattus norvegicus",175410,"Igf1r","insulin-like growth factor 1 receptor",25718
+00718,"Gallus gallus",175410,"IGF1R","insulin-like growth factor 1 receptor",395889
+00719,"Danio rerio",175410,"igf1ra","insulin-like growth factor 1a receptor",245701
+00720,"Danio rerio",175410,"igf1rb","insulin-like growth factor 1b receptor",245702
+00721,"Drosophila melanogaster",175410,"InR","Insulin-like receptor",42549
+00723,"Caenorhabditis elegans",175410,"daf-2","abnormal DAuer Formation",175410
+00724,"Homo sapiens",174762,"PIK3CA","phosphoinositide-3-kinase, catalytic, alpha polypeptide",5290
+00725,"Pan troglodytes",174762,"PIK3CA","phosphoinositide-3-kinase, catalytic, alpha polypeptide",460858
+00726,"Canis lupus familiaris",174762,"PIK3CA","phosphoinositide-3-kinase, catalytic, alpha polypeptide",488084
+00727,"Bos taurus",174762,"PIK3CA","phosphoinositide-3-kinase, catalytic, alpha polypeptide",282306
+00728,"Mus musculus",174762,"Pik3ca","phosphatidylinositol 3-kinase, catalytic, alpha polypeptide",18706
+00729,"Gallus gallus",174762,"PIK3CA","phosphoinositide-3-kinase, catalytic, alpha polypeptide",424971
+00730,"Danio rerio",174762,"LOC561737","similar to phosphoinositide 3-kinase catalytic subunit",561737
+00731,"Caenorhabditis elegans",174762,"age-1","AGEing alteration",174762
+00732,"Homo sapiens",176074,"MCOLN3","mucolipin 3",55283
+00733,"Pan troglodytes",176074,"MCOLN3","mucolipin 3",469371
+00734,"Canis lupus familiaris",176074,"MCOLN3","mucolipin 3",490185
+00735,"Bos taurus",176074,"MCOLN3","mucolipin 3",514345
+00736,"Mus musculus",176074,"Mcoln3","mucolipin 3",171166
+00737,"Rattus norvegicus",176074,"Mcoln3","mucolipin 3",308022
+00738,"Gallus gallus",176074,"MCOLN3","mucolipin 3",429091
+00739,"Drosophila melanogaster",176074,"CG8743","CG8743",40152
+00741,"Caenorhabditis elegans",176074,"cup-5","Coelomocyte UPtake defective",176074
+00742,"Homo sapiens",174034,"PHB2","prohibitin 2",11331
+00743,"Pan troglodytes",174034,"PHB2","prohibitin 2",451805
+00744,"Canis lupus familiaris",174034,"PHB2","prohibitin 2",486716
+00745,"Bos taurus",174034,"PHB2","prohibitin 2",515363
+00746,"Mus musculus",174034,"Phb2","prohibitin 2",12034
+00747,"Rattus norvegicus",174034,"Phb2","prohibitin 2",114766
+00748,"Gallus gallus",174034,"PHB2","prohibitin 2",771124
+00749,"Danio rerio",174034,"zgc:86841","zgc:86841",436954
+00750,"Danio rerio",174034,"phb2","prohibitin 2",324421
+00751,"Drosophila melanogaster",174034,"l(2)03709","lethal (2) 03709",46038
+00753,"Caenorhabditis elegans",174034,"phb-2","mitochondrial ProHiBitin complex",174034
+00754,"Schizosaccharomyces pombe",174034,"SPCC1322.16","prohibitin Phb2",2538888
+00755,"Saccharomyces cerevisiae",174034,"PHB2","Phb2p",853146
+00767,"Homo sapiens",178005,"ATG7","ATG7 autophagy related 7 homolog (S. cerevisiae)",10533
+00768,"Canis lupus familiaris",178005,"ATG7","ATG7 autophagy related 7 homolog (S. cerevisiae)",476533
+00769,"Bos taurus",178005,"ATG7","ATG7 autophagy related 7 homolog (S. cerevisiae)",787967
+00770,"Mus musculus",178005,"Atg7","autophagy-related 7 (yeast)",74244
+00771,"Rattus norvegicus",178005,"Atg7","ATG7 autophagy related 7 homolog (S. cerevisiae)",312647
+00772,"Gallus gallus",178005,"ATG7","ATG7 autophagy related 7 homolog (S. cerevisiae)",415961
+00773,"Danio rerio",178005,"atg7","ATG7 autophagy related 7 homolog (S. cerevisiae)",797457
+00774,"Drosophila melanogaster",178005,"Atg7","Autophagy-specific gene 7",37141
+00776,"Caenorhabditis elegans",178005,"atg-7","AuTophaGy (yeast Atg homolog)",178005
+00777,"Schizosaccharomyces pombe",178005,"SPBC6B1.05c","ubiquitin-like conjugating enzyme",2540790
+00778,"Saccharomyces cerevisiae",178005,"ATG7","Atg7p",856576
+00785,"Homo sapiens",172280,"PIK3C3","phosphoinositide-3-kinase, class 3",5289
+00786,"Pan troglodytes",172280,"PIK3C3","phosphoinositide-3-kinase, class 3",455385
+00787,"Canis lupus familiaris",172280,"PIK3C3","phosphoinositide-3-kinase, class 3",490477
+00788,"Bos taurus",172280,"PIK3C3","phosphoinositide-3-kinase, class 3",534815
+00789,"Mus musculus",172280,"Pik3c3","phosphoinositide-3-kinase, class 3",225326
+00790,"Rattus norvegicus",172280,"Pik3c3","phosphoinositide-3-kinase, class 3",65052
+00791,"Danio rerio",172280,"pik3c3","phosphoinositide-3-kinase, class 3",548346
+00792,"Drosophila melanogaster",172280,"Pi3K59F","Phosphotidylinositol 3 kinase 59F",37733
+00794,"Caenorhabditis elegans",172280,"vps-34","related to yeast Vacuolar Protein Sorting factor",172280
+00795,"Schizosaccharomyces pombe",172280,"pik3","phosphatidylinositol 3-kinase Pik3",2543444
+00796,"Saccharomyces cerevisiae",172280,"VPS34","Phosphatidylinositol 3-kinase responsible for the synthesis of phosphatidylinositol 3-phosphate; for",850941
+00803,"Homo sapiens",171768,"PHB","prohibitin",5245
+00804,"Pan troglodytes",171768,"PHB","prohibitin",455205
+00805,"Canis lupus familiaris",171768,"PHB","prohibitin",484431
+00806,"Bos taurus",171768,"PHB","prohibitin",530409
+00807,"Mus musculus",171768,"Phb","prohibitin",18673
+00808,"Rattus norvegicus",171768,"LOC688815","similar to prohibitin",688815
+00809,"Gallus gallus",171768,"PHB","prohibitin",419980
+00810,"Danio rerio",171768,"phb","prohibitin",321346
+00811,"Drosophila melanogaster",171768,"l(2)37Cc","lethal (2) 37Cc",49168
+00813,"Caenorhabditis elegans",171768,"phb-1","mitochondrial ProHiBitin complex",171768
+00814,"Schizosaccharomyces pombe",171768,"SPAC1782.06c","prohibitin Phb1",2542354
+00815,"Saccharomyces cerevisiae",171768,"PHB1","Phb1p",853033
+00825,"Homo sapiens",176380,"EP300","E1A binding protein p300",2033
+00826,"Pan troglodytes",176380,"EP300","E1A binding protein p300",458862
+00827,"Mus musculus",176380,"Ep300","E1A binding protein p300",328572
+00828,"Rattus norvegicus",176380,"Ep300","E1A binding protein p300",170915
+00829,"Gallus gallus",176380,"EP300","E1A binding protein p300",418000
+00830,"Danio rerio",176380,"ep300a","E1A binding protein p300 a",559273
+00831,"Drosophila melanogaster",176380,"nej","nejire",43856
+00833,"Caenorhabditis elegans",176380,"cbp-1","CBP/p300 homolog",176380
+00834,"Drosophila melanogaster",180398,"dve","defective proventriculus",37546
+00836,"Caenorhabditis elegans",180398,"dve-1","DVE (Defective proVEntriculus in Drosophila) homolog",180398
+00837,"Homo sapiens",171647,"WWP1","WW domain containing E3 ubiquitin protein ligase 1",11059
+00838,"Pan troglodytes",171647,"WWP1","WW domain containing E3 ubiquitin protein ligase 1",464269
+00839,"Canis lupus familiaris",171647,"WWP1","WW domain containing E3 ubiquitin protein ligase 1",477930
+00840,"Bos taurus",171647,"WWP1","WW domain containing E3 ubiquitin protein ligase 1",513789
+00841,"Mus musculus",171647,"Wwp1","WW domain containing E3 ubiquitin protein ligase 1",107568
+00842,"Rattus norvegicus",171647,"Wwp1","WW domain containing E3 ubiquitin protein ligase 1",297930
+00843,"Gallus gallus",171647,"WWP1","WW domain containing E3 ubiquitin protein ligase 1",420212
+00844,"Danio rerio",171647,"LOC100008150","similar to WW domain containing E3 ubiquitin protein ligase 1",100008150
+00845,"Drosophila melanogaster",171647,"Su(dx)","Suppressor of deltex",33379
+00847,"Caenorhabditis elegans",171647,"wwp-1","WW domain Protein (E3 ubiquitin ligase)",171647
+00848,"Homo sapiens",181727,"PRKAA2","protein kinase, AMP-activated, alpha 2 catalytic subunit",5563
+00849,"Pan troglodytes",181727,"PRKAA2","protein kinase, AMP-activated, alpha 2 catalytic subunit",741802
+00850,"Canis lupus familiaris",181727,"PRKAA2","protein kinase, AMP-activated, alpha 2 catalytic subunit",489571
+00851,"Bos taurus",181727,"PRKAA2","protein kinase, AMP-activated, alpha 2 catalytic subunit",538954
+00852,"Mus musculus",181727,"Prkaa2","protein kinase, AMP-activated, alpha 2 catalytic subunit",108079
+00853,"Rattus norvegicus",181727,"Prkaa2","protein kinase, AMP-activated, alpha 2 catalytic subunit",78975
+00854,"Gallus gallus",181727,"PRKAA2","protein kinase, AMP-activated, alpha 2 catalytic subunit",429110
+00855,"Danio rerio",181727,"LOC572074","similar to 5-AMP-activated protein kinase alpha-2 catalytic subunit",572074
+00856,"Drosophila melanogaster",181727,"SNF1A","SNF1A/AMP-activated protein kinase",43904
+00858,"Caenorhabditis elegans",181727,"aak-2","AMP-Activated Kinase",181727
+00859,"Schizosaccharomyces pombe",181727,"ssp2","serine/threonine protein kinase Ssp2",2539109
+00860,"Saccharomyces cerevisiae",181727,"SNF1","AMP-activated serine/threonine protein kinase found in a complex containing Snf4p and members of the",852088
+00866,"Homo sapiens",176327,"RHEB","Ras homolog enriched in brain",6009
+00867,"Pan troglodytes",176327,"RHEB","Ras homolog enriched in brain",463880
+00868,"Canis lupus familiaris",176327,"RHEB","Ras homolog enriched in brain",475545
+00869,"Bos taurus",176327,"LOC789318","hypothetical LOC789318",789318
+00870,"Mus musculus",176327,"Rheb","Ras homolog enriched in brain",19744
+00871,"Gallus gallus",176327,"RHEB","Ras homolog enriched in brain",420434
+00872,"Danio rerio",176327,"rheb","ras homolog enriched in brain",767781
+00873,"Drosophila melanogaster",176327,"Rheb","rheb, isoform A",117332
+00875,"Caenorhabditis elegans",176327,"rheb-1","RHEB (Ras Homolog Enriched in Brain) homolog",176327
+00876,"Schizosaccharomyces pombe",176327,"rhb1","Rheb GTPase Rhb1",2540853
+00877,"Saccharomyces cerevisiae",176327,"RHB1","Putative Rheb-related GTPase involved in regulating canavanine resistance and arginine uptake; membe",850392
+00881,"Homo sapiens",46260,"NDUFB5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa",4711
+00882,"Pan troglodytes",46260,"NDUFB5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa",471008
+00883,"Canis lupus familiaris",46260,"LOC478639","similar to NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5",478639
+00884,"Canis lupus familiaris",46260,"LOC476235","similar to NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5",476235
+00885,"Bos taurus",46260,"NDUFB5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa",338061
+00886,"Mus musculus",46260,"Ndufb5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5",66046
+00887,"Rattus norvegicus",46260,"Ndufb5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5",294964
+00888,"Gallus gallus",46260,"NDUFB5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 5, 16kDa",424978
+00889,"Danio rerio",46260,"ndufb5","NADH dehydrogenase (ubiquinone) 1 beta subcomplex 5",797063
+00890,"Drosophila melanogaster",46260,"l(3)neo18","lethal (3) neo18",46260

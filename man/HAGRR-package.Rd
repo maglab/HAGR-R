@@ -4,7 +4,7 @@
 \name{HAGRR-package}
 \alias{HAGRR}
 \alias{HAGRR-package}
-\title{HAGRR: Human Ageing Resources Database (HAGR)}
+\title{HAGRR: Human Ageing Resources (HAGR)}
 \description{
 R data package for the Human Ageing Resources Databases
     https://genomics.senescence.info/

@@ -1,0 +1,474 @@
+"id_biblio","pubmed","title","url","author","publisher","year","journal","volume","pages","editor","book_title","review"
+0001,15574588,"The AMP-activated protein kinase AAK-2 links energy levels and insulin-like signals to lifespan in C. elegans.","","Apfeld et al","",2004,"Genes Dev.","18","3004-3009","","",NULL
+0002,17608836,"Functional genomic approach to identify novel genes involved in the regulation of oxidative stress resistance and animal lifespan.",NULL,"Kim and Sun",NULL,2007,"Aging Cell","6","489-503",NULL,NULL,NULL
+0003,16256736,"A role for SIR-2.1 regulation of ER stress response genes in determining C. elegans life span.",NULL,"Viswanathan et al",NULL,2005,"Dev. Cell","9","605-615",NULL,NULL,NULL
+0004,12447374,"A systematic RNAi screen identifies a critical role for mitochondria in C. elegans longevity.",NULL,"Lee et al",NULL,2003,"Nat. Genet.","33","40-48",NULL,NULL,NULL
+0005,15998808,"A systematic RNAi screen for longevity genes in C. elegans.",NULL,"Hamilton et al",NULL,2005,"Genes Dev.","19","1544-1555",NULL,NULL,NULL
+0006,17662940,"Type 5 adenylyl cyclase disruption increases longevity and protects against stress.",NULL,"Yan et al",NULL,2007,"Cell","130","247-258",NULL,NULL,NULL
+0007,8608934,"A mutation in the age-1 gene in Caenorhabditis elegans lengthens life and reduces hermaphrodite fertility.",NULL,"Friedman and Johnson",NULL,1988,"Genetics","118","75-86",NULL,NULL,NULL
+0008,16418483,"Extension of chronological life span in yeast by decreased TOR pathway signaling.",NULL,"Powers et al",NULL,2006,"Genes Dev.","20","174-184",NULL,NULL,NULL
+0009,18006689,"Gene activities that mediate increased life span of C. elegans insulin-like signaling mutants.",NULL,"Samuelson et al",NULL,2007,"Genes Dev.","21","2976-2994",NULL,NULL,NULL
+0010,17227869,"Cdc42 GTPase-activating protein deficiency promotes genomic instability and premature aging-like phenotypes.",NULL,"Wang et al",NULL,2007,"Proc. Natl. Acad. Sci. U.S.A.","104","1248-1253",NULL,NULL,NULL
+0011,16847346,"Early aging and age-related pathologies in mice deficient in BMAL1, the core componentof the circadian clock.",NULL,"Kondratov et al",NULL,2006,"Genes Dev.","20","1868-1873",NULL,NULL,NULL
+0012,16103914,"New genes tied to endocrine, metabolic, and dietary regulation of lifespan from a Caenorhabditis elegans genomic RNAi screen.",NULL,"Hansen et al",NULL,2005,"PLoS Genet.","1","119-128",NULL,NULL,NULL
+0013,11410594,"Mitochondrial respiratory chain deficiency in Caenorhabditis elegans results in developmental arrest and increased life span.",NULL,"Tsang et al",NULL,2001,"J. Biol. Chem.","276","32240-32246",NULL,NULL,NULL
+0014,18056421,"Atg7-dependent autophagy promotes neuronal health, stress tolerance, and longevity but is dispensable for metamorphosis in Drosophila.",NULL,"Juh?sz et al",NULL,2007,"Genes Dev.","21","3061-3066",NULL,NULL,NULL
+0015,18059160,"Promoting basal levels of autophagy in the nervous system enhances longevity and oxidant resistance in adult Drosophila.",NULL,"Simonsen et al",NULL,2008,"Autophagy","4","176-184",NULL,NULL,NULL
+0016,17912023,"Autophagy is required for dietary restriction-mediated life span extension in C. elegans.",NULL,"Jia and Levine",NULL,2007,"Autophagy","3","597-599",NULL,NULL,NULL
+0017,12540856,"Telomere dysfunction and Atm deficiency compromises organ homeostasis and accelerates ageing.",NULL,"Wong et al",NULL,2003,"Nature","421","643-648",NULL,NULL,NULL
+0018,12471266,"Rates of behavior and aging specified by mitochondrial function during development.",NULL,"Dillin et al",NULL,2002,"Science","298","2398-2401",NULL,NULL,NULL
+0019,12242224,"A mutation in the ATP2 gene abrogates the age asymmetry between mother and daughter cells of the yeast Saccharomyces cerevisiae.",NULL,"Lai et al",NULL,2002,"Genetics","162","73-87",NULL,NULL,NULL
+0020,18371340,"Deletion of the developmentally essential gene ATR in adult mice leads to age-related phenotypes and stem cell loss.",NULL,"Ruzankina et al",NULL,2007,"Cell Stem Cell","1","113-126",NULL,NULL,NULL
+0021,16324156,"Thioredoxin is related to life span regulation and oxidative stress response in Caenorhabditis elegans.",NULL,"Jee et al",NULL,2005,"Genes Cells","10","1203-1210",NULL,NULL,NULL
+0022,14668850,"Genetics: influence of TOR kinase on lifespan in C. elegans.",NULL,"Vellai et al",NULL,2003,"Nature","426",NULL,NULL,NULL,NULL
+0023,17521386,"Longevity determined by developmental arrest genes in Caenorhabditis elegans.",NULL,"Chen et al",NULL,2007,"Aging Cell","6","525-533",NULL,NULL,NULL
+0024,17411345,"Lifespan regulation by evolutionarily conserved genes essential for viability.",NULL,"Curran and Ruvkun",NULL,2007,"PLoS Genet.","3",NULL,NULL,NULL,NULL
+0025,15905404,"Functional interaction between beta-catenin and FOXO in oxidative stress signaling.",NULL,"Essers et al",NULL,2005,"Science","308","1181-1184",NULL,NULL,NULL
+0026,17360389,"Absence of the proapoptotic Bax protein extends fertility and alleviates age-related health complications in female mice.",NULL,"Perez et al",NULL,2007,"Proc. Natl. Acad. Sci. U.S.A.","104","5229-5234",NULL,NULL,NULL
+0027,12598614,"blue cheese mutations define a novel, conserved gene involved in progressive neural degeneration.",NULL,"Finley et al",NULL,2003,"J. Neurosci.","23","1254-1264",NULL,NULL,NULL
+0028,8195187,"Cloning and characterization of LAG1, a longevity-assurance gene in yeast.",NULL,"D'mello et al",NULL,1994,"J. Biol. Chem.","269","15451-15459",NULL,NULL,NULL
+0029,12958363,"Autophagy genes are essential for dauer development and life-span extension in C. elegans.",NULL,"Mel?ndez et al",NULL,2003,"Science","301","1387-1391",NULL,NULL,NULL
+0030,16387864,"Involvement of Drosophila uncoupling protein 5 in metabolism and aging.",NULL,"S?nchez-Blanco et al",NULL,2006,"Genetics","172","1699-1710",NULL,NULL,NULL
+0031,17900898,"The C. elegans TGF-beta Dauer pathway regulates longevity via insulin signaling.",NULL,"Shaw et al",NULL,2007,"Curr. Biol.","17","1635-1645",NULL,NULL,NULL
+0032,12533509,"Senescence, aging, and malignant transformation mediated by p53 in mice lacking the Brca1 full-length isoform.",NULL,"Cao et al",NULL,2003,"Genes Dev.","17","201-213",NULL,NULL,NULL
+0033,16293764,"Regulation of yeast replicative life span by TOR and Sch9 in response to nutrients.",NULL,"Kaeberlein et al",NULL,2005,"Science","310","1193-1196",NULL,NULL,NULL
+0034,15208629,"BubR1 insufficiency causes early onset of aging-associated phenotypes and infertility in mice.",NULL,"Baker et al",NULL,2004,"Nat. Genet.","36","744-749",NULL,NULL,NULL
+0035,16476774,"Early aging-associated phenotypes in Bub3/Rae1 haploinsufficient mice.",NULL,"Baker et al",NULL,2006,"J. Cell Biol.","172","529-540",NULL,NULL,NULL
+0036,16380712,"Identification of direct DAF-16 targets controlling longevity, metabolism and diapause by chromatin immunoprecipitation.",NULL,"Oh et al",NULL,2006,"Nat. Genet.","38","251-257",NULL,NULL,NULL
+0037,15253933,"The TOR pathway interacts with the insulin signaling pathway to regulate C. elegans larval development, metabolism and life span.",NULL,"Jia et al",NULL,2004,"Development","131","3897-3906",NULL,NULL,NULL
+0038,12845331,"Genes that act downstream of DAF-16 to influence the lifespan of Caenorhabditis elegans.",NULL,"Murphy et al",NULL,2003,"Nature","424","277-283",NULL,NULL,NULL
+0039,17435236,"Genetic modifiers of the Drosophila blue cheese gene link defects in lysosomal transport with decreased life span and altered ubiquitinated-protein profiles.",NULL,"Simonsen et al",NULL,2007,"Genetics","176","1283-1297",NULL,NULL,NULL
+0040,17188333,"Caspase-2 deficiency enhances aging-related traits in mice.",NULL,"Zhang et al",NULL,2007,"Mech. Ageing Dev.","128","213-221",NULL,NULL,NULL
+0041,8108730,"Extension of life-span by overexpression of superoxide dismutase and catalase in Drosophila melanogaster.",NULL,"Orr and Sohal",NULL,1994,"Science","263","1128-1130",NULL,NULL,NULL
+0042,15879174,"Extension of murine life span by overexpression of catalase targeted to mitochondria.",NULL,"Schriner et al",NULL,2005,"Science","308","1909-1911",NULL,NULL,NULL
+0043,14690422,"Caveolin-1 null (-/-) mice show dramatic reductions in life span.",NULL,"Park et al",NULL,2003,"Biochemistry","42","15124-15131",NULL,NULL,NULL
+0044,17460215,"Effects of deleting mitochondrial antioxidant genes on life span.",NULL,"Unlu and Koc",NULL,2007,"Ann. N. Y. Acad. Sci.","1100","505-509",NULL,NULL,NULL
+0045,12620118,"A search for doxycycline-dependent mutations that increase Drosophila melanogaster life span identifies the VhaSFD, Sugar baby, filamin, fwd and Cctl genes.",NULL,"Landis et al",NULL,2003,"Genome Biol.","4",NULL,NULL,NULL,NULL
+0046,16741121,"Checkpoint proteins control survival of the postmitotic cells in Caenorhabditis elegans.",NULL,"Olsen et al",NULL,2006,"Science","312","1381-1385",NULL,NULL,NULL
+0047,11000115,"Requirement of NAD and SIR2 for life-span extension by calorie restriction in Saccharomyces cerevisiae.",NULL,"Lin et al",NULL,2000,"Science","289","2126-2128",NULL,NULL,NULL
+0048,9428525,"Extrachromosomal rDNA circles--a cause of aging in yeast.",NULL,"Sinclair and Guarente",NULL,1997,"Cell","91","1033-1042",NULL,NULL,NULL
+0049,17368005,"Drosophila lacking the Cdk5 activator, p35, display defective axon guidance, age-dependent behavioral deficits and reduced lifespan.",NULL,"Connell-Crowley et al",NULL,2007,"Mech. Dev.","124","341-349",NULL,NULL,NULL
+0050,17143283,"Cdkn1a deletion improves stem cell function and lifespan of mice with dysfunctional telomeres without accelerating cancer formation.",NULL,"Choudhury et al",NULL,2007,"Nat. Genet.","39","99-9105",NULL,NULL,NULL
+0051,15289464,"Effect of a C/EBP gene replacement on mitochondrial biogenesis in fat cells.",NULL,"Chiu et al",NULL,2004,"Genes Dev.","18","1970-1975",NULL,NULL,NULL
+0052,10873623,"Molecular cloning and characterization of a new insulin/IGF-like peptide of the nematode Caenorhabditis elegans.",NULL,"Kawano et al",NULL,2000,"Biochem. Biophys. Res. Commun.","273","431-436",NULL,NULL,NULL
+0053,17895432,"Reduced expression of the Caenorhabditis elegans p53 ortholog cep-1 results in increased longevity.",NULL,"Arum and Johnson",NULL,2007,"J. Gerontol. A Biol. Sci. Med. Sci.","62","951-959",NULL,NULL,NULL
+0054,17592126,"Ceramide transfer protein function is essential for normal oxidative stress response and lifespan.",NULL,"Rao et al",NULL,2007,"Proc. Natl. Acad. Sci. U.S.A.","104","11364-11369",NULL,NULL,NULL
+0055,10617200,"Regulation of lifespan by sensory perception in Caenorhabditis elegans.",NULL,"Apfeld and Kenyon",NULL,1999,"Nature","402","804-809",NULL,NULL,NULL
+0056,16675955,"ATM-Chk2-p53 activation prevents tumorigenesis at an expense of organ homeostasis upon Brca1 deficiency.",NULL,"Cao et al",NULL,2006,"EMBO J.","25","2167-2177",NULL,NULL,NULL
+0057,11292874,"Extension of life-span by loss of CHICO, a Drosophila insulin receptor substrate protein.",NULL,"Clancy et al",NULL,2001,"Science","292","104-106",NULL,NULL,NULL
+0058,16182251,"The budding yeast protein Chl1p has a role in transcriptional silencing, rDNA recombination, and aging.",NULL,"Das and Sinha",NULL,2005,"Biochem. Biophys. Res. Commun.","337","167-172",NULL,NULL,NULL
+0059,12054192,"Enhanced longevity in tau mutant Syrian hamsters, Mesocricetus auratus.",NULL,"Oklejewicz and Daan",NULL,2002,"J. Biol. Rhythms","17","210-216",NULL,NULL,NULL
+0060,16099946,"The C. elegans ortholog of mammalian Ku70, interacts with insulin-like signaling to modulate stress resistance and life span.",NULL,"McColl et al",NULL,2005,"FASEB J.","19","1716-1718",NULL,NULL,NULL
+0061,8638122,"Determination of life-span in Caenorhabditis elegans by four clock genes.",NULL,"Lakowski and Hekimi",NULL,1996,"Science","272","1010-1013",NULL,NULL,NULL
+0062,17710147,"DNA replication stress is a determinant of chronological lifespan in budding yeast.",NULL,"Weinberger et al",NULL,2007,"PLoS ONE","2",NULL,NULL,NULL,NULL
+0063,17673661,"Quantitative mass spectrometry identifies insulin signaling targets in C. elegans.",NULL,"Dong et al",NULL,2007,"Science","317","660-663",NULL,NULL,NULL
+0064,16195414,"Evolutionary conservation of the clk-1-dependent mechanism of longevity: loss of mclk1 increases cellular fitness and lifespan in mice.",NULL,"Liu et al",NULL,2005,"Genes Dev.","19","2424-2434",NULL,NULL,NULL
+0065,10330149,"Mitochondrial group II introns, cytochrome c oxidase, and senescence in Podospora anserina.",NULL,"Begel et al",NULL,1999,"Mol. Cell. Biol.","19","4093-4100",NULL,NULL,NULL
+0066,16336970,"Mrg19 depletion increases S. cerevisiae lifespan by augmenting ROS defence.",NULL,"Kharade et al",NULL,2005,"FEBS Lett.","579","6809-6813",NULL,NULL,NULL
+0067,16751106,"A conserved MST-FOXO signaling pathway mediates oxidative-stress responses and extends life span.",NULL,"Lehtinen et al",NULL,2006,"Cell","125","987-981001",NULL,NULL,NULL
+0068,12586694,"SOD2 functions downstream of Sch9 to extend longevity in yeast.",NULL,"Fabrizio et al",NULL,2003,"Genetics","163","35-46",NULL,NULL,NULL
+0069,17392428,"Regulation of Caenorhabditis elegans lifespan by a proteasomal E3 ligase complex.",NULL,"Ghazi et al",NULL,2007,"Proc. Natl. Acad. Sci. U.S.A.","104","5947-5952",NULL,NULL,NULL
+0070,17081785,"A mutation in the gene encoding cytochrome c1 leads to a decreased ROS content and to a long-lived phenotype in the filamentous fungus Podospora anserina.",NULL,"Sellem et al",NULL,2007,"Fungal Genet. Biol.","44","648-658",NULL,NULL,NULL
+0071,12124627,"Calorie restriction extends Saccharomyces cerevisiae lifespan by increasing respiration.",NULL,"Lin et al",NULL,2002,"Nature","418","344-348",NULL,NULL,NULL
+0072,7789761,"Genes that regulate both development and longevity in Caenorhabditis elegans.",NULL,"Larsen et al",NULL,1995,"Genetics","139","1567-1583",NULL,NULL,NULL
+0073,16153634,"Lifespan and dauer regulation by tissue-specific activities of Caenorhabditis elegans DAF-18.",NULL,"Masse et al",NULL,2005,"Dev. Biol.","286","91-9101",NULL,NULL,NULL
+0074,8247153,"A C. elegans mutant that lives twice as long as wild type.",NULL,"Kenyon et al",NULL,1993,"Nature","366","461-464",NULL,NULL,NULL
+0075,8807293,"Genetic analysis of the roles of daf-28 and age-1 in regulating Caenorhabditis elegans dauer formation.",NULL,"Malone et al",NULL,1996,"Genetics","143","1193-1205",NULL,NULL,NULL
+0076,11740945,"A hormonal signaling pathway influencing C. elegans metabolism, reproductive development, and life span.",NULL,"Gerisch et al",NULL,2001,"Dev. Cell","1","841-851",NULL,NULL,NULL
+0077,10838697,"Contributions of cell death to aging in C. elegans.",NULL,"Herndon and Driscoll",NULL,2000,"Results Probl Cell Differ","29","113-129",NULL,NULL,NULL
+0078,15314028,"A novel nuclear receptor/coregulator complex controls C. elegans lipid metabolism, larval development, and aging.",NULL,"Ludewig et al",NULL,2004,"Genes Dev.","18","2120-2133",NULL,NULL,NULL
+0079,17651920,"Drosophila DJ-1 mutants are sensitive to oxidative stress and show reduced lifespan and motor deficits.",NULL,"Lavara-Culebras and Paricio",NULL,2007,"Gene","400","158-165",NULL,NULL,NULL
+0080,17728253,"Properties, regulation, and in vivo functions of a novel protein kinase D: Caenorhabditis elegans DKF-2 links diacylglycerol second messenger to the regulation of stress responses and life span.",NULL,"Feng et al",NULL,2007,"J. Biol. Chem.","282","31273-31288",NULL,NULL,NULL
+0081,17592521,"Involvement of genes required for synaptic function in aging control in C. elegans.",NULL,"Shen et al",NULL,2007,"Neurosci Bull","23","21-29",NULL,NULL,NULL
+0082,17933869,"Daxx-like protein of Drosophila interacts with Dmp53 and affects longevity and Ark mRNA level.",NULL,"Bodai et al",NULL,2007,"J. Biol. Chem.","282","36386-36393",NULL,NULL,NULL
+0083,12024027,"Mutations in DNA replication genes reduce yeast life span.",NULL,"Hoopes et al",NULL,2002,"Mol. Cell. Biol.","22","4136-4146",NULL,NULL,NULL
+0084,17369827,"Life extension through neurofibromin mitochondrial regulation and antioxidant therapy for neurofibromatosis-1 in Drosophila melanogaster.",NULL,"Tong et al",NULL,2007,"Nat. Genet.","39","476-485",NULL,NULL,NULL
+0085,17173038,"Reducing mitochondrial fission results in increased life span and fitness of two fungal ageing models.",NULL,"Scheckhuber et al",NULL,2007,"Nat. Cell Biol.","9","99-9105",NULL,NULL,NULL
+0086,15533947,"DNA methyltransferase gene dDnmt2 and longevity of Drosophila.",NULL,"Lin et al",NULL,2005,"J. Biol. Chem.","280","861-864",NULL,NULL,NULL
+0087,12610309,"Steroid control of longevity in Drosophila melanogaster.",NULL,"Simon et al",NULL,2003,"Science","299","1407-1410",NULL,NULL,NULL
+0088,9789046,"The genetics of caloric restriction in Caenorhabditis elegans.",NULL,"Lakowski and Hekimi",NULL,1998,"Proc. Natl. Acad. Sci. U.S.A.","95","13091-13096",NULL,NULL,NULL
+0089,12610294,"The endocrine regulation of aging by insulin-like signals.",NULL,"Tatar et al",NULL,2003,"Science","299","1346-1351",NULL,NULL,NULL
+0090,2508089,"Fruit flies with additional expression of the elongation factor EF-1 alpha live longer.",NULL,"Shepherd et al",NULL,1989,"Proc. Natl. Acad. Sci. U.S.A.","86","7520-7521",NULL,NULL,NULL
+0091,17872905,"Lack of fibulin-3 causes early aging and herniation, but not macular degeneration in mice.",NULL,"McLaughlin et al",NULL,2007,"Hum. Mol. Genet.","16","3059-3070",NULL,NULL,NULL
+0092,12571101,"Cyclic GMP-dependent protein kinase EGL-4 controls body size and lifespan in C elegans.",NULL,"Hirose et al",NULL,2003,"Development","130","1089-1099",NULL,NULL,NULL
+0093,16434470,"Enigma, a mitochondrial protein affecting lifespan and oxidative stress response in Drosophila.",NULL,"Mourikis et al",NULL,2006,"Proc. Natl. Acad. Sci. U.S.A.","103","1307-1312",NULL,NULL,NULL
+0094,11950998,"Premature aging in mice deficient in DNA repair and transcription.",NULL,"de Boer et al",NULL,2002,"Science","296","1276-1279",NULL,NULL,NULL
+0095,17183314,"A new progeroid syndrome reveals that genotoxic stress suppresses the somatotroph axis.",NULL,"Niedernhofer et al",NULL,2006,"Nature","444","1038-1043",NULL,NULL,NULL
+0096,16673436,"Caenorhabditis elegans as a screening tool for the endothelial cell-derived putative aging-related proteins detected by proteomic analysis.",NULL,"Ha et al",NULL,2006,"Proteomics","6","3339-3351",NULL,NULL,NULL
+0097,17934462,"DAF-16/FOXO targets genes that regulate tumor growth in Caenorhabditis elegans.",NULL,"Pinkston-Gosse and Kenyon",NULL,2007,"Nat. Genet.","39","1403-1409",NULL,NULL,NULL
+0098,15719061,"Nuclear hormone receptor NHR-49 controls fat consumption and fatty acid composition in C. elegans.",NULL,"Van Gilst et al",NULL,2005,"PLoS Biol.","3",NULL,NULL,NULL,NULL
+0099,16199065,"Fructose-1,6-bisphosphatase mediates cellular responses to DNA damage and aging in Saccharomyces cerevisiae.",NULL,"Kitanovic and W?lfl",NULL,2006,"Mutat. Res.","594","135-147",NULL,NULL,NULL
+0100,16436465,"Premature aging-like phenotype in fibroblast growth factor 23 null mice is a vitamin D-mediated process.",NULL,"Razzaque et al",NULL,2006,"FASEB J.","20","720-722",NULL,NULL,NULL
+0101,10230397,"Elimination of replication block protein Fob1 extends the life span of yeast mother cells.",NULL,"Defossez et al",NULL,1999,"Mol. Cell","3","447-455",NULL,NULL,NULL
+0102,14647066,"Growth hormone stimulates proliferation of old-aged regenerating liver through forkhead box m1b.",NULL,"Krupczak-Hollis et al",NULL,2003,"Hepatology","38","1552-1562",NULL,NULL,NULL
+0103,15175753,"Drosophila dFOXO controls lifespan and regulates insulin signalling in brain and fat body.",NULL,"Hwangbo et al",NULL,2004,"Nature","429","562-566",NULL,NULL,NULL
+0104,15771615,"Reduced expression of frataxin extends the lifespan of Caenorhabditis elegans.",NULL,"Ventura et al",NULL,2005,"Aging Cell","4","109-112",NULL,NULL,NULL
+0105,16860373,"C. elegans 14-3-3 proteins regulate life span and interact with SIR-2.1 and DAF-16/FOXO.",NULL,"Wang et al",NULL,2006,"Mech. Ageing Dev.","127","741-747",NULL,NULL,NULL
+0106,16278235,"Targeted disruption of hepatic frataxin expression causes impaired mitochondrial function, decreased life span and tumor growth in mice.",NULL,"Thierbach et al",NULL,2005,"Hum. Mol. Genet.","14","3857-3864",NULL,NULL,NULL
+0107,15178135,"The effects of complex I function and oxidative damage on lifespan and anesthetic sensitivity in Caenorhabditis elegans.",NULL,"Kayser et al",NULL,2004,"Mech. Ageing Dev.","125","455-464",NULL,NULL,NULL
+0108,16148000,"Overexpression of glutamate-cysteine ligase extends life span in Drosophila melanogaster.",NULL,"Orr et al",NULL,2005,"J. Biol. Chem.","280","37331-37338",NULL,NULL,NULL
+0109,15547318,"The histone acetyltransferase GCN5 modulates the retrograde response and genome stability determining yeast longevity.",NULL,"Kim et al",NULL,2004,"Biogerontology","5","305-316",NULL,NULL,NULL
+0110,14583653,"Can growth hormone (GH) accelerate aging? Evidence from GH-transgenic mice.",NULL,"Bartke Andrzej",NULL,2003,"Neuroendocrinology","78","210-216",NULL,NULL,NULL
+0111,12933651,"Deletion, but not antagonism, of the mouse growth hormone receptor results in severely decreased body weights, insulin, and insulin-like growth factor I levels and increased life span.",NULL,"Coschigano et al",NULL,2003,"Endocrinology","144","3799-3810",NULL,NULL,NULL
+0112,11371619,"Lifespan extension and delayed immune and collagen aging in mutant mice with defects in growth hormone production.",NULL,"Flurkey et al",NULL,2001,"Proc. Natl. Acad. Sci. U.S.A.","98","6736-6741",NULL,NULL,NULL
+0113,15186745,"Regulation of lifespan in Drosophila by modulation of genes in the TOR signaling pathway.",NULL,"Kapahi et al",NULL,2004,"Curr. Biol.","14","885-890",NULL,NULL,NULL
+0114,16581512,"Overexpression of a Drosophila homolog of apolipoprotein D leads to increased stress resistance and extended lifespan.",NULL,"Walker et al",NULL,2006,"Curr. Biol.","16","674-679",NULL,NULL,NULL
+0115,11799246,"Regulation of life-span by germ-line stem cells in Caenorhabditis elegans.",NULL,"Arantes-Oliveira et al",NULL,2002,"Science","295","502-505",NULL,NULL,NULL
+0116,17187771,"Multiple sensory G proteins in the olfactory, gustatory and nociceptive neurons modulate longevity in Caenorhabditis elegans.",NULL,"Lans and Jansen",NULL,2007,"Dev. Biol.","303","474-482",NULL,NULL,NULL
+0117,15496407,"Transgenic mice overexpressing glutathione peroxidase 4 are protected against oxidative stress-induced apoptosis.",NULL,"Ran et al",NULL,2004,"J. Biol. Chem.","279","55137-55146",NULL,NULL,NULL
+0118,10506576,"Overexpression of glutathione reductase extends survival in transgenic Drosophila melanogaster under hyperoxia but not normoxia.",NULL,"Mockett et al",NULL,1999,"FASEB J.","13","1733-1742",NULL,NULL,NULL
+0119,16164425,"Lifespan and stress resistance of Caenorhabditis elegans are increased by expression of glutathione transferases capable of metabolizing the lipid peroxidation product 4-hydroxynonenal.",NULL,"Ayyadevara et al",NULL,2005,"Aging Cell","4","257-271",NULL,NULL,NULL
+0120,17157356,"Life span and stress resistance of Caenorhabditis elegans are differentially affected by glutathione transferases metabolizing 4-hydroxynon-2-enal.",NULL,"Ayyadevara et al",NULL,2007,"Mech. Ageing Dev.","128","196-205",NULL,NULL,NULL
+0121,16023114,"Yeast HAT1 and HAT2 deletions have different life-span and transcriptome phenotypes.",NULL,"Rosaleny et al",NULL,2005,"FEBS Lett.","579","4063-4068",NULL,NULL,NULL
+0122,15105378,"Growth retardation and premature aging phenotypes in mice with disruption of the SNF2-like gene, PASG.",NULL,"Sun et al",NULL,2004,"Genes Dev.","18","1035-1046",NULL,NULL,NULL
+0123,11290710,"The short life span of Saccharomyces cerevisiae sgs1 and srs2 mutants is a composite of normal aging processes and mitotic arrest due to defective recombination.",NULL,"McVey et al",NULL,2001,"Genetics","157","1531-1542",NULL,NULL,NULL
+0124,14668486,"Regulation of longevity in Caenorhabditis elegans by heat shock factor and molecular chaperones.",NULL,"Morley and Morimoto",NULL,2004,"Mol. Biol. Cell","15","657-664",NULL,NULL,NULL
+0125,12882326,"Lifespan extension in C. elegans by a molecular chaperone dependent upon insulin-like signals.",NULL,"Walker and Lithgow",NULL,2003,"Aging Cell","2","131-139",NULL,NULL,NULL
+0126,11959102,"Extended longevity of Caenorhabditis elegans by knocking in extra copies of hsp70F, a homolog of mot-2 (mortalin)/mthsp70/Grp75.",NULL,"Yokoyama et al",NULL,2002,"FEBS Lett.","516","53-57",NULL,NULL,NULL
+0127,17908928,"Accelerated aging and failure to segregate damaged proteins in Sir2 mutants can be suppressed by overproducing the protein aggregation-remodeling factor Hsp104p.",NULL,"Erjavec et al",NULL,2007,"Genes Dev.","21","2410-2421",NULL,NULL,NULL
+0128,14734639,"Overexpression of the small mitochondrial Hsp22 extends Drosophila life span and increases resistance to oxidative stress.",NULL,"Morrow et al",NULL,2004,"FASEB J.","18","598-599",NULL,NULL,NULL
+0129,15308776,"Multiple-stress analysis for isolation of Drosophila longevity genes.",NULL,"Wang et al",NULL,2004,"Proc. Natl. Acad. Sci. U.S.A.","101","12610-12615",NULL,NULL,NULL
+0130,14602080,"JNK signaling confers tolerance to oxidative stress and extends lifespan in Drosophila.",NULL,"Wang et al",NULL,2003,"Dev. Cell","5","811-816",NULL,NULL,NULL
+0131,9363888,"Chaperoning extended life.",NULL,"Tatar et al",NULL,1997,"Nature","390",NULL,NULL,NULL,NULL
+0132,16051752,"HST2 mediates SIR2-independent life-span extension by calorie restriction.",NULL,"Lamming et al",NULL,2005,"Science","309","1861-1864",NULL,NULL,NULL
+0133,17420766,"Lack of serotonin1B receptor expression leads to age-related motor dysfunction, early onset of brain molecular aging and reduced longevity.",NULL,"Sibille et al",NULL,2007,"Mol. Psychiatry","12","1042-156, 975",NULL,NULL,NULL
+0134,17266680,"Inhibition of mRNA translation extends lifespan in Caenorhabditis elegans.",NULL,"Pan et al",NULL,2007,"Aging Cell","6","111-119",NULL,NULL,NULL
+0135,17266679,"Lifespan extension by conditions that inhibit translation in Caenorhabditis elegans.",NULL,"Hansen et al",NULL,2007,"Aging Cell","6","95-9110",NULL,NULL,NULL
+0136,16968739,"IFTA-2 is a conserved cilia protein involved in pathways regulating longevity and dauer formation in Caenorhabditis elegans.",NULL,"Schafer et al",NULL,2006,"J. Cell. Sci.","119","4088-4100",NULL,NULL,NULL
+0137,17973971,"Influence of cardiac-specific overexpression of insulin-like growth factor 1 on lifespan and aging-associated changes in cardiac intracellular Ca2+ homeostasis, protein damage and apoptotic protein expression.",NULL,"Li and Ren",NULL,2007,"Aging Cell","6","799-806",NULL,NULL,NULL
+0138,12483226,"IGF-1 receptor regulates lifespan and resistance to oxidative stress in mice.",NULL,"Holzenberger et al",NULL,2003,"Nature","421","182-187",NULL,NULL,NULL
+0139,11118146,"Extended life-span conferred by cotransporter gene mutations in Drosophila.",NULL,"Rogina et al",NULL,2000,"Science","290","2137-2140",NULL,NULL,NULL
+0140,11292875,"A mutant Drosophila insulin receptor homolog that extends life-span and impairs neuroendocrine function.",NULL,"Tatar et al",NULL,2001,"Science","292","107-110",NULL,NULL,NULL
+0141,11274053,"Regulation of DAF-2 receptor signaling by human insulin and ins-1, a member of the unusually large and diverse C. elegans insulin gene family.",NULL,"Pierce et al",NULL,2001,"Genes Dev.","15","672-686",NULL,NULL,NULL
+0142,12543978,"Extended longevity in mice lacking the insulin receptor in adipose tissue.",NULL,"Bl?her et al",NULL,2003,"Science","299","572-574",NULL,NULL,NULL
+0143,17928362,"Evidence for lifespan extension and delayed age-related biomarkers in insulin receptor substrate 1 null mice.",NULL,"Selman et al",NULL,2008,"FASEB J.","22","807-818",NULL,NULL,NULL
+0144,17641201,"Brain IRS2 signaling coordinates life span and nutrient homeostasis.",NULL,"Taguchi et al",NULL,2007,"Science","317","369-372",NULL,NULL,NULL
+0145,11709184,"Mitochondrial electron transport is a key determinant of life span in Caenorhabditis elegans.",NULL,"Feng et al",NULL,2001,"Dev. Cell","1","633-644",NULL,NULL,NULL
+0146,15767565,"JNK regulates lifespan in Caenorhabditis elegans by modulating nuclear translocation of forkhead transcription factor/DAF-16.",NULL,"Oh et al",NULL,2005,"Proc. Natl. Acad. Sci. U.S.A.","102","4494-4499",NULL,NULL,NULL
+0147,16530050,"Germ-cell loss extends C. elegans life span through regulation of DAF-16 by kri-1 and lipophilic-hormone signaling.",NULL,"Berman and Kenyon",NULL,2006,"Cell","124","1055-1068",NULL,NULL,NULL
+0148,8760941,"LAG2, a gene that determines yeast longevity.",NULL,"Childress et al",NULL,1996,"Microbiology (Reading, Engl.)","142 ( Pt 8)","2289-2297",NULL,NULL,NULL
+0149,17200108,"The dihydrolipoamide acetyltransferase is a novel metabolic longevity factor and is required for calorie restriction-mediated life span extension.",NULL,"Easlon et al",NULL,2007,"J. Biol. Chem.","282","6161-6171",NULL,NULL,NULL
+0150,16269543,"Age-related changes of nuclear architecture in Caenorhabditis elegans.",NULL,"Haithcock et al",NULL,2005,"Proc. Natl. Acad. Sci. U.S.A.","102","16690-16695",NULL,NULL,NULL
+0151,16164423,"LET-60 RAS modulates effects of insulin/IGF-1 signaling on development and aging in Caenorhabditis elegans.",NULL,"Nanji et al",NULL,2005,"Aging Cell","4","235-245",NULL,NULL,NULL
+0152,16373574,"A developmental timing microRNA and its target regulate life span in C. elegans.",NULL,"Boehm and Slack",NULL,2005,"Science","310","1954-1957",NULL,NULL,NULL
+0153,12748643,"A progeroid syndrome in mice is caused by defects in A-type lamins.",NULL,"Mounkes et al",NULL,2003,"Nature","423","298-301",NULL,NULL,NULL
+0154,17717065,"Reduced Mcm2 expression results in severe stem/progenitor cell deficiency and cancer.",NULL,"Pruitt et al",NULL,2007,"Stem Cells","25","3121-3132",NULL,NULL,NULL
+0155,9716135,"A mutation in succinate dehydrogenase cytochrome b causes oxidative stress and ageing in nematodes.",NULL,"Ishii et al",NULL,1998,"Nature","394","694-697",NULL,NULL,NULL
+0156,17483135,"Metabolic homeostasis and tissue renewal are dependent on beta1,6GlcNAc-branched N-glycans.",NULL,"Cheung et al",NULL,2007,"Glycobiology","17","828-837",NULL,NULL,NULL
+0157,17277769,"eIF4E function in somatic cells modulates ageing in Caenorhabditis elegans.",NULL,"Syntichaki et al",NULL,2007,"Nature","445","922-926",NULL,NULL,NULL
+0158,16055719,"The transcriptional repressor dMnt is a regulator of growth in Drosophila melanogaster.",NULL,"Loo et al",NULL,2005,"Mol. Cell. Biol.","25","7078-7091",NULL,NULL,NULL
+0159,17559503,"Serotonin receptors antagonistically modulate Caenorhabditis elegans longevity.",NULL,"Murakami and Murakami",NULL,2007,"Aging Cell","6","483-488",NULL,NULL,NULL
+0160,9150138,"Redistribution of silencing proteins from telomeres to the nucleolus is associated with extension of life span in S. cerevisiae.",NULL,"Kennedy et al",NULL,1997,"Cell","89","381-391",NULL,NULL,NULL
+0161,12629043,"Inactivation of Exonuclease 1 in mice results in DNA mismatch repair defects, increased cancer susceptibility, and male and female sterility.",NULL,"Wei et al",NULL,2003,"Genes Dev.","17","603-614",NULL,NULL,NULL
+0162,11867705,"High-quality life extension by the enzyme peptide methionine sulfoxide reductase.",NULL,"Ruan et al",NULL,2002,"Proc. Natl. Acad. Sci. U.S.A.","99","2748-2753",NULL,NULL,NULL
+0163,11606777,"Methionine sulfoxide reductase (MsrA) is a regulator of antioxidant defense and lifespan in mammals.",NULL,"Moskovitz et al",NULL,2001,"Proc. Natl. Acad. Sci. U.S.A.","98","12920-12925",NULL,NULL,NULL
+0164,9794765,"Extended life-span and stress resistance in the Drosophila mutant methuselah.",NULL,"Lin et al",NULL,1998,"Science","282","943-946",NULL,NULL,NULL
+0165,15141092,"Methionine sulfoxide reductase regulation of yeast lifespan reveals reactive oxygen species-dependent and -independent components of aging.",NULL,"Koc et al",NULL,2004,"Proc. Natl. Acad. Sci. U.S.A.","101","7999-8004",NULL,NULL,NULL
+0166,14570233,"Delayed behavioural aging and altered mortality in Drosophila beta integrin mutants.",NULL,"Goddeeris et al",NULL,2003,"Aging Cell","2","257-264",NULL,NULL,NULL
+0167,14678010,"Relevance of NAC-2, an Na+-coupled citrate transporter, to life span, body size and fat content in Caenorhabditis elegans.",NULL,"Fei et al",NULL,2004,"Biochem. J.","379","191-198",NULL,NULL,NULL
+0168,12480943,"Structural and functional characteristics of two sodium-coupled dicarboxylate transporters (ceNaDC1 and ceNaDC2) from Caenorhabditis elegans and their relevance to life span.",NULL,"Fei et al",NULL,2003,"J. Biol. Chem.","278","6136-6144",NULL,NULL,NULL
+0169,14724176,"Calorie restriction extends yeast life span by lowering the level of NADH.",NULL,"Lin et al",NULL,2004,"Genes Dev.","18","12-16",NULL,NULL,NULL
+0170,16436509,"Yeast AMID homologue Ndi1p displays respiration-restricted apoptotic activity and is involved in chronological aging.",NULL,"Li et al",NULL,2006,"Mol. Biol. Cell","17","1802-1811",NULL,NULL,NULL
+0171,16446448,"The metabolic syndrome resulting from a knockout of the NEIL1 DNA glycosylase.",NULL,"Vartanian et al",NULL,2006,"Proc. Natl. Acad. Sci. U.S.A.","103","1864-1869",NULL,NULL,NULL
+0172,16242019,"nfi-I affects behavior and life-span in C. elegans but is not essential for DNA replication or survival.",NULL,"Lazakovitch et al",NULL,2005,"BMC Dev. Biol.","5",NULL,NULL,NULL,NULL
+0173,12939266,"A reduction in intestinal cell pHi due to loss of the Caenorhabditis elegans Na+/H+ exchanger NHX-2 increases life span.",NULL,"Nehrke Keith",NULL,2003,"J. Biol. Chem.","278","44657-44666",NULL,NULL,NULL
+0174,15350840,"Premature death and age-related cardiac dysfunction in male eNOS-knockout mice.",NULL,"Li et al",NULL,2004,"J. Mol. Cell. Cardiol.","37","671-680",NULL,NULL,NULL
+0175,11884393,"Manipulation of a nuclear NAD+ salvage pathway delays aging without altering steady-state NAD+ levels.",NULL,"Anderson et al",NULL,2002,"J. Biol. Chem.","277","18881-18890",NULL,NULL,NULL
+0176,15155758,"Deletion of the intestinal peptide transporter affects insulin and TOR signaling in Caenorhabditis elegans.",NULL,"Meissner et al",NULL,2004,"J. Biol. Chem.","279","36739-36745",NULL,NULL,NULL
+0177,17272684,"Regulation of Drosophila life span by olfaction and food-derived odors.",NULL,"Libert et al",NULL,2007,"Science","315","1133-1137",NULL,NULL,NULL
+0178,10617470,"A delayed wave of death from reproduction in Drosophila.",NULL,"Sgr? and Partridge",NULL,1999,"Science","286","2521-2524",NULL,NULL,NULL
+0179,16303568,"Neuronal expression of p53 dominant-negative proteins in adult Drosophila melanogaster extends life span.",NULL,"Bauer et al",NULL,2005,"Curr. Biol.","15","2063-2068",NULL,NULL,NULL
+0180,17681037,"Loss of pregnancy-associated plasma protein A extends lifespan in mice.",NULL,"Conover and Bale",NULL,2007,"Aging Cell","6","727-729",NULL,NULL,NULL
+0181,17909035,"Cancer resistance in transgenic mice expressing the SAC module of Par-4.",NULL,"Zhao et al",NULL,2007,"Cancer Res.","67","9276-9285",NULL,NULL,NULL
+0182,17716967,"Overexpression of the cytosolic form of phosphoenolpyruvate carboxykinase (GTP) in skeletal muscle repatterns energy metabolism in the mouse.",NULL,"Hakimi et al",NULL,2007,"J. Biol. Chem.","282","32844-32855",NULL,NULL,NULL
+0183,11742076,"Extension of the Drosophila lifespan by overexpression of a protein repair methyltransferase.",NULL,"Chavous et al",NULL,2001,"Proc. Natl. Acad. Sci. U.S.A.","98","14814-14818",NULL,NULL,NULL
+0184,10364160,"A PDK1 homolog is necessary and sufficient to transduce AGE-1 PI3 kinase signals that regulate diapause in Caenorhabditis elegans.",NULL,"Paradis et al",NULL,1999,"Genes Dev.","13","1438-1452",NULL,NULL,NULL
+0185,17476212,"PHA-4/Foxa mediates diet-restriction-induced longevity of C. elegans.",NULL,"Panowski et al",NULL,2007,"Nature","447","550-555",NULL,NULL,NULL
+0186,9259555,"The prohibitin family of mitochondrial proteins regulate replicative lifespan.",NULL,"Coates et al",NULL,1997,"Curr. Biol.","7","607-610",NULL,NULL,NULL
+0187,16822282,"Regulation of chronological aging in Schizosaccharomyces pombe by the protein kinases Pka1 and Sck2.",NULL,"Roux et al",NULL,2006,"Aging Cell","5","345-357",NULL,NULL,NULL
+0188,10638529,"AlphaMUPA mice: a transgenic model for increased life span.",NULL,"Miskin et al",NULL,1999,"Neurobiol. Aging","20","555-564",NULL,NULL,NULL
+0189,15164064,"Premature ageing in mice expressing defective mitochondrial DNA polymerase.",NULL,"Trifunovic et al",NULL,2004,"Nature","429","417-423",NULL,NULL,NULL
+0190,11868902,"Neural-specific overexpression of drosophila plenty of SH3s (DPOSH) extends the longevity of adult flies.",NULL,"Seong et al",NULL,2001,"Biogerontology","2","271-281",NULL,NULL,NULL
+0191,16652371,"Augmented cancer resistance and DNA damage response phenotypes in PPM1D null mice.",NULL,"Nannenga et al",NULL,2006,"Mol. Carcinog.","45","594-604",NULL,NULL,NULL
+0192,12891360,"Essential role for the peroxiredoxin Prdx1 in erythrocyte antioxidant defence and tumour suppression.",NULL,"Neumann et al",NULL,2003,"Nature","424","561-565",NULL,NULL,NULL
+0193,8900272,"Dwarf mice and the ageing process.",NULL,"Brown-Borg et al",NULL,1996,"Nature","384",NULL,NULL,NULL,NULL
+0194,10207108,"Effects of mutations in DNA repair genes on formation of ribosomal DNA circles and life span in Saccharomyces cerevisiae.",NULL,"Park et al",NULL,1999,"Mol. Cell. Biol.","19","3848-3856",NULL,NULL,NULL
+0195,8034612,"Divergent roles of RAS1 and RAS2 in yeast longevity.",NULL,"Sun et al",NULL,1994,"J. Biol. Chem.","269","18638-18645",NULL,NULL,NULL
+0196,14642561,"Deficiency of Caenorhabditis elegans RecQ5 homologue reduces life span and increases sensitivity to ionizing radiation.",NULL,"Jeong et al",NULL,2003,"DNA Repair (Amst.)","2","1309-1319",NULL,NULL,NULL
+0197,16713954,"Normal mitochondrial dynamics requires rhomboid-7 and affects Drosophila lifespan and neuronal function.",NULL,"McQuibban et al",NULL,2006,"Curr. Biol.","16","982-989",NULL,NULL,NULL
+0198,11292860,"Regulation of longevity and stress resistance by Sch9 in yeast.",NULL,"Fabrizio et al",NULL,2001,"Science","292","288-290",NULL,NULL,NULL
+0199,17276341,"RLE-1, an E3 ubiquitin ligase, regulates C. elegans aging by catalyzing DAF-16 polyubiquitination.",NULL,"Li et al",NULL,2007,"Dev. Cell","12","235-246",NULL,NULL,NULL
+0200,10512855,"Modulation of life-span by histone deacetylase genes in Saccharomyces cerevisiae.",NULL,"Kim et al",NULL,1999,"Mol. Biol. Cell","10","3125-3136",NULL,NULL,NULL
+0201,12459580,"Longevity regulation by Drosophila Rpd3 deacetylase and caloric restriction.",NULL,"Rogina et al",NULL,2002,"Science","298",NULL,NULL,NULL,NULL
+0202,17174052,"Ribosomal proteins Rpl10 and Rps6 are potent regulators of yeast replicative life span.",NULL,"Chiocchetti et al",NULL,2007,"Exp. Gerontol.","42","275-286",NULL,NULL,NULL
+0203,16782871,"Defective mitochondrial gene expression results in reactive oxygen species-mediated inhibition of respiration and reduction of yeast life span.",NULL,"Bonawitz et al",NULL,2006,"Mol. Cell. Biol.","26","4818-4829",NULL,NULL,NULL
+0204,11024000,"An intervention resembling caloric restriction prolongs life span and retards aging in yeast.",NULL,"Jiang et al",NULL,2000,"FASEB J.","14","2135-2137",NULL,NULL,NULL
+0205,17855453,"Reduced life span with heart and muscle dysfunction in Drosophila sarcoglycan mutants.",NULL,"Allikian et al",NULL,2007,"Hum. Mol. Genet.","16","2933-2943",NULL,NULL,NULL
+0206,12620193,"Identification of a DAF-16 transcriptional target gene, scl-1, that regulates longevity and stress resistance in Caenorhabditis elegans.",NULL,"Ookuma et al",NULL,2003,"Curr. Biol.","13","427-431",NULL,NULL,NULL
+0207,15024029,"A role for the actin cytoskeleton in cell death and aging in yeast.",NULL,"Gourlay et al",NULL,2004,"J. Cell Biol.","164","803-809",NULL,NULL,NULL
+0208,17056719,"Hypersensitivity to oxygen and shortened lifespan in a Drosophila mitochondrial complex II mutant.",NULL,"Walker et al",NULL,2006,"Proc. Natl. Acad. Sci. U.S.A.","103","16382-16387",NULL,NULL,NULL
+0209,17854771,"A mev-1-like dominant-negative SdhC increases oxidative stress and reduces lifespan in Drosophila.",NULL,"Tsuda et al",NULL,2007,"Biochem. Biophys. Res. Commun.","363","342-346",NULL,NULL,NULL
+0210,15068796,"C. elegans SGK-1 is the critical component in the Akt/PKB kinase complex to control stress response and life span.",NULL,"Hertweck et al",NULL,2004,"Dev. Cell","6","577-588",NULL,NULL,NULL
+0211,9271578,"Accelerated aging and nucleolar fragmentation in yeast sgs1 mutants.",NULL,"Sinclair et al",NULL,1997,"Science","277","1313-1316",NULL,NULL,NULL
+0212,10580504,"The p66shc adaptor protein controls oxidative stress response and life span in mammals.",NULL,"Migliaccio et al",NULL,1999,"Nature","402","309-313",NULL,NULL,NULL
+0213,10921902,"Sip2p and its partner snf1p kinase affect aging in S. cerevisiae.",NULL,"Ashrafi et al",NULL,2000,"Genes Dev.","14","1872-1885",NULL,NULL,NULL
+0214,11242085,"Increased dosage of a sir-2 gene extends lifespan in Caenorhabditis elegans.",NULL,"Tissenbaum and Guarente",NULL,2001,"Nature","410","227-230",NULL,NULL,NULL
+0215,15520384,"Sir2 mediates longevity in the fly through a pathway related to calorie restriction.",NULL,"Rogina and Helfand",NULL,2004,"Proc. Natl. Acad. Sci. U.S.A.","101","15998-16003",NULL,NULL,NULL
+0216,10521401,"The SIR2/3/4 complex and SIR2 alone promote longevity in Saccharomyces cerevisiae by two different mechanisms.",NULL,"Kaeberlein et al",NULL,1999,"Genes Dev.","13","2570-2580",NULL,NULL,NULL
+0217,7859289,"Mutation in the silencing gene SIR4 can delay aging in S. cerevisiae.",NULL,"Kennedy et al",NULL,1995,"Cell","80","485-496",NULL,NULL,NULL
+0218,17159295,"Involvement of Drosophila Sir2-like genes in the regulation of life span.",NULL,"Kusama et al",NULL,2006,"Genes Genet. Syst.","81","341-348",NULL,NULL,NULL
+0219,16439206,"Genomic instability and aging-like phenotype in the absence of mammalian SIRT6.",NULL,"Mostoslavsky et al",NULL,2006,"Cell","124","315-329",NULL,NULL,NULL
+0220,17538612,"Two neurons mediate diet-restriction-induced longevity in C. elegans.",NULL,"Bishop and Guarente",NULL,2007,"Nature","447","545-549",NULL,NULL,NULL
+0221,10220377,"Mitochondrial disease in mouse results in increased oxidative stress.",NULL,"Esposito et al",NULL,1999,"Proc. Natl. Acad. Sci. U.S.A.","96","4820-4825",NULL,NULL,NULL
+0222,16530049,"SMK-1, an essential regulator of DAF-16-mediated longevity.",NULL,"Wolff et al",NULL,2006,"Cell","124","1039-1053",NULL,NULL,NULL
+0223,16782295,"Increased lifespan in transgenic Caenorhabditis elegans overexpressing human alpha-synuclein.",NULL,"Vartiainen et al",NULL,2006,"Exp. Gerontol.","41","871-876",NULL,NULL,NULL
+0224,12456885,"RNA interference-mediated silencing of Sod2 in Drosophila leads to early adult-onset mortality and elevated endogenous oxidative stress.",NULL,"Kirby et al",NULL,2002,"Proc. Natl. Acad. Sci. U.S.A.","99","16162-16167",NULL,NULL,NULL
+0225,1448167,"Production of sperm reduces nematode lifespan.",NULL,"Van Voorhies W A",NULL,1992,"Nature","360","456-458",NULL,NULL,NULL
+0226,15126388,"Saccharomyces cerevisiae SSD1-V confers longevity by a Sir2p-independent mechanism.",NULL,"Kaeberlein et al",NULL,2004,"Genetics","166","1661-1672",NULL,NULL,NULL
+0227,18411298,"CHIP deficiency decreases longevity, with accelerated aging phenotypes accompanied by altered protein quality control.",NULL,"Min et al",NULL,2008,"Mol. Cell. Biol.","28","4018-4025",NULL,NULL,NULL
+0228,15133470,"The endogenous ligand Stunted of the GPCR Methuselah extends lifespan in Drosophila.",NULL,"Cvejic et al",NULL,2004,"Nat. Cell Biol.","6","540-546",NULL,NULL,NULL
+0229,16172499,"Post-transcriptional silencing and functional characterization of the Drosophila melanogaster homolog of human Surf1.",NULL,"Zordan et al",NULL,2006,"Genetics","172","229-241",NULL,NULL,NULL
+0230,17210671,"Increased longevity and refractoriness to Ca(2+)-dependent neurodegeneration in Surf1 knockout mice.",NULL,"Dell'agnello et al",NULL,2007,"Hum. Mol. Genet.","16","431-444",NULL,NULL,NULL
+0231,16181657,"Bloom syndrome ortholog HIM-6 maintains genomic stability in C. elegans.",NULL,"Grabowski et al",NULL,2005,"Mech. Ageing Dev.","126","1314-1321",NULL,NULL,NULL
+0232,16142233,"XPF nuclease-dependent telomere loss and increased DNA damage in mice overexpressing TRF2 result in premature aging and cancer.",NULL,"Mu?oz et al",NULL,2005,"Nat. Genet.","37","1063-1071",NULL,NULL,NULL
+0233,15688016,"Antagonistic effects of telomerase on cancer and aging in K5-mTert transgenic mice.",NULL,"Gonz?lez-Su?rez et al",NULL,2005,"Oncogene","24","2256-2270",NULL,NULL,NULL
+0234,9768365,"Life extension and stress resistance in Caenorhabditis elegans modulated by the tkr-1 gene.",NULL,"Murakami and Johnson",NULL,1998,"Curr. Biol.","8","1091-1094",NULL,NULL,NULL
+0235,9275199,"Changes of telomere length cause reciprocal changes in the lifespan of mother cells in Saccharomyces cerevisiae.",NULL,"Austriaco and Guarente",NULL,1997,"Proc. Natl. Acad. Sci. U.S.A.","94","9768-9772",NULL,NULL,NULL
+0236,11331780,"Mice lacking DNA topoisomerase IIIbeta develop to maturity but show a reduced mean lifespan.",NULL,"Kwan and Wang",NULL,2001,"Proc. Natl. Acad. Sci. U.S.A.","98","5717-5721",NULL,NULL,NULL
+0237,11780111,"p53 mutant mice that display early ageing-associated phenotypes.",NULL,"Tyner et al",NULL,2002,"Nature","415","45-53",NULL,NULL,NULL
+0238,16107615,"p63 deficiency activates a program of cellular senescence and leads to accelerated aging.",NULL,"Keyes et al",NULL,2005,"Genes Dev.","19","1986-1999",NULL,NULL,NULL
+0239,17567437,"Thioredoxin-2 affects lifespan and oxidative stress in Drosophila.",NULL,"Svensson and Larsson",NULL,2007,"Hereditas","144","25-32",NULL,NULL,NULL
+0240,17301052,"Thioredoxin suppresses Parkin-associated endothelin receptor-like receptor-induced neurotoxicity and extends longevity in Drosophila.",NULL,"Umeda-Kameyama et al",NULL,2007,"J. Biol. Chem.","282","11180-11187",NULL,NULL,NULL
+0241,16054097,"C. elegans tubby regulates life span and fat storage by two independent mechanisms.",NULL,"Mukhopadhyay et al",NULL,2005,"Cell Metab.","2","35-42",NULL,NULL,NULL
+0242,12230882,"Overexpression of human thioredoxin in transgenic mice controls oxidative stress and life span.",NULL,"Mitsui et al",NULL,2002,"Antioxid. Redox Signal.","4","693-696",NULL,NULL,NULL
+0243,16054055,"Targeted expression of the human uncoupling protein 2 (hUCP2) to adult neurons extends life span in the fly.",NULL,"Fridell et al",NULL,2005,"Cell Metab.","1","145-152",NULL,NULL,NULL
+0244,17082459,"Transgenic mice with a reduced core body temperature have an increased life span.",NULL,"Conti et al",NULL,2006,"Science","314","825-828",NULL,NULL,NULL
+0245,16337885,"Ump1 extends yeast lifespan and enhances viability during oxidative stress: central role for the proteasome?",NULL,"Chen et al",NULL,2006,"Free Radic. Biol. Med.","40","120-126",NULL,NULL,NULL
+0246,10747056,"Genetic, behavioral and environmental determinants of male longevity in Caenorhabditis elegans.",NULL,"Gems and Riddle",NULL,2000,"Genetics","154","1597-1610",NULL,NULL,NULL
+0247,10377425,"Neurosecretory control of aging in Caenorhabditis elegans.",NULL,"Ailion et al",NULL,1999,"Proc. Natl. Acad. Sci. U.S.A.","96","7394-7397",NULL,NULL,NULL
+0248,10485901,"Deletion of Ku86 causes early onset of senescence in mice.",NULL,"Vogel et al",NULL,1999,"Proc. Natl. Acad. Sci. U.S.A.","96","10770-10775",NULL,NULL,NULL
+0249,17875923,"Deletion of Ku70, Ku80, or both causes early aging without substantially increased cancer.",NULL,"Li et al",NULL,2007,"Mol. Cell. Biol.","27","8205-8214",NULL,NULL,NULL
+0250,17335870,"The Caenorhabditis elegans nicotinamidase PNC-1 enhances survival.",NULL,"van der Horst et al",NULL,2007,"Mech. Ageing Dev.","128","346-349",NULL,NULL,NULL
+0251,10662670,"Two paralogs involved in transcriptional silencing that antagonistically control yeast life span.",NULL,"Roy and Runge",NULL,2000,"Curr. Biol.","10","111-114",NULL,NULL,NULL
+0252,16079796,"Accelerated ageing in mice deficient in Zmpste24 protease is linked to p53 signalling activation.",NULL,"Varela et al",NULL,2005,"Nature","437","564-568",NULL,NULL,NULL
+0253,19197138,"Disruption of the Ang II type 1 receptor promotes longevity in mice.",NULL,"Benigni et al",NULL,2009,"J. Clin. Invest.","119","524-530",NULL,NULL,NULL
+0254,11726538,"Pathophysiology of apolipoprotein E deficiency in mice: relevance to apo E-related disorders in humans.",NULL,"Moghadasian et al",NULL,2001,"FASEB J.","15","2623-2630",NULL,NULL,NULL
+0255,19451219,"Cisd2 deficiency drives premature aging and causes mitochondria-mediated defects in mice.",NULL,"Chen et al",NULL,2009,"Genes Dev.","23","1183-1194",NULL,NULL,NULL
+0256,21149897,"Deficiency of circadian protein CLOCK reduces lifespan and increases age-related cataract development in mice.",NULL,"Dubrovsky et al",NULL,2010,"Aging (Albany NY)","2","936-944",NULL,NULL,NULL
+0257,17360850,"Dystrophin-deficient mdx mice display a reduced life span and are susceptible to spontaneous rhabdomyosarcoma.",NULL,"Chamberlain et al",NULL,2007,"FASEB J.","21","2195-2204",NULL,NULL,NULL
+0258,20726853,"Downregulation of lamin A by tumor suppressor AIMP3/p18 leads to a progeroid phenotype in mice.",NULL,"Oh et al",NULL,2010,"Aging Cell","9","810-822",NULL,NULL,NULL
+0259,20209148,"Loss of the actin remodeler Eps8 causes intestinal defects and improved metabolic status in mice.",NULL,"Tocchetti et al",NULL,2010,"PLoS ONE","5",NULL,NULL,NULL,NULL
+0260,12847088,"Regulated splicing of the fibronectin EDA exon is essential for proper skin wound healing and normal lifespan.",NULL,"Muro et al",NULL,2003,"J. Cell Biol.","162","149-160",NULL,NULL,NULL
+0261,22633954,"mRNA Decay Factor AUF1 Maintains Normal Aging, Telomere Maintenance, and Suppression of Senescence by Activation of Telomerase Transcription.",NULL,"Pont et al",NULL,2012,NULL,NULL,NULL,NULL,NULL,NULL
+0262,20140187,"Deletion of the huntingtin polyglutamine stretch enhances neuronal autophagy and longevity in mice.",NULL,"Zheng et al",NULL,2010,"PLoS Genet.","6",NULL,NULL,NULL,NULL
+0263,18249171,"Oxidative stress contributes to aging by enhancing pancreatic angiogenesis and insulin signaling.",NULL,"Laurent et al",NULL,2008,"Cell Metab.","7","113-124",NULL,NULL,NULL
+0264,18542083,"Kv1.3 gene-targeted deletion alters longevity and reduces adiposity by increasing locomotion and metabolism in melanocortin-4 receptor-null mice.",NULL,"Tucker et al",NULL,2008,"Int J Obes (Lond)","32","1222-1232",NULL,NULL,NULL
+0265,19997628,"Ppargamma2 is a key driver of longevity in the mouse.",NULL,"Argmann et al",NULL,2009,"PLoS Genet.","5",NULL,NULL,NULL,NULL
+0266,18239138,"Sirt7 increases stress resistance of cardiomyocytes and prevents apoptosis and inflammatory cardiomyopathy in mice.",NULL,"Vakhrusheva et al",NULL,2008,"Circ. Res.","102","703-710",NULL,NULL,NULL
+0267,21651971,"Increased lifespan in hyposulfatemic NaS1 null mice.",NULL,"Markovich et al",NULL,2011,"Exp. Gerontol.","46","833-835",NULL,NULL,NULL
+0268,19424848,"Lack of Socs2 expression reduces lifespan in high-growth mice.",NULL,"Casellas and Medrano",NULL,2008,"Age (Dordr)","30","245-249",NULL,NULL,NULL
+0269,21108731,"Accelerated aging phenotype in mice with conditional deficiency for mitochondrial superoxide dismutase in the connective tissue.",NULL,"Treiber et al",NULL,2011,"Aging Cell","10","239-254",NULL,NULL,NULL
+0270,20429939,"Deficiency of the dual ubiquitin/SUMO ligase Topors results in genetic instability and an increased rate of malignancy in mice.",NULL,"Marshall et al",NULL,2010,"BMC Mol. Biol.","11",NULL,NULL,NULL,NULL
+0271,18362329,"Activation of cellular death programs associated with immunosenescence-like phenotype in TPPII knockout mice.",NULL,"Huai et al",NULL,2008,"Proc. Natl. Acad. Sci. U.S.A.","105","5177-5182",NULL,NULL,NULL
+0272,19716796,"A selective requirement for 53BP1 in the biological response to genomic instability induced by Brca1 deficiency.",NULL,"Cao et al",NULL,2009,"Mol. Cell","35","534-541",NULL,NULL,NULL
+0273,19005568,"Reduction of DILP2 in Drosophila triages a metabolic phenotype from lifespan revealing redundancy and compensation among DILPs.",NULL,"Broughton et al",NULL,2008,"PLoS ONE","3",NULL,NULL,NULL,NULL
+0274,19550147,"Autophagic degradation of nuclear components in mammalian cells.",NULL,"Park et al",NULL,2009,"Autophagy","5","795-804",NULL,NULL,NULL
+0275,18665908,"14-3-3 Epsilon antagonizes FoxO to control growth, apoptosis and longevity in Drosophila.",NULL,"Nielsen et al",NULL,2008,"Aging Cell","7","688-699",NULL,NULL,NULL
+0276,20976250,"Lifespan extension by preserving proliferative homeostasis in Drosophila.",NULL,"Biteau et al",NULL,2010,"PLoS Genet.","6",NULL,NULL,NULL,NULL
+0277,19302370,"Reduced expression of alpha-1,2-mannosidase I extends lifespan in Drosophila melanogaster and Caenorhabditis elegans.",NULL,"Liu et al",NULL,2009,"Aging Cell","8","370-379",NULL,NULL,NULL
+0278,18219227,"Longevity pathways converge on autophagy genes to regulate life span in Caenorhabditis elegans.",NULL,"T?th et al",NULL,2008,"Autophagy","4","330-338",NULL,NULL,NULL
+0279,18434551,"Drosophila germ-line modulation of insulin signaling and lifespan.",NULL,"Flatt et al",NULL,2008,"Proc. Natl. Acad. Sci. U.S.A.","105","6368-6373",NULL,NULL,NULL
+0280,19747824,"Extension of Drosophila life span by RNAi of the mitochondrial respiratory chain.",NULL,"Copeland et al",NULL,2009,"Curr. Biol.","19","1591-1598",NULL,NULL,NULL
+0281,17999718,"Over-expression of the catalytic core of mitochondrial DNA (mtDNA) polymerase in the nervous system of Drosophila melanogaster reduces median life span by inducing mtDNA depletion.",NULL,"Mart?nez-Azor?n et al",NULL,2008,"J. Neurochem.","105","165-176",NULL,NULL,NULL
+0282,18221418,"Dystrophin deficiency in Drosophila reduces lifespan and causes a dilated cardiomyopathy phenotype.",NULL,"Taghli-Lamallem et al",NULL,2008,"Aging Cell","7","237-249",NULL,NULL,NULL
+0283,20018689,"Polycomb Repressive Complex 2 and Trithorax modulate Drosophila longevity and stress resistance.",NULL,"Siebold et al",NULL,2010,"Proc. Natl. Acad. Sci. U.S.A.","107","169-174",NULL,NULL,NULL
+0284,20589912,"Life-span phenotypes of elav and Rbp9 in Drosophila suggest functional cooperation of the two ELAV-family protein genes.",NULL,"Toba et al",NULL,2010,"Arch. Insect Biochem. Physiol.","74","261-265",NULL,NULL,NULL
+0285,18258192,"Overexpression of frataxin in the mitochondria increases resistance to oxidative stress and extends lifespan in Drosophila.",NULL,"Runko et al",NULL,2008,"FEBS Lett.","582","715-719",NULL,NULL,NULL
+0286,21153055,"Increase of Drosophila melanogaster lifespan due to D-GADD45 overexpression in the nervous system.",NULL,"Plyusnina et al",NULL,2011,"Biogerontology","12","211-226",NULL,NULL,NULL
+0287,20422037,"Carbon dioxide sensing modulates lifespan and physiology in Drosophila.",NULL,"Poon et al",NULL,2010,"PLoS Biol.","8",NULL,NULL,NULL,NULL
+0288,19011900,"Adult-specific over-expression of the Drosophila genes magu and hebe increases life span and modulates late-age female fecundity.",NULL,"Li and Tower",NULL,2009,"Mol. Genet. Genomics","281","147-162",NULL,NULL,NULL
+0289,19420297,"Expression of hsp22 and hsp70 transgenes is partially predictive of drosophila survival under normal and stress conditions.",NULL,"Yang and Tower",NULL,2009,"J. Gerontol. A Biol. Sci. Med. Sci.","64","828-838",NULL,NULL,NULL
+0290,15708981,"Longer lifespan, altered metabolism, and stress resistance in Drosophila from ablation of cells making insulin-like ligands.",NULL,"Broughton et al",NULL,2005,"Proc. Natl. Acad. Sci. U.S.A.","102","3105-3110",NULL,NULL,NULL
+0291,19720829,"JNK/FOXO-mediated neuronal expression of fly homologue of peroxiredoxin II reduces oxidative stress and extends life span.",NULL,"Lee et al",NULL,2009,"J. Biol. Chem.","284","29454-29461",NULL,NULL,NULL
+0292,18275960,"Overexpression of Drosophila juvenile hormone esterase binding protein results in anti-JH effects and reduced pheromone abundance.",NULL,"Liu et al",NULL,2008,"Gen. Comp. Endocrinol.","156","164-172",NULL,NULL,NULL
+0293,18194654,"Keap1/Nrf2 signaling regulates oxidative stress tolerance and lifespan in Drosophila.",NULL,"Sykiotis and Bohmann",NULL,2008,"Dev. Cell","14","76-85",NULL,NULL,NULL
+0294,21029723,"dGIPC is required for the locomotive activity and longevity in Drosophila.",NULL,"Kim et al",NULL,2010,"Biochem. Biophys. Res. Commun.","402","565-570",NULL,NULL,NULL
+0295,18494863,"The farnesylated nuclear proteins KUGELKERN and LAMIN B promote aging-like phenotypes in Drosophila flies.",NULL,"Brandt et al",NULL,2008,"Aging Cell","7","541-551",NULL,NULL,NULL
+0296,20333234,"Regulation of lifespan, metabolism, and stress responses by the Drosophila SH2B protein, Lnk.",NULL,"Slack et al",NULL,2010,"PLoS Genet.","6",NULL,NULL,NULL,NULL
+0297,21776417,"Loco signaling pathway in longevity.",NULL,"Lin et al",NULL,2011,"Small Gtpases","2","158-161",NULL,NULL,NULL
+0298,18208580,"Acquired temperature-sensitive paralysis as a biomarker of declining neuronal function in aging Drosophila.",NULL,"Reenan and Rogina",NULL,2008,"Aging Cell","7","179-186",NULL,NULL,NULL
+0299,18083727,"The Drosophila muscle LIM protein, Mlp84B, is essential for cardiac function.",NULL,"Mery et al",NULL,2008,"J. Exp. Biol.","211","15-23",NULL,NULL,NULL
+0300,18775584,"Overexpression of metal-responsive transcription factor (MTF-1) in Drosophila melanogaster ameliorates life-span reductions associated with oxidative stress and metal toxicity.",NULL,"Bahadorani et al",NULL,2010,"Neurobiol. Aging","31","1215-1226",NULL,NULL,NULL
+0301,18678867,"Life span extension and neuronal cell protection by Drosophila nicotinamidase.",NULL,"Balan et al",NULL,2008,"J. Biol. Chem.","283","27810-27819",NULL,NULL,NULL
+0302,21376794,"Sex-dependent modulation of longevity by two Drosophila homologues of human Apolipoprotein D, GLaz and NLaz.",NULL,"Ruiz et al",NULL,2011,"Exp. Gerontol.","46","579-589",NULL,NULL,NULL
+0303,21826223,"Drosophila carrying pex3 or pex16 mutations are models of Zellweger syndrome that reflect its symptoms associated with the absence of peroxisomes.",NULL,"Nakayama et al",NULL,2011,"PLoS ONE","6",NULL,NULL,NULL,NULL
+0304,19128239,"Peroxiredoxin 5 confers protection against oxidative stress and apoptosis and also promotes longevity in Drosophila.",NULL,"Radyuk et al",NULL,2009,"Biochem. J.","419","437-445",NULL,NULL,NULL
+0305,21111239,"FOXO/4E-BP signaling in Drosophila muscles regulates organism-wide proteostasis during aging.",NULL,"Demontis and Perrimon",NULL,2010,"Cell","143","813-825",NULL,NULL,NULL
+0306,18478054,"An RGS-containing sorting nexin controls Drosophila lifespan.",NULL,"Suh et al",NULL,2008,"PLoS ONE","3",NULL,NULL,NULL,NULL
+0307,20519778,"Comparative transcriptional profiling identifies takeout as a gene that regulates life span.",NULL,"Bauer et al",NULL,2010,"Aging (Albany NY)","2","298-310",NULL,NULL,NULL
+0308,19209226,"Loss of yata, a novel gene regulating the subcellular localization of APPL, induces deterioration of neural tissues and lifespan shortening.",NULL,"Sone et al",NULL,2009,"PLoS ONE","4",NULL,NULL,NULL,NULL
+0309,18809674,"Overexpression of glucose-6-phosphate dehydrogenase extends the life span of Drosophila melanogaster.",NULL,"Legan et al",NULL,2008,"J. Biol. Chem.","283","32492-32499",NULL,NULL,NULL
+0310,18059442,"A modular network model of aging.",NULL,"Xue et al",NULL,2007,"Mol. Syst. Biol.","3",NULL,NULL,NULL,NULL
+0311,2001158,"Tumefactive fibroinflammatory lesion of the extremity. Report of a case and review of the literature.",NULL,"Savage et al",NULL,1991,"Arch. Pathol. Lab. Med.","115","230-232",NULL,NULL,NULL
+0312,18467495,"Proteasomal adaptation to environmental stress links resistance to proteotoxicity with longevity in Caenorhabditis elegans.",NULL,"Yun et al",NULL,2008,"Proc. Natl. Acad. Sci. U.S.A.","105","7094-7099",NULL,NULL,NULL
+0313,18216284,"APY-1, a novel Caenorhabditis elegans apyrase involved in unfolded protein response signalling and stress responses.",NULL,"Uccelletti et al",NULL,2008,"Mol. Biol. Cell","19","1337-1345",NULL,NULL,NULL
+0314,19575768,"Condition-adapted stress and longevity gene regulation by Caenorhabditis elegans SKN-1/Nrf.",NULL,"Oliveira et al",NULL,2009,"Aging Cell","8","524-541",NULL,NULL,NULL
+0315,20207731,"Arrestin and the multi-PDZ domain-containing protein MPZ-1 interact with phosphatase and tensin homolog (PTEN) and regulate Caenorhabditis elegans longevity.",NULL,"Palmitessa and Benovic",NULL,2010,"J. Biol. Chem.","285","15187-15200",NULL,NULL,NULL
+0316,20555324,"Members of the H3K4 trimethylation complex regulate lifespan in a germline-dependent manner in C. elegans.",NULL,"Greer et al",NULL,2010,"Nature","466","383-387",NULL,NULL,NULL
+0317,19469880,"Lifespan extension by suppression of autophagy genes in Caenorhabditis elegans.",NULL,"Hashimoto et al",NULL,2009,"Genes Cells","14","717-726",NULL,NULL,NULL
+0318,19764929,"Caenorhabditis elegans PI3K mutants reveal novel genes underlying exceptional stress resistance and lifespan.",NULL,"Ayyadevara et al",NULL,2009,"Aging Cell","8","706-725",NULL,NULL,NULL
+0319,20688098,"Mitochondrial dysfunction in Caenorhabditis elegans causes metabolic restructuring, but this is not linked to longevity.",NULL,"Zuryn et al",NULL,2010,"Mech. Ageing Dev.","131","554-561",NULL,NULL,NULL
+0320,20844315,"Klotho interferes with a novel FGF-signalling pathway and insulin/Igf-like signalling to improve longevity and stress resistance in Caenorhabditis elegans.",NULL,"Ch?teau et al",NULL,2010,"Aging (Albany NY)","2","567-581",NULL,NULL,NULL
+0321,21055415,"Regulation of longevity by genes required for the functions of AIY interneuron in nematode Caenorhabditis elegans.",NULL,"Shen et al",NULL,2010,"Mech. Ageing Dev.","131","732-738",NULL,NULL,NULL
+0322,19627265,"Oxidative stress and longevity in Caenorhabditis elegans as mediated by SKN-1.",NULL,"Park et al",NULL,2009,"Aging Cell","8","258-269",NULL,NULL,NULL
+0323,21477590,"DHS-21, a dicarbonyl/L-xylulose reductase (DCXR) ortholog, regulates longevity and reproduction in Caenorhabditis elegans.",NULL,"Son et al",NULL,2011,"FEBS Lett.","585","1310-1316",NULL,NULL,NULL
+0324,21215371,"The cell-non-autonomous nature of electron transport chain-mediated longevity.",NULL,"Durieux et al",NULL,2011,"Cell","144","79-91",NULL,NULL,NULL
+0325,18662544,"An elt-3/elt-5/elt-6 GATA transcription circuit guides aging in C. elegans.",NULL,"Budovskaya et al",NULL,2008,"Cell","134","291-303",NULL,NULL,NULL
+0326,19043554,"Profiling synaptic proteins identifies regulators of insulin secretion and lifespan.",NULL,"Ch'ng et al",NULL,2008,"PLoS Genet.","4",NULL,NULL,NULL,NULL
+0327,19372390,"Proteasomal regulation of the hypoxic response modulates aging in C. elegans.",NULL,"Mehta et al",NULL,2009,"Science","324","1196-1198",NULL,NULL,NULL
+0328,20862312,"ETS-4 is a transcriptional regulator of life span in Caenorhabditis elegans.",NULL,"Thyagarajan et al",NULL,2010,"PLoS Genet.","6",NULL,NULL,NULL,NULL
+0329,20346071,"Apurinic/apyrimidinic endonuclease 1, p53, and thioredoxin are linked in control of aging in C. elegans.",NULL,"Schlotterer et al",NULL,2010,"Aging Cell","9","420-432",NULL,NULL,NULL
+0330,18728216,"Inhibition of a eukaryotic initiation factor (eIF2Bdelta/F11A3.2) during adulthood extends lifespan in Caenorhabditis elegans.",NULL,"Tohyama et al",NULL,2008,"FASEB J.","22","4327-4337",NULL,NULL,NULL
+0331,21156009,"Mutation in a mitochondrial ribosomal protein causes increased sensitivity to oxygen with decreased longevity in the nematode Caenorhabditis elegans.",NULL,"Fujii et al",NULL,2011,"Genes Cells","16","69-79",NULL,NULL,NULL
+0332,21040400,"Pyruvate imbalance mediates metabolic reprogramming and mimics lifespan extension by dietary restriction in Caenorhabditis elegans.",NULL,"Mouchiroud et al",NULL,2011,"Aging Cell","10","39-54",NULL,NULL,NULL
+0333,20497132,"Novel EGF pathway regulators modulate C. elegans healthspan and lifespan via EGF receptor, PLC-gamma, and IP3R activation.",NULL,"Iwasa et al",NULL,2010,"Aging Cell","9","490-505",NULL,NULL,NULL
+0334,18828672,"Caenorhabditis elegans HCF-1 functions in longevity maintenance as a DAF-16 regulator.",NULL,"Li et al",NULL,2008,"PLoS Biol.","6",NULL,NULL,NULL,NULL
+0335,19424872,"Genetic analysis of hyl-1, the C. elegans homolog of LAG1/LASS1.",NULL,"Tedesco et al",NULL,2008,"Age (Dordr)","30","43-52",NULL,NULL,NULL
+0336,20460307,"Insulin/IGF-1 signaling mutants reprogram ER stress response regulators to promote longevity.",NULL,"Henis-Korenblit et al",NULL,2010,"Proc. Natl. Acad. Sci. U.S.A.","107","9730-9735",NULL,NULL,NULL
+0337,20956318,"3-Ketoacyl thiolase delays aging of Caenorhabditis elegans and is required for lifespan extension mediated by sir-2.1.",NULL,"Berdichevsky et al",NULL,2010,"Proc. Natl. Acad. Sci. U.S.A.","107","18927-18932",NULL,NULL,NULL
+0338,18393358,"Characterization and functional studies of a FYVE domain-containing phosphatase in C. elegans.",NULL,"Ma et al",NULL,2008,"J. Cell. Biochem.","104","1843-1852",NULL,NULL,NULL
+0339,20501697,"Molecular characterization of numr-1 and numr-2: genes that increase both resistance to metal-induced stress and lifespan in Caenorhabditis elegans.",NULL,"Tvermoes et al",NULL,2010,"J. Cell. Sci.","123","2124-2134",NULL,NULL,NULL
+0340,18846209,"A TRPV channel modulates C. elegans neurosecretion, larval starvation survival, and adult lifespan.",NULL,"Lee and Ashrafi",NULL,2008,"PLoS Genet.","4",NULL,NULL,NULL,NULL
+0341,18772467,"Protein-repair and hormone-signaling pathways specify dauer and adult longevity and dauer development in Caenorhabditis elegans.",NULL,"Banfield et al",NULL,2008,"J. Gerontol. A Biol. Sci. Med. Sci.","63","798-808",NULL,NULL,NULL
+0342,19812672,"Prohibitin couples diapause signalling to mitochondrial metabolism during ageing in C. elegans.",NULL,"Artal-Sanz and Tavernarakis",NULL,2009,"Nature","461","793-797",NULL,NULL,NULL
+0343,18832074,"SHC-1/p52Shc targets the insulin/IGF-1 and JNK signaling pathways to modulate life span and stress response in C. elegans.",NULL,"Neumann-Haefelin et al",NULL,2008,"Genes Dev.","22","2721-2735",NULL,NULL,NULL
+0344,18836529,"A novel role for the SMG-1 kinase in lifespan and oxidative stress resistance in Caenorhabditis elegans.",NULL,"Masse et al",NULL,2008,"PLoS ONE","3",NULL,NULL,NULL,NULL
+0345,18073424,"A Measurable increase in oxidative damage due to reduction in superoxide detoxification fails to shorten the life span of long-lived mitochondrial mutants of Caenorhabditis elegans.",NULL,"Yang et al",NULL,2007,"Genetics","177","2063-2074",NULL,NULL,NULL
+0346,10968795,"Extension of life-span with superoxide dismutase/catalase mimetics.",NULL,"Melov et al",NULL,2000,"Science","289","1567-1569",NULL,NULL,NULL
+0347,21151927,"Stressed-induced TMEM135 protein is part of a conserved genetic network involved in fat storage and longevity regulation in Caenorhabditis elegans.",NULL,"Exil et al",NULL,2010,"PLoS ONE","5",NULL,NULL,NULL,NULL
+0348,19853560,"A role for C. elegans Eph RTK signaling in PTEN regulation.",NULL,"Brisbin et al",NULL,2009,"Dev. Cell","17","459-469",NULL,NULL,NULL
+0349,21331044,"Lifespan extension induced by AMPK and calcineurin is mediated by CRTC-1 and CREB.",NULL,"Mair et al",NULL,2011,"Nature","470","404-408",NULL,NULL,NULL
+0350,9363890,"Mutation of the mouse klotho gene leads to a syndrome resembling ageing.","","Kuro-o et al","",1997,"Nature","390","45-51","","",NULL
+0351,17400585,"Mgat5 and Pten interact to regulate cell growth and polarity.",NULL,"Cheung and Dennis",NULL,2007,"Glycobiology","17","767-773",NULL,NULL,NULL
+0352,22405073,"Pten positively regulates brown adipose function, energy expenditure, and longevity.",NULL,"Ortega-Molina et al",NULL,2012,"Cell Metab.","15","382-394",NULL,NULL,NULL
+0353,15743677,"The emerging role of poly(ADP-ribose) polymerase-1 in longevity.",NULL,"B?rkle et al",NULL,2005,"Int. J. Biochem. Cell Biol.","37","1043-1053",NULL,NULL,NULL
+0354,20561897,"Inflammatory and age-related pathologies in mice with ectopic expression of human PARP-1.",NULL,"Mangerich et al",NULL,2010,"Mech. Ageing Dev.","131","389-404",NULL,NULL,NULL
+0355,12960381,"Developmental defects and p53 hyperacetylation in Sir2 homolog (SIRT1)-deficient mice.",NULL,"Cheng et al",NULL,2003,"Proc. Natl. Acad. Sci. U.S.A.","100","10794-10799",NULL,NULL,NULL
+0356,17877786,"SIRT1 transgenic mice show phenotypes resembling calorie restriction.",NULL,"Bordone et al",NULL,2007,"Aging Cell","6","759-767",NULL,NULL,NULL
+0357,8689683,"Atm-deficient mice: a paradigm of ataxia telangiectasia.",NULL,"Barlow et al",NULL,1996,"Cell","86","159-171",NULL,NULL,NULL
+0358,8917548,"Pleiotropic defects in ataxia-telangiectasia protein-deficient mice.",NULL,"Elson et al",NULL,1996,"Proc. Natl. Acad. Sci. U.S.A.","93","13084-13089",NULL,NULL,NULL
+0359,8843194,"Targeted disruption of ATM leads to growth retardation, chromosomal fragmentation during meiosis, immune defects, and thymic lymphoma.",NULL,"Xu et al",NULL,1996,"Genes Dev.","10","2411-2422",NULL,NULL,NULL
+0360,19620979,"A mouse model of ATR-Seckel shows embryonic replicative stress and accelerated aging.",NULL,"Murga et al",NULL,2009,"Nat. Genet.","41","891-898",NULL,NULL,NULL
+0361,17420720,"Brca1 heterozygous mice have shortened life span and are prone to ovarian tumorigenesis with haploinsufficiency upon ionizing irradiation.",NULL,"Jeng et al",NULL,2007,"Oncogene","26","6160-6166",NULL,NULL,NULL
+0362,16144468,"Oxidative stress and aging: catalase is a longevity determinant enzyme.",NULL,"Cutler Richard G",NULL,2005,"Rejuvenation Res","8","138-140",NULL,NULL,NULL
+0363,18729070,"Amelioration of the premature ageing-like features of Fgf-23 knockout mice by genetically restoring the systemic actions of FGF-23.",NULL,"DeLuca et al",NULL,2008,"J. Pathol.","216","345-355",NULL,NULL,NULL
+0364,12057928,"Life span extension by reduction in growth hormone-insulin-like growth factor-1 axis in a transgenic rat model.",NULL,"Shimokawa et al",NULL,2002,"Am. J. Pathol.","160","2259-2265",NULL,NULL,NULL
+0365,18959478,"Brain IGF-1 receptors control mammalian growth and lifespan through a neuroendocrine mechanism.",NULL,"Kappeler et al",NULL,2008,"PLoS Biol.","6","e254",NULL,NULL,NULL
+0366,15713666,"Estrogen, insulin, and dietary signals cooperatively regulate longevity signals to enhance resistance to oxidative stress in mice.",NULL,"Baba et al",NULL,2005,"J. Biol. Chem.","280","16417-16426",NULL,NULL,NULL
+0367,16123266,"Suppression of aging in mice by the hormone Klotho.",NULL,"Kurosu et al",NULL,2005,"Science","309","1829-1833",NULL,NULL,NULL
+0368,16144705,"Regulation of multiple ageing-like phenotypes by inducible klotho gene expression in klotho mutant mice.",NULL,"Masuda et al",NULL,2005,"Mech. Ageing Dev.","126","1274-1283",NULL,NULL,NULL
+0369,19487311,"Lack of methionine sulfoxide reductase A in mice increases sensitivity to oxidative stress but does not diminish life span.",NULL,"Salmon et al",NULL,2009,"FASEB J.","23","3601-3608",NULL,NULL,NULL
+0370,18566100,"Metabolic consequences of pregnancy-associated plasma protein-A deficiency in mice: exploring possible relationship to the longevity phenotype.",NULL,"Conover et al",NULL,2008,"J. Endocrinol.","198","599-605",NULL,NULL,NULL
+0371,15877079,"Tumour-suppression activity of the proapoptotic regulator Par4.",NULL,"Garc?a-Cao et al",NULL,2005,"EMBO Rep.","6","577-583",NULL,NULL,NULL
+0372,16020738,"Mitochondrial DNA mutations, oxidative stress, and apoptosis in mammalian aging.",NULL,"Kujoth et al",NULL,2005,"Science","309","481-484",NULL,NULL,NULL
+0373,19013273,"Telomerase reverse transcriptase delays aging in cancer-resistant mice.",NULL,"Tom?s-Loba et al",NULL,2008,"Cell","135","609-622",NULL,NULL,NULL
+0374,21113150,"Telomerase reactivation reverses tissue degeneration in aged telomerase-deficient mice.",NULL,"Jaskelioff et al",NULL,2011,"Nature","469","102-106",NULL,NULL,NULL
+0375,15584024,"Tumorigenesis in p27/p53- and p18/p53-double null mice: functional collaboration between the pRb and p53 pathways.",NULL,"Damo et al",NULL,2005,"Mol. Carcinog.","42","109-120",NULL,NULL,NULL
+0376,12426394,"""Super p53"" mice exhibit enhanced DNA damage response, are tumor resistant and age normally.",NULL,"Garc?a-Cao et al",NULL,2002,"EMBO J.","21","6225-6235",NULL,NULL,NULL
+0377,14871929,"Modulation of mammalian life span by the short isoform of p53.",NULL,"Maier et al",NULL,2004,"Genes Dev.","18","306-319",NULL,NULL,NULL
+0378,16940753,"DeltaNp63alpha overexpression induces downregulation of Sirt1 and an accelerated aging phenotype in the mouse.",NULL,"Sommer et al",NULL,2006,"Cell Cycle","5","2005-2011",NULL,NULL,NULL
+0379,19010925,"Ku80 deletion suppresses spontaneous tumors and induces a p53-mediated DNA damage response.",NULL,"Holcomb et al",NULL,2008,"Cancer Res.","68","9497-9502",NULL,NULL,NULL
+0380,22661501,"A persistent level of Cisd2 extends healthy lifespan and delays aging in mice.","","Wu et al.","",2012,"Hum. Mol. Genet.","21","3956-3968","","",NULL
+0381,15695762,"Lifespan extension and elevated hsp gene expression in Drosophila caused by histone deacetylase inhibitors.",NULL,"Zhao et al",NULL,2005,"J. Exp. Biol.","208","697-705",NULL,NULL,NULL
+0382,20655917,"The Drosophila homolog of methionine sulfoxide reductase A extends lifespan and increases nuclear localization of FOXO.",NULL,"Chung et al",NULL,2010,"FEBS Lett.","584","3609-3614",NULL,NULL,NULL
+0383,17617737,"Linking lysosomal trafficking defects with changes in aging and stress response in Drosophila.",NULL,"Simonsen et al",NULL,2007,"Autophagy","3","499-501",NULL,NULL,NULL
+0384,15192154,"Long-lived Drosophila with overexpressed dFOXO in adult fat body.",NULL,"Giannakou et al",NULL,2004,"Science","305","361",NULL,NULL,NULL
+0385,17465980,"Dynamics of the action of dFOXO on adult mortality in Drosophila.",NULL,"Giannakou et al",NULL,2007,"Aging Cell","6","429-438",NULL,NULL,NULL
+0386,16581513,"Loss of glial lazarillo, a homolog of apolipoprotein D, reduces lifespan and stress resistance in Drosophila.",NULL,"Sanchez et al",NULL,2006,"Curr. Biol.","16","680-686",NULL,NULL,NULL
+0387,15491684,"Doxycycline-regulated over-expression of hsp22 has negative effects on stress resistance and life span in adult Drosophila melanogaster.",NULL,"Bhole et al",NULL,2004,"Mech. Ageing Dev.","125","651-663",NULL,NULL,NULL
+0388,15346199,"Trichostatin A extends the lifespan of Drosophila melanogaster by elevating hsp22 expression.",NULL,"Tao et al",NULL,2004,"Acta Biochim. Biophys. Sin. (Shanghai)","36","618-622",NULL,NULL,NULL
+0389,18460334,"The insulin-regulated CREB coactivator TORC promotes stress resistance in Drosophila.",NULL,"Wang et al",NULL,2008,"Cell Metab.","7","434-444",NULL,NULL,NULL
+0390,17686972,"Expression of dominant-negative Dmp53 in the adult fly brain inhibits insulin signaling.",NULL,"Bauer et al",NULL,2007,"Proc. Natl. Acad. Sci. U.S.A.","104","13355-13360",NULL,NULL,NULL
+0391,1715929,"[Regulation of ATP-dependent potassium channels].",NULL,"De Weille et al",NULL,1991,"Journ Annu Diabetol Hotel Dieu",NULL,"119-124",NULL,NULL,NULL
+0392,2539600,"Null mutation of copper/zinc superoxide dismutase in Drosophila confers hypersensitivity to paraquat and reduced longevity.",NULL,"Phillips et al",NULL,1989,"Proc. Natl. Acad. Sci. U.S.A.","86","2761-2765",NULL,NULL,NULL
+0393,9858546,"FLP recombinase-mediated induction of Cu/Zn-superoxide dismutase transgene expression can extend the life span of adult Drosophila melanogaster flies.",NULL,"Sun and Tower",NULL,1999,"Mol. Cell. Biol.","19","216-228",NULL,NULL,NULL
+0394,18067683,"Transcriptional profiling of MnSOD-mediated lifespan extension in Drosophila reveals a species-general network of aging and metabolic genes.",NULL,"Curtis et al",NULL,2007,"Genome Biol.","8","R262",NULL,NULL,NULL
+0395,17996009,"Remarkable longevity and stress resistance of nematode PI3K-null mutants.",NULL,"Ayyadevara et al",NULL,2008,"Aging Cell","7","13-22",NULL,NULL,NULL
+0396,2392681,"Increased life-span of age-1 mutants in Caenorhabditis elegans and lower Gompertz rate of aging.",NULL,"Johnson T E",NULL,1990,"Science","249","908-912",NULL,NULL,NULL
+0397,17172799,"Autophagy genes protect against disease caused by polyglutamine expansion proteins in Caenorhabditis elegans.",NULL,"Jia et al",NULL,2007,"Autophagy","3","21-25",NULL,NULL,NULL
+0398,12709403,"Silencing of ubiquinone biosynthesis genes extends life span in Caenorhabditis elegans.",NULL,"Asencio et al",NULL,2003,"FASEB J.","17","1135-1137",NULL,NULL,NULL
+0399,10202142,"CLK-1 controls respiration, behavior and aging in the nematode Caenorhabditis elegans.",NULL,"Felkai et al",NULL,1999,"EMBO J.","18","1783-1792",NULL,NULL,NULL
+0400,15269213,"Mitochondrial oxidative phosphorylation is defective in the long-lived mutant clk-1.",NULL,"Kayser et al",NULL,2004,"J. Biol. Chem.","279","54479-54486",NULL,NULL,NULL
+0401,16626392,"The nuclear hormone receptor DAF-12 has opposing effects on Caenorhabditis elegans lifespan and regulates genes repressed in multiple long-lived worms.",NULL,"Fisher and Lithgow",NULL,2006,"Aging Cell","5","127-138",NULL,NULL,NULL
+0402,10360574,"Signals from the reproductive system regulate the lifespan of C. elegans.",NULL,"Hsin and Kenyon",NULL,1999,"Nature","399","362-366",NULL,NULL,NULL
+0403,9252323,"daf-2, an insulin receptor-like gene that regulates longevity and diapause in Caenorhabditis elegans.",NULL,"Kimura et al",NULL,1997,"Science","277","942-946",NULL,NULL,NULL
+0404,11021802,"Regulation of C. elegans life-span by insulinlike signaling in the nervous system.",NULL,"Wolkow et al",NULL,2000,"Science","290","147-150",NULL,NULL,NULL
+0405,20647387,"Systemic and cell intrinsic roles of Gqalpha signaling in the regulation of innate immunity, oxidative stress, and longevity in Caenorhabditis elegans.",NULL,"Kawli et al",NULL,2010,"Proc. Natl. Acad. Sci. U.S.A.","107","13788-13793",NULL,NULL,NULL
+0406,16293572,"Reduction of Caenorhabditis elegans frataxin increases sensitivity to oxidative stress, reduces lifespan, and causes lethality in a mitochondrial complex II mutant.",NULL,"V?zquez-Manrique et al",NULL,2006,"FASEB J.","20","172-174",NULL,NULL,NULL
+0407,18423931,"14-3-3 regulates life span by both DAF-16-dependent and -independent mechanisms in Caenorhabditis elegans.",NULL,"Araiz et al",NULL,2008,"Exp. Gerontol.","43","505-519",NULL,NULL,NULL
+0408,17189267,"Knockdown of mitochondrial heat shock protein 70 promotes progeria-like phenotypes in caenorhabditis elegans.",NULL,"Kimura et al",NULL,2007,"J. Biol. Chem.","282","5910-5918",NULL,NULL,NULL
+0409,20700440,"RNAi screening implicates a SKN-1-dependent transcriptional response in stress resistance and longevity deriving from translation inhibition.","","Wang et al","",2010,"PLoS Genet.","6","pii: e1001048","","",NULL
+0410,16720740,"daf-16 protects the nematode Caenorhabditis elegans during food deprivation.",NULL,"Henderson et al",NULL,2006,"J. Gerontol. A Biol. Sci. Med. Sci.","61","444-460",NULL,NULL,NULL
+0411,18804378,"The Target of Rapamycin pathway antagonizes pha-4/FoxA to control development and aging.",NULL,"Sheaffer et al",NULL,2008,"Curr. Biol.","18","1355-1364",NULL,NULL,NULL
+0412,16280150,"Overlapping and distinct functions for a Caenorhabditis elegans SIR2 and DAF-16/FOXO.",NULL,"Wang and Tissenbaum",NULL,2006,"Mech. Ageing Dev.","127","48-56",NULL,NULL,NULL
+0413,18358814,"Direct inhibition of the longevity-promoting factor SKN-1 by insulin-like signaling in C. elegans.",NULL,"Tullet et al",NULL,2008,"Cell","132","1025-1038",NULL,NULL,NULL
+0414,19197346,"Deletion of the mitochondrial superoxide dismutase sod-2 extends lifespan in Caenorhabditis elegans.",NULL,"Van Raamsdonk and Hekimi",NULL,2009,"PLoS Genet.","5","e1000361",NULL,NULL,NULL
+0415,19797165,"The von Hippel Lindau tumor suppressor limits longevity.",NULL,"M?ller et al",NULL,2009,"J. Am. Soc. Nephrol.","20","2513-2517",NULL,NULL,NULL
+0416,12736687,"Nicotinamide and PNC1 govern lifespan extension by calorie restriction in Saccharomyces cerevisiae.",NULL,"Anderson et al",NULL,2003,"Nature","423","181-185",NULL,NULL,NULL
+0417,20657825,"Genome-wide screen in Saccharomyces cerevisiae identifies vacuolar protein sorting, autophagy, biosynthetic, and tRNA methylation genes involved in life span regulation.",NULL,"Fabrizio et al",NULL,2010,"PLoS Genet.","6","e1001024",NULL,NULL,NULL
+0418,20421943,"A microarray-based genetic screen for yeast chronological aging factors.",NULL,"Matecic et al",NULL,2010,"PLoS Genet.","6","e1000921",NULL,NULL,NULL
+0419,20883526,"Identification of evolutionarily conserved genetic regulators of cellular aging.",NULL,"Laschober et al",NULL,2010,"Aging Cell","9","1084-1097",NULL,NULL,NULL
+0420,19030232,"Shortest-path network analysis is a useful approach toward identifying genetic determinants of longevity.",NULL,"Managbanag et al",NULL,2008,"PLoS ONE","3","e3802",NULL,NULL,NULL
+0421,18340043,"Quantitative evidence for conserved longevity pathways between divergent eukaryotic species.",NULL,"Smith et al",NULL,2008,"Genome Res.","18","564-570",NULL,NULL,NULL
+0422,18423200,"Yeast life span extension by depletion of 60s ribosomal subunits is mediated by Gcn4.",NULL,"Steffen et al",NULL,2008,"Cell","133","292-302",NULL,NULL,NULL
+0423,18809618,"Dominant membrane uncoupling by mutant adenine nucleotide translocase in mitochondrial diseases.",NULL,"Wang et al",NULL,2008,"Hum. Mol. Genet.","17","4036-4044",NULL,NULL,NULL
+0424,18162582,"Isc1p plays a key role in hydrogen peroxide resistance and chronological lifespan through modulation of iron levels and apoptosis.",NULL,"Almeida et al",NULL,2008,"Mol. Biol. Cell","19","865-876",NULL,NULL,NULL
+0425,19801973,"Induction of autophagy by spermidine promotes longevity.",NULL,"Eisenberg et al",NULL,2009,"Nat. Cell Biol.","11","1305-1314",NULL,NULL,NULL
+0426,19618123,"Acetyl-coenzyme A synthetase 2 is a nuclear protein required for replicative longevity in Saccharomyces cerevisiae.",NULL,"Falc?n et al",NULL,2010,"Mol. Cell. Biochem.","333","99-9108",NULL,NULL,NULL
+0427,17110466,"Dihydrolipoyl dehydrogenase as a source of reactive oxygen species inhibited by caloric restriction and involved in Saccharomyces cerevisiae aging.",NULL,"Tahara et al",NULL,2007,"FASEB J.","21","274-283",NULL,NULL,NULL
+0428,18381895,"The malate-aspartate NADH shuttle components are novel metabolic longevity regulators required for calorie restriction-mediated life span extension in yeast.",NULL,"Easlon et al",NULL,2008,"Genes Dev.","22","931-944",NULL,NULL,NULL
+0429,19049972,"Functional analysis of free methionine-R-sulfoxide reductase from Saccharomyces cerevisiae.",NULL,"Le et al",NULL,2009,"J. Biol. Chem.","284","4354-4364",NULL,NULL,NULL
+0430,16806052,"MMI1 (YKL056c, TMA19), the yeast orthologue of the translationally controlled tumor protein (TCTP) has apoptotic functions and interacts with both microtubules and mitochondria.",NULL,"Rinnerthaler et al",NULL,2006,"Biochim. Biophys. Acta","1757","631-638",NULL,NULL,NULL
+0431,18690010,"A life-span extending form of autophagy employs the vacuole-vacuole fusion machinery.",NULL,"Tang et al",NULL,2008,"Autophagy","4","874-886",NULL,NULL,NULL
+0432,19302372,"Autophagy and amino acid homeostasis are required for chronological longevity in Saccharomyces cerevisiae.",NULL,"Alvers et al",NULL,2009,"Aging Cell","8","353-369",NULL,NULL,NULL
+0433,17492370,"Mutations in the Atp1p and Atp3p subunits of yeast ATP synthase differentially affect respiration and fermentation in Saccharomyces cerevisiae.",NULL,"Francis et al",NULL,2007,"J. Bioenerg. Biomembr.","39","127-144",NULL,NULL,NULL
+0434,16608876,"The inhibitor-of-apoptosis protein Bir1p protects against apoptosis in S. cerevisiae and is a substrate for the yeast homologue of Omi/HtrA2.",NULL,"Walter et al",NULL,2006,"J. Cell. Sci.","119","1843-1851",NULL,NULL,NULL
+0435,19805817,"Deleting the 14-3-3 protein Bmh1 extends life span in Saccharomyces cerevisiae by increasing stress response.",NULL,"Wang et al",NULL,2009,"Genetics","183","1373-1384",NULL,NULL,NULL
+0436,16527275,"Level of M(IP)2C sphingolipid affects plant defensin sensitivity, oxidative stress resistance and chronological life-span in yeast.",NULL,"Aerts et al",NULL,2006,"FEBS Lett.","580","1903-1907",NULL,NULL,NULL
+0437,18500447,"Ydc1p ceramidase triggers organelle fragmentation, apoptosis and accelerated ageing in yeast.",NULL,"Aerts et al",NULL,2008,"Cell. Mol. Life Sci.","65","1933-1942",NULL,NULL,NULL
+0438,16435200,"Deletion of the Caenorhabditis elegans homologues of the CLN3 gene, involved in human juvenile neuronal ceroid lipofuscinosis, causes a mild progeric phenotype.",NULL,"de Voer et al",NULL,2005,"J. Inherit. Metab. Dis.","28","1065-1080",NULL,NULL,NULL
+0439,15130665,"Expression of the human ferritin light chain in a frataxin mutant yeast affects ageing and cell death.",NULL,"Desmyter et al",NULL,2004,"Exp. Gerontol.","39","707-715",NULL,NULL,NULL
+0440,20657593,"Asymmetrically inherited multidrug resistance transporters are recessive determinants in cellular replicative ageing.",NULL,"Eldakak et al",NULL,2010,"Nat. Cell Biol.","12","799-805",NULL,NULL,NULL
+0441,14729974,"Nicotinamide clearance by Pnc1 directly regulates Sir2-mediated silencing and longevity.",NULL,"Gallo et al",NULL,2004,"Mol. Cell. Biol.","24","1301-1312",NULL,NULL,NULL
+0442,19239415,"NQR1 controls lifespan by regulating the promotion of respiratory metabolism in yeast.",NULL,"Jim?nez-Hidalgo et al",NULL,2009,"Aging Cell","8","140-151",NULL,NULL,NULL
+0443,19303850,"Protein acetylation microarray reveals that NuA4 controls key metabolic target regulating gluconeogenesis.",NULL,"Lin et al",NULL,2009,"Cell","136","1073-1084",NULL,NULL,NULL
+0444,20141839,"The polarisome is required for segregation and retrograde transport of protein aggregates.",NULL,"Liu et al",NULL,2010,"Cell","140","257-267",NULL,NULL,NULL
+0445,20696905,"Caloric restriction or catalase inactivation extends yeast chronological lifespan by inducing H2O2 and superoxide dismutase activity.",NULL,"Mesquita et al",NULL,2010,"Proc. Natl. Acad. Sci. U.S.A.","107","15123-15128",NULL,NULL,NULL
+0446,8824190,"Cdc13p: a single-strand telomeric DNA-binding protein with a dual role in yeast telomere maintenance.",NULL,"Nugent et al",NULL,1996,"Science","274","249-252",NULL,NULL,NULL
+0447,18660802,"A mechanism for asymmetric segregation of age during yeast budding.",NULL,"Shcheprova et al",NULL,2008,"Nature","454","728-734",NULL,NULL,NULL
+0448,20550517,"Metabolomics-based systematic prediction of yeast lifespan and its application for semi-rational screening of ageing-related mutants.",NULL,"Yoshida et al",NULL,2010,"Aging Cell","9","616-625",NULL,NULL,NULL
+0449,17403371,"Reduced TOR signaling extends chronological life span via increased respiration and upregulation of mitochondrial gene expression.",NULL,"Bonawitz et al",NULL,2007,"Cell Metab.","5","265-277",NULL,NULL,NULL
+0450,15659212,"Overexpressed Sod1p acts either to reduce or to increase the lifespans and stress resistance of yeast, depending on whether it is Cu(2+)-deficient or an active Cu,Zn-superoxide dismutase.",NULL,"Harris et al",NULL,2005,"Aging Cell","4","41-52",NULL,NULL,NULL
+0451,16710639,"Isolation of mutations synthetic-lethal to prohibitin 2 null mutants of Saccharomyces cerevisiae.",NULL,"Liu and Jamieson",NULL,2006,"Antonie Van Leeuwenhoek","89","281-292",NULL,NULL,NULL
+0452,12855292,"The Ras and Sch9 pathways regulate stress resistance and longevity.",NULL,"Longo Valter D",NULL,2003,"Exp. Gerontol.","38","807-811",NULL,NULL,NULL
+0453,11389927,"The DNA helicase activity of yeast Sgs1p is essential for normal lifespan but not for resistance to topoisomerase inhibitors.",NULL,"Mankouri and Morgan",NULL,2001,"Mech. Ageing Dev.","122","1107-1120",NULL,NULL,NULL
+0454,12882345,"The shortened replicative life span of prohibitin mutants of yeast appears to be due to defective mitochondrial segregation in old mother cells.",NULL,"Piper et al",NULL,2002,"Aging Cell","1","149-157",NULL,NULL,NULL
+0455,1748254,"Is exercise safe or useful for gestational diabetic women?",NULL,"Jovanovic-Peterson and Peterson",NULL,1991,"Diabetes","40 Suppl 2","179-181",NULL,NULL,NULL
+0456,16286010,"Sir2 blocks extreme life-span extension.",NULL,"Fabrizio et al",NULL,2005,"Cell","123","655-667",NULL,NULL,NULL
+0457,11805047,"Saccharomyces cerevisiae MPT5 and SSD1 function in parallel pathways to promote cell wall integrity.",NULL,"Kaeberlein and Guarente",NULL,2002,"Genetics","160","83-95",NULL,NULL,NULL
+0458,19570907,"Budding yeast SSD1-V regulates transcript levels of many longevity genes and extends chronological life span in purified quiescent cells.",NULL,"Li et al",NULL,2009,"Mol. Biol. Cell","20","3851-3864",NULL,NULL,NULL
+0459,19164565,"A network biology approach to aging in yeast.",NULL,"Lorenz et al",NULL,2009,"Proc. Natl. Acad. Sci. U.S.A.","106","1145-1150",NULL,NULL,NULL
+0460,17172436,"Mpt5p, a stress tolerance- and lifespan-promoting PUF protein in Saccharomyces cerevisiae, acts upstream of the cell wall integrity pathway.",NULL,"Stewart et al",NULL,2007,"Eukaryotic Cell","6","262-270",NULL,NULL,NULL
+0461,19797661,"Ribosomal protein S6 kinase 1 signaling regulates mammalian life span.","","Selman et al.","",2009,"Science","326","140-144","","",NULL
+0462,19117549,"The Pro12Ala PPARgamma2 variant determines metabolism at the gene-environment interface.","","Heikkinen et al.","",2009,"Cell Metab.","9","88-98","","",NULL
+0463,21700873,"Gametogenesis eliminates age-induced cellular damage and resets life span in yeast.","","Unal et al.","",2011,"Science","332","1554-1557","","",NULL
+0464,20832724,"Elevated histone expression promotes life span extension.","","Feser et al.","",2010,"Mol. Cell","39","724-735","","",NULL
+0465,22265419,"HSF-1 regulators DDL-1/2 link insulin-like signaling to heat-shock responses and modulation of longevity.","","Chiang et al.","",2012,"Cell","148","322-334","","",NULL
+0466,22012258,"Transgenerational epigenetic inheritance of longevity in Caenorhabditis elegans.","","Greer et al.","",2011,"Nature","479","365-371","","",NULL
+0467,22055505,"Modulation of longevity and tissue homeostasis by the Drosophila PGC-1 homolog.","","Rera et al.","",2011,"Cell Metab.","14","623-634","","",NULL
+0468,19375320,"Regulation of the longevity response to temperature by thermosensory neurons in Caenorhabditis elegans.","","Lee and Kenyon","",2009,"Curr. Biol.","19","715-722","","",NULL
+0469,19804760,"4E-BP extends lifespan upon dietary restriction by enhancing mitochondrial activity in Drosophila.","","Zid et al.","",2009,"Cell","139","149-160","","",NULL
+0470,20011587,"RNA editing genes associated with extreme old age in humans and with lifespan in C. elegans.","","Sebastiani et al.","",2009,"PLoS ONE","4","e8210","","",NULL
+0471,22912585,"Dissecting the gene network of dietary restriction to identify evolutionarily conserved pathways and new functional genes.","","Wuttke et al.","",2012,"PLoS Genet.","8","e1002834","","",NULL
+0472,17482543,"Nicotinamide riboside promotes Sir2 silencing and extends lifespan via Nrk and Urh1/Pnp1/Meu1 pathways to NAD+.","","Belenky et al.","",2007,"Cell","129","473-484","","",NULL
+0473,28355222,"Transaldolase inhibition impairs mitochondrial respiration and induces a starvation-like longevity response in Caenorhabditis elegans.",NULL,"Bennet CF et al.",NULL,2017,"PLoS Genet.","3","e1006695",NULL,NULL,NULL

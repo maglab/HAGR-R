@@ -1,0 +1,185 @@
+"id_biblio","pubmed","title","url","author","publisher","year","journal","volume","pages","editor","book_title","review"
+0001,2647300,"A new role for a yeast transcriptional silencer gene, SIR2, in regulation of recombination in ribosomal DNA.",NULL,"Gottlieb S and Esposito RE",NULL,1989,"Cell","56","771-6",NULL,NULL,NULL
+0002,11000115,"Requirement of NAD and SIR2 for life-span extension by calorie restriction in Saccharomyces cerevisiae.",NULL,"Lin SJ et al",NULL,2000,"Science","289","2126-8",NULL,NULL,NULL
+0003,12213553,"Distinct roles of processes modulated by histone deacetylases Rpd3p, Hda1p, and Sir2p in life extension by caloric restriction in yeast.",NULL,"Jiang JC et al",NULL,2002,"Exp Gerontol","37","1023-30",NULL,NULL,NULL
+0004,16311627,"Increased life span due to calorie restriction in respiratory-deficient yeast.",NULL,"Kaeberlein M et al",NULL,2005,"PLoS Genet","1","e69",NULL,NULL,NULL
+0005,15328540,"Sir2-independent life span extension by calorie restriction in yeast.",NULL,"Kaeberlein M et al",NULL,2004,"PLoS Biol","2","E296",NULL,NULL,NULL
+0006,16286010,"Sir2 blocks extreme life-span extension.",NULL,"Fabrizio P et al",NULL,2005,"Cell","123","655-67",NULL,NULL,NULL
+0007,10521401,"The SIR2/3/4 complex and SIR2 alone promote longevity in Saccharomyces cerevisiae by two different mechanisms.",NULL,"Kaeberlein M et al",NULL,1999,"Genes Dev","13","2570-80",NULL,NULL,NULL
+0008,15684413,"Substrate-specific activation of sirtuins by resveratrol.",NULL,"Kaeberlein M et al",NULL,2005,"J Biol Chem","280","17038-45",NULL,NULL,NULL
+0009,12736687,"Nicotinamide and PNC1 govern lifespan extension by calorie restriction in Saccharomyces cerevisiae.",NULL,"Anderson RM et al",NULL,2003,"Nature","423","181-5",NULL,NULL,NULL
+0010,14729974,"Nicotinamide clearance by Pnc1 directly regulates Sir2-mediated silencing and longevity.",NULL,"Gallo CM et al",NULL,2004,"Mol Cell Biol","24","1301-12",NULL,NULL,NULL
+0011,14724176,"Calorie restriction extends yeast life span by lowering the level of NADH.",NULL,"Lin SJ et al",NULL,2004,"Genes Dev","18","12-6",NULL,NULL,NULL
+0012,12124627,"Calorie restriction extends Saccharomyces cerevisiae lifespan by increasing respiration.",NULL,"Lin SJ et al",NULL,2002,"Nature","418","344-8",NULL,NULL,NULL
+0013,11292860,"Regulation of longevity and stress resistance by Sch9 in yeast.",NULL,"Fabrizio P et al",NULL,2001,"Science","292","288-90",NULL,NULL,NULL
+0014,16293764,"Regulation of yeast replicative life span by TOR and Sch9 in response to nutrients.",NULL,"Kaeberlein M et al",NULL,2005,"Science","310","1193-6",NULL,NULL,NULL
+0015,18225956,"Life span extension by calorie restriction depends on Rim15 and transcription factors downstream of Ras/PKA, Tor, and Sch9.",NULL,"Wei M et al",NULL,2008,"PLoS Genet","4","e13",NULL,NULL,NULL
+0016,11884393,"Manipulation of a nuclear NAD+ salvage pathway delays aging without altering steady-state NAD+ levels.",NULL,"Anderson RM et al",NULL,2002,"J Biol Chem","277","18881-90",NULL,NULL,NULL
+0017,16051752,"HST2 mediates SIR2-independent life-span extension by calorie restriction.",NULL,"Lamming DW et al",NULL,2005,"Science","309","1861-4",NULL,NULL,NULL
+0018,16741098,"Comment on ""HST2 mediates SIR2-independent life-span extension by calorie restriction"".",NULL,"Kaeberlein M et al",NULL,2006,"Science","312","1312; author reply 1312",NULL,NULL,NULL
+0019,17129213,"Sirtuin-independent effects of nicotinamide on lifespan extension from calorie restriction in yeast.",NULL,"Tsuchiya M et al",NULL,2006,"Aging Cell","5","505-14",NULL,NULL,NULL
+0020,16418483,"Extension of chronological life span in yeast by decreased TOR pathway signaling.",NULL,"Powers RW 3rd et al",NULL,2006,"Genes Dev","20","174-84",NULL,NULL,NULL
+0021,17200108,"The dihydrolipoamide acetyltransferase is a novel metabolic longevity factor and is required for calorie restriction-mediated life span extension.",NULL,"Easlon E et al",NULL,2007,"J Biol Chem","282","6161-71",NULL,NULL,NULL
+0022,12586694,"SOD2 functions downstream of Sch9 to extend longevity in yeast.",NULL,"Fabrizio P et al",NULL,2003,"Genetics","163","35-46",NULL,NULL,NULL
+0023,14741356,"Chronological aging-independent replicative life span regulation by Msn2/Msn4 and Sod2 in Saccharomyces cerevisiae.",NULL,"Fabrizio P et al",NULL,2004,"FEBS Lett","557","136-42",NULL,NULL,NULL
+0024,18381895,"The malate-aspartate NADH shuttle components are novel metabolic longevity regulators required for calorie restriction-mediated life span extension in yeast.",NULL,"Easlon E et al",NULL,2008,"Genes Dev","22","931-44",NULL,NULL,NULL
+0025,19239415,"NQR1 controls lifespan by regulating the promotion of respiratory metabolism in yeast.",NULL,"JimÃ©nez-Hidalgo M et al",NULL,2009,"Aging Cell","8","140-51",NULL,NULL,NULL
+0026,19805817,"Deleting the 14-3-3 protein Bmh1 extends life span in Saccharomyces cerevisiae by increasing stress response.",NULL,"Wang C et al",NULL,2009,"Genetics","183","1373-84",NULL,NULL,NULL
+0027,19303850,"Protein acetylation microarray reveals that NuA4 controls key metabolic target regulating gluconeogenesis.",NULL,"Lin YY et al",NULL,2009,"Cell","136","1073-84",NULL,NULL,NULL
+0028,18423200,"Yeast life span extension by depletion of 60s ribosomal subunits is mediated by Gcn4.",NULL,"Steffen KK et al",NULL,2008,"Cell","133","292-302",NULL,NULL,NULL
+0029,18840459,"Glutathione is necessary to ensure benefits of calorie restriction during ageing in Saccharomyces cerevisiae.",NULL,"Mannarino SC et al",NULL,2008,"Mech Ageing Dev","129","700-5",NULL,NULL,NULL
+0030,18690010,"A life-span extending form of autophagy employs the vacuole-vacuole fusion machinery.",NULL,"Tang F et al",NULL,2008,"Autophagy","4","874-86",NULL,NULL,NULL
+0031,19732046,"Calorie restriction reduces rDNA recombination independently of rDNA silencing.",NULL,"Riesen M and Morgan A",NULL,2009,"Aging Cell","8","624-32",NULL,NULL,NULL
+0032,20421943,"A microarray-based genetic screen for yeast chronological aging factors.",NULL,"Matecic M et al",NULL,2010,"PLoS Genet","6","e1000921",NULL,NULL,NULL
+0033,18679056,"Transcriptional response according to strength of calorie restriction in Saccharomyces cerevisiae.",NULL,"Lee YL and Lee CK",NULL,2008,"Mol Cells","26","299-307",NULL,NULL,NULL
+0034,19266076,"Pro-aging effects of glucose signaling through a G protein-coupled glucose receptor in fission yeast.",NULL,"Roux AE et al",NULL,2009,"PLoS Genet","5","e1000408",NULL,NULL,NULL
+0035,20075862,"Lifespan extension by calorie restriction relies on the Sty1 MAP kinase stress pathway.",NULL,"Zuin A et al",NULL,2010,"EMBO J","29","981-91",NULL,NULL,NULL
+0036,16720740,"daf-16 protects the nematode Caenorhabditis elegans during food deprivation.",NULL,"Henderson ST et al",NULL,2006,"J Gerontol A Biol Sci Med Sci","61","444-60",NULL,NULL,NULL
+0037,17900900,"An AMPK-FOXO pathway mediates longevity induced by a novel method of dietary restriction in C. elegans.",NULL,"Greer EL et al",NULL,2007,"Curr Biol","17","1646-56",NULL,NULL,NULL
+0038,17538612,"Two neurons mediate diet-restriction-induced longevity in C. elegans.",NULL,"Bishop NA and Guarente L",NULL,2007,"Nature","447","545-9",NULL,NULL,NULL
+0039,18331616,"Dietary restriction suppresses proteotoxicity and enhances longevity by an hsf-1-dependent mechanism in Caenorhabditis elegans.",NULL,"Steinkraus KA et al",NULL,2008,"Aging Cell","7","394-404",NULL,NULL,NULL
+0040,19079239,"Signalling through RHEB-1 mediates intermittent fasting-induced longevity in C. elegans.",NULL,"Honjoh S et al",NULL,2009,"Nature","457","726-30",NULL,NULL,NULL
+0041,19883616,"Glucose shortens the life span of C. elegans by downregulating DAF-16/FOXO activity and aquaporin gene expression.",NULL,"Lee SJ et al",NULL,2009,"Cell Metab","10","379-91",NULL,NULL,NULL
+0042,19239417,"Different dietary restriction regimens extend lifespan by both independent and overlapping genetic pathways in C. elegans.",NULL,"Greer EL and Brunet A",NULL,2009,"Aging Cell","8","113-27",NULL,NULL,NULL
+0043,19924292,"Role of CBP and SATB-1 in aging, dietary restriction, and insulin-like signaling.",NULL,"Zhang M et al",NULL,2009,"PLoS Biol","7","e1000245",NULL,NULL,NULL
+0044,9789046,"The genetics of caloric restriction in Caenorhabditis elegans.",NULL,"Lakowski B and Hekimi S",NULL,1998,"Proc Natl Acad Sci U S A","95","13091-6",NULL,NULL,NULL
+0045,16103914,"New genes tied to endocrine, metabolic, and dietary regulation of lifespan from a Caenorhabditis elegans genomic RNAi screen.",NULL,"Hansen M et al",NULL,2005,"PLoS Genet","1","119-28",NULL,NULL,NULL
+0046,16860373,"C. elegans 14-3-3 proteins regulate life span and interact with SIR-2.1 and DAF-16/FOXO.",NULL,"Wang Y et al",NULL,2006,"Mech Ageing Dev","127","741-7",NULL,NULL,NULL
+0047,11242085,"Increased dosage of a sir-2 gene extends lifespan in Caenorhabditis elegans.",NULL,"Tissenbaum HA and Guarente L",NULL,2001,"Nature","410","227-30",NULL,NULL,NULL
+0048,17266679,"Lifespan extension by conditions that inhibit translation in Caenorhabditis elegans.",NULL,"Hansen M et al",NULL,2007,"Aging Cell","6","95-110",NULL,NULL,NULL
+0049,17476212,"PHA-4/Foxa mediates diet-restriction-induced longevity of C. elegans.",NULL,"Panowski SH et al",NULL,2007,"Nature","447","550-5",NULL,NULL,NULL
+0050,17912023,"Autophagy is required for dietary restriction-mediated life span extension in C. elegans.",NULL,"Jia K and Levine B",NULL,2007,"Autophagy","3","597-9",NULL,NULL,NULL
+0051,18282106,"A role for autophagy in the extension of lifespan by dietary restriction in C. elegans.",NULL,"Hansen M et al",NULL,2008,"PLoS Genet","4","e24",NULL,NULL,NULL
+0052,12750521,"Regulation of aging and age-related disease by DAF-16 and heat-shock factor.",NULL,"Hsu AL et al",NULL,2003,"Science","300","1142-5",NULL,NULL,NULL
+0053,19372390,"Proteasomal regulation of the hypoxic response modulates aging in C. elegans.",NULL,"Mehta R et al",NULL,2009,"Science","324","1196-8",NULL,NULL,NULL
+0054,19461873,"HIF-1 modulates dietary restriction-mediated lifespan extension via IRE-1 in Caenorhabditis elegans.",NULL,"Chen D et al",NULL,2009,"PLoS Genet","5","e1000486",NULL,NULL,NULL
+0055,19553937,"A conserved ubiquitination pathway determines longevity in response to diet restriction.",NULL,"Carrano AC et al",NULL,2009,"Nature","460","396-9",NULL,NULL,NULL
+0056,17023606,"Delayed development and lifespan extension as features of metabolic lifestyle alteration in C. elegans under dietary restriction.",NULL,"Szewczyk NJ et al",NULL,2006,"J Exp Biol","209","4129-39",NULL,NULL,NULL
+0057,19783783,"Life-span extension by dietary restriction is mediated by NLP-7 signaling and coelomocyte endocytosis in C. elegans.",NULL,"Park SK et al",NULL,2010,"FASEB J","24","383-92",NULL,NULL,NULL
+0058,19812672,"Prohibitin couples diapause signalling to mitochondrial metabolism during ageing in C. elegans.",NULL,"Artal-Sanz M and Tavernarakis N",NULL,2009,"Nature","461","793-7",NULL,NULL,NULL
+0059,1638786,"The future of academic medicine within the health care system in Canada.",NULL,"Bouchard B",NULL,1992,"Clin Invest Med","15","197-203",NULL,NULL,NULL
+0060,12459580,"Longevity regulation by Drosophila Rpd3 deacetylase and caloric restriction.",NULL,"Rogina B et al",NULL,2002,"Science","298","1745",NULL,NULL,NULL
+0061,17272684,"Regulation of Drosophila life span by olfaction and food-derived odors.",NULL,"Libert S et al",NULL,2007,"Science","315","1133-7",NULL,NULL,NULL
+0062,11292874,"Extension of life-span by loss of CHICO, a Drosophila insulin receptor substrate protein.",NULL,"Clancy DJ et al",NULL,2001,"Science","292","104-6",NULL,NULL,NULL
+0063,11951037,"Dietary restriction in long-lived dwarf flies.",NULL,"Clancy DJ et al",NULL,2002,"Science","296","319",NULL,NULL,NULL
+0064,15186745,"Regulation of lifespan in Drosophila by modulation of genes in the TOR signaling pathway.",NULL,"Kapahi P et al",NULL,2004,"Curr Biol","14","885-90",NULL,NULL,NULL
+0065,15520384,"Sir2 mediates longevity in the fly through a pathway related to calorie restriction.",NULL,"Rogina B and Helfand SL",NULL,2004,"Proc Natl Acad Sci U S A","101","15998-6003",NULL,NULL,NULL
+0066,19470468,"Long-lived Indy and calorie restriction interact to extend life span.",NULL,"Wang PY et al",NULL,2009,"Proc Natl Acad Sci U S A","106","9262-7",NULL,NULL,NULL
+0067,18241326,"Role of dFOXO in lifespan extension by dietary restriction in Drosophila melanogaster: not required, but its activity modulates the response.",NULL,"Giannakou ME et al",NULL,2008,"Aging Cell","7","187-98",NULL,NULL,NULL
+0068,16055649,"Starvation and oxidative stress resistance in Drosophila are mediated through the eIF4E-binding protein, d4E-BP.",NULL,"Tettweiler G et al",NULL,2005,"Genes Dev","19","1840-3",NULL,NULL,NULL
+0069,19804760,"4E-BP extends lifespan upon dietary restriction by enhancing mitochondrial activity in Drosophila.",NULL,"Zid BM et al",NULL,2009,"Cell","139","149-60",NULL,NULL,NULL
+0070,16303568,"Neuronal expression of p53 dominant-negative proteins in adult Drosophila melanogaster extends life span.",NULL,"Bauer JH et al",NULL,2005,"Curr Biol","15","2063-8",NULL,NULL,NULL
+0071,20195512,"Molecular evolution and functional characterization of Drosophila insulin-like peptides.",NULL,"GrÃ¶nke S et al",NULL,2010,"PLoS Genet","6","e1000857",NULL,NULL,NULL
+0072,16682650,"Targeted disruption of growth hormone receptor interferes with the beneficial actions of calorie restriction.",NULL,"Bonkowski MS et al",NULL,2006,"Proc Natl Acad Sci U S A","103","7901-5",NULL,NULL,NULL
+0073,21584246,"Identification of potential calorie restriction-mimicking yeast mutants with increased mitochondrial respiratory chain and nitric oxide levels.",NULL,"Li et al",NULL,2011,"J Aging Res","2011",NULL,NULL,NULL,NULL
+0074,16530049,"SMK-1, an essential regulator of DAF-16-mediated longevity.",NULL,"Wolff et al",NULL,2006,"Cell","124","1039-1053",NULL,NULL,NULL
+0075,16822282,"Regulation of chronological aging in Schizosaccharomyces pombe by the protein kinases Pka1 and Sck2.",NULL,"Roux et al",NULL,2006,"Aging Cell","5","345-357",NULL,NULL,NULL
+0076,11336996,"Evidence that age-induced decline in memory retention is delayed in growth hormone resistant GH-R-KO (Laron) mice.",NULL,"Kinney et al",NULL,2001,"Physiol. Behav.","72","653-660",NULL,NULL,NULL
+0077,9371826,"A mammalian model for Laron syndrome produced by targeted disruption of the mouse growth hormone receptor/binding protein gene (the Laron mouse).",NULL,"Zhou et al",NULL,1997,"Proc. Natl. Acad. Sci. U.S.A.","94","13215-13220",NULL,NULL,NULL
+0078,12933651,"Deletion, but not antagonism, of the mouse growth hormone receptor results in severely decreased body weights, insulin, and insulin-like growth factor I levels and increased life span.",NULL,"Coschigano et al",NULL,2003,"Endocrinology","144","3799-3810",NULL,NULL,NULL
+0079,10875265,"Assessment of growth parameters and life span of GHR/BP gene-disrupted mice.",NULL,"Coschigano et al",NULL,2000,"Endocrinology","141","2608-2613",NULL,NULL,NULL
+0080,19747233,"The growth hormone receptor gene-disrupted mouse fails to respond to an intermittent fasting diet.",NULL,"Arum et al",NULL,2009,"Aging Cell","8","756-760",NULL,NULL,NULL
+0081,21123740,"Endocrine parameters and phenotypes of the growth hormone receptor gene disrupted (GHR-/-) mouse.",NULL,"List et al",NULL,2011,"Endocr. Rev.","32","356-386",NULL,NULL,NULL
+0082,19370397,"Nicotinamide adenine dinucleotide extends the lifespan of Caenorhabditis elegans mediated by sir-2.1 and daf-16.",NULL,"Hashimoto et al",NULL,2010,"Biogerontology","11","31-43",NULL,NULL,NULL
+0083,18219227,"Longevity pathways converge on autophagy genes to regulate life span in Caenorhabditis elegans.",NULL,"Tóth et al",NULL,2008,"Autophagy","4","330-338",NULL,NULL,NULL
+0084,12391171,"High osmolarity extends life span in Saccharomyces cerevisiae by a mechanism related to calorie restriction.",NULL,"Kaeberlein et al",NULL,2002,"Mol. Cell. Biol.","22","8056-8066",NULL,NULL,NULL
+0085,18662544,"An elt-3/elt-5/elt-6 GATA transcription circuit guides aging in C. elegans.",NULL,"Budovskaya et al",NULL,2008,"Cell","134","291-303",NULL,NULL,NULL
+0086,21884982,"Life span extension and H(2)O(2) resistance elicited by caloric restriction require the peroxiredoxin Tsa1 in Saccharomyces cerevisiae.",NULL,"Molin et al",NULL,2011,"Mol. Cell","43","823-833",NULL,NULL,NULL
+0087,14668486,"Regulation of longevity in Caenorhabditis elegans by heat shock factor and molecular chaperones.",NULL,"Morley and Morimoto",NULL,2004,"Mol. Biol. Cell","15","657-664",NULL,NULL,NULL
+0088,22737090,"An Engineering Approach to Extending Lifespan in C. elegans.",NULL,"Sagi and Kim",NULL,2012,"PLoS Genet.","8",NULL,NULL,NULL,NULL
+0089,12136014,"Genetic analysis of tissue aging in Caenorhabditis elegans: a role for heat-shock factor and bacterial proliferation.",NULL,"Garigan et al",NULL,2002,"Genetics","161","1101-1112",NULL,NULL,NULL
+0090,21930912,"Increased transsulfuration mediates longevity and dietary restriction in Drosophila.",NULL,"Kabil et al",NULL,2011,"Proc. Natl. Acad. Sci. U.S.A.","108","16831-16836",NULL,NULL,NULL
+0091,17403371,"Reduced TOR signaling extends chronological life span via increased respiration and upregulation of mitochondrial gene expression.",NULL,"Bonawitz et al",NULL,2007,"Cell Metab.","5","265-277",NULL,NULL,NULL
+0092,20947565,"Rapamycin increases rDNA stability by enhancing association of Sir2 with rDNA in Saccharomyces cerevisiae.",NULL,"Ha and Huh",NULL,2011,"Nucleic Acids Res.","39","1336-1350",NULL,NULL,NULL
+0093,21076178,"Growth signaling promotes chronological aging in budding yeast by inducing superoxide anions that inhibit quiescence.",NULL,"Weinberger et al",NULL,2010,"Aging (Albany NY)","2","709-726",NULL,NULL,NULL
+0094,19030232,"Shortest-path network analysis is a useful approach toward identifying genetic determinants of longevity.",NULL,"Managbanag et al",NULL,2008,"PLoS ONE","3",NULL,NULL,NULL,NULL
+0095,21931558,"Elevated proteasome capacity extends replicative lifespan in Saccharomyces cerevisiae.",NULL,"Kruegel et al",NULL,2011,"PLoS Genet.","7",NULL,NULL,NULL,NULL
+0096,12855292,"The Ras and Sch9 pathways regulate stress resistance and longevity.",NULL,"Longo Valter D",NULL,2003,"Exp. Gerontol.","38","807-811",NULL,NULL,NULL
+0097,21447998,"A genomic analysis of chronological longevity factors in budding yeast.",NULL,"Burtner et al",NULL,2011,"Cell Cycle","10","1385-1396",NULL,NULL,NULL
+0098,17710147,"DNA replication stress is a determinant of chronological lifespan in budding yeast.",NULL,"Weinberger et al",NULL,2007,"PLoS ONE","2",NULL,NULL,NULL,NULL
+0099,18340043,"Quantitative evidence for conserved longevity pathways between divergent eukaryotic species.",NULL,"Smith et al",NULL,2008,"Genome Res.","18","564-570",NULL,NULL,NULL
+0100,17571923,"No influence of Indy on lifespan in Drosophila after correction for genetic and cytoplasmic background effects.",NULL,"Toivonen et al",NULL,2007,"PLoS Genet.","3",NULL,NULL,NULL,NULL
+0101,12626742,"Conditional tradeoffs between aging and organismal performance of Indy long-lived mutant flies.",NULL,"Marden et al",NULL,2003,"Proc. Natl. Acad. Sci. U.S.A.","100","3369-3373",NULL,NULL,NULL
+0102,12391301,"Functional characterization and immunolocalization of the transporter encoded by the life-extending gene Indy.",NULL,"Knauf et al",NULL,2002,"Proc. Natl. Acad. Sci. U.S.A.","99","14315-14319",NULL,NULL,NULL
+0103,11118146,"Extended life-span conferred by cotransporter gene mutations in Drosophila.",NULL,"Rogina et al",NULL,2000,"Science","290","2137-2140",NULL,NULL,NULL
+0104,22768842,"Intramyocellular Fatty-Acid Metabolism Plays a Critical Role in Mediating Responses to Dietary Restriction in Drosophila melanogaster.",NULL,"Katewa et al",NULL,2012,"Cell Metab.","16","97-9103",NULL,NULL,NULL
+0105,7789761,"Genes that regulate both development and longevity in Caenorhabditis elegans.",NULL,"Larsen et al",NULL,1995,"Genetics","139","1567-1583",NULL,NULL,NULL
+0106,8247153,"A C. elegans mutant that lives twice as long as wild type.",NULL,"Kenyon et al",NULL,1993,"Nature","366","461-464",NULL,NULL,NULL
+0107,9504918,"An insulin-like signaling pathway affects both longevity and reproduction in Caenorhabditis elegans.",NULL,"Tissenbaum and Ruvkun",NULL,1998,"Genetics","148","703-717",NULL,NULL,NULL
+0108,8601482,"The age-1 and daf-2 genes function in a common pathway to control the lifespan of Caenorhabditis elegans.",NULL,"Dorman et al",NULL,1995,"Genetics","141","1399-1406",NULL,NULL,NULL
+0109,16782295,"Increased lifespan in transgenic Caenorhabditis elegans overexpressing human alpha-synuclein.",NULL,"Vartiainen et al",NULL,2006,"Exp. Gerontol.","41","871-876",NULL,NULL,NULL
+0110,18043747,"DAF-2/insulin-like signaling in C. elegans modifies effects of dietary restriction and nutrient stress on aging, stress and growth.",NULL,"Iser and Wolkow",NULL,2007,"PLoS ONE","2",NULL,NULL,NULL,NULL
+0111,18828672,"Caenorhabditis elegans HCF-1 functions in longevity maintenance as a DAF-16 regulator.",NULL,"Li et al",NULL,2008,"PLoS Biol.","6",NULL,NULL,NULL,NULL
+0112,9725835,"Two pleiotropic classes of daf-2 mutation affect larval arrest, adult behavior, reproduction and longevity in Caenorhabditis elegans.",NULL,"Gems et al",NULL,1998,"Genetics","150","129-155",NULL,NULL,NULL
+0113,12471266,"Rates of behavior and aging specified by mitochondrial function during development.",NULL,"Dillin et al",NULL,2002,"Science","298","2398-2401",NULL,NULL,NULL
+0114,7219552,"Interacting genes in nematode dauer larva formation.",NULL,"Riddle et al",NULL,1981,"Nature","290","668-671",NULL,NULL,NULL
+0115,10428762,"The daf-2 gene network for longevity regulates oxidative stress resistance and Mn-superoxide dismutase gene expression in Caenorhabditis elegans.",NULL,"Honda and Honda",NULL,1999,"FASEB J.","13","1385-1393",NULL,NULL,NULL
+0116,8638122,"Determination of life-span in Caenorhabditis elegans by four clock genes.",NULL,"Lakowski and Hekimi",NULL,1996,"Science","272","1010-1013",NULL,NULL,NULL
+0117,10360574,"Signals from the reproductive system regulate the lifespan of C. elegans.",NULL,"Hsin and Kenyon",NULL,1999,"Nature","399","362-366",NULL,NULL,NULL
+0118,21040400,"Pyruvate imbalance mediates metabolic reprogramming and mimics lifespan extension by dietary restriction in Caenorhabditis elegans.",NULL,"Mouchiroud et al",NULL,2011,"Aging Cell","10","39-54",NULL,NULL,NULL
+0119,20657825,"Genome-wide screen in Saccharomyces cerevisiae identifies vacuolar protein sorting, autophagy, biosynthetic, and tRNA methylation genes involved in life span regulation.",NULL,"Fabrizio et al",NULL,2010,"PLoS Genet.","6",NULL,NULL,NULL,NULL
+0120,22768380,"Genes down-regulated in spaceflight are involved in the control of longevity in Caenorhabditis elegans.",NULL,"Honda et al",NULL,2012,"Sci Rep","2",NULL,NULL,NULL,NULL
+0121,11493519,"A regulatory cascade of three homeobox genes, ceh-10, ttx-3 and ceh-23, controls cell fate specification of a defined interneuron class in C. elegans.",NULL,"Altun-Gultekin et al",NULL,2001,"Development","128","1951-1969",NULL,NULL,NULL
+0122,9009207,"Transcriptional silencing of Ty1 elements in the RDN1 locus of yeast.",NULL,"Bryk et al",NULL,1997,"Genes Dev.","11","255-269",NULL,NULL,NULL
+0123,3297920,"Four genes responsible for a position effect on expression from HML and HMR in Saccharomyces cerevisiae.",NULL,"Rine and Herskowitz",NULL,1987,"Genetics","116","9-22",NULL,NULL,NULL
+0124,6098447,"Characterization of two genes required for the position-effect control of yeast mating-type genes.",NULL,"Shore et al",NULL,1984,"EMBO J.","3","2817-2823",NULL,NULL,NULL
+0125,9009206,"An unusual form of transcriptional silencing in yeast ribosomal DNA.",NULL,"Smith and Boeke",NULL,1997,"Genes Dev.","11","241-254",NULL,NULL,NULL
+0126,1913809,"Modifiers of position effect are shared between telomeric and silent mating-type loci in S. cerevisiae.",NULL,"Aparicio et al",NULL,1991,"Cell","66","1279-1287",NULL,NULL,NULL
+0127,8034612,"Divergent roles of RAS1 and RAS2 in yeast longevity.",NULL,"Sun et al",NULL,1994,"J. Biol. Chem.","269","18638-18645",NULL,NULL,NULL
+0128,19747824,"Extension of Drosophila life span by RNAi of the mitochondrial respiratory chain.",NULL,"Copeland et al",NULL,2009,"Curr. Biol.","19","1591-1598",NULL,NULL,NULL
+0129,19968629,"Perturbation of mitochondrial complex V alters the response to dietary restriction in Drosophila.",NULL,"Bahadorani et al",NULL,2010,"Aging Cell","9","100-103",NULL,NULL,NULL
+0130,10082585,"A genetic screen for ribosomal DNA silencing defects identifies multiple DNA replication and chromatin-modulating factors.",NULL,"Smith et al",NULL,1999,"Mol. Cell. Biol.","19","3184-3197",NULL,NULL,NULL
+0131,10512855,"Modulation of life-span by histone deacetylase genes in Saccharomyces cerevisiae.",NULL,"Kim et al",NULL,1999,"Mol. Biol. Cell","10","3125-3136",NULL,NULL,NULL
+0132,21334311,"The thioredoxin TRX-1 regulates adult lifespan extension induced by dietary restriction in Caenorhabditis elegans.",NULL,"Fierro-González et al",NULL,2011,"Biochem. Biophys. Res. Commun.","406","478-482",NULL,NULL,NULL
+0133,16387300,"Lifespan decrease in a Caenorhabditis elegans mutant lacking TRX-1, a thioredoxin expressed in ASJ sensory neurons.",NULL,"Miranda-Vizuete et al",NULL,2006,"FEBS Lett.","580","484-490",NULL,NULL,NULL
+0134,16324156,"Thioredoxin is related to life span regulation and oxidative stress response in Caenorhabditis elegans.",NULL,"Jee et al",NULL,2005,"Genes Cells","10","1203-1210",NULL,NULL,NULL
+0135,22438832,"The yeast forkhead transcription factors fkh1 and fkh2 regulate lifespan and stress response together with the anaphase-promoting complex.",NULL,"Postnikoff et al",NULL,2012,"PLoS Genet.","8",NULL,NULL,NULL,NULL
+0136,17110466,"Dihydrolipoyl dehydrogenase as a source of reactive oxygen species inhibited by caloric restriction and involved in Saccharomyces cerevisiae aging.",NULL,"Tahara et al",NULL,2007,"FASEB J.","21","274-283",NULL,NULL,NULL
+0137,10841563,"A phylogenetically conserved NAD+-dependent protein deacetylase activity in the Sir2 protein family.",NULL,"Smith et al",NULL,2000,"Proc. Natl. Acad. Sci. U.S.A.","97","6658-6663",NULL,NULL,NULL
+0138,17482543,"Nicotinamide riboside promotes Sir2 silencing and extends lifespan via Nrk and Urh1/Pnp1/Meu1 pathways to NAD+.",NULL,"Belenky et al",NULL,2007,"Cell","129","473-484",NULL,NULL,NULL
+0139,7768437,"Mutations in the clk-1 gene of Caenorhabditis elegans affect developmental and behavioral timing.",NULL,"Wong et al",NULL,1995,"Genetics","139","1247-1259",NULL,NULL,NULL
+0140,10202142,"CLK-1 controls respiration, behavior and aging in the nematode Caenorhabditis elegans.",NULL,"Felkai et al",NULL,1999,"EMBO J.","18","1783-1792",NULL,NULL,NULL
+0141,9020081,"Structural and functional conservation of the Caenorhabditis elegans timing gene clk-1.",NULL,"Ewbank et al",NULL,1997,"Science","275","980-983",NULL,NULL,NULL
+0142,11959146,"CLK-1 protein has DNA binding activity specific to O(L) region of mitochondrial DNA.",NULL,"Gorbunova and Seluanov",NULL,2002,"FEBS Lett.","516","279-284",NULL,NULL,NULL
+0143,11136229,"A dietary source of coenzyme Q is essential for growth of long-lived Caenorhabditis elegans clk-1 mutants.",NULL,"Jonassen et al",NULL,2001,"Proc. Natl. Acad. Sci. U.S.A.","98","421-426",NULL,NULL,NULL
+0144,21641548,"Regulation of yeast chronological life span by TORC1 via adaptive mitochondrial ROS signaling.",NULL,"Pan et al",NULL,2011,"Cell Metab.","13","668-678",NULL,NULL,NULL
+0145,18006689,"Gene activities that mediate increased life span of C. elegans insulin-like signaling mutants.",NULL,"Samuelson et al",NULL,2007,"Genes Dev.","21","2976-2994",NULL,NULL,NULL
+0146,18041778,"Identification of major classes of cholinergic neurons in the nematode Caenorhabditis elegans.",NULL,"Duerr et al",NULL,2008,"J. Comp. Neurol.","506","398-408",NULL,NULL,NULL
+0147,6698395,"Choline acetyltransferase-deficient mutants of the nematode Caenorhabditis elegans.",NULL,"Rand and Russell",NULL,1984,"Genetics","106","227-248",NULL,NULL,NULL
+0148,12225660,"TOR deficiency in C. elegans causes developmental arrest and intestinal atrophy by inhibition of mRNA translation.",NULL,"Long et al",NULL,2002,"Curr. Biol.","12","1448-1461",NULL,NULL,NULL
+0149,14668850,"Genetics: influence of TOR kinase on lifespan in C. elegans.",NULL,"Vellai et al",NULL,2003,"Nature","426",NULL,NULL,NULL,NULL
+0150,15253933,"The TOR pathway interacts with the insulin signaling pathway to regulate C. elegans larval development, metabolism and life span.",NULL,"Jia et al",NULL,2004,"Development","131","3897-3906",NULL,NULL,NULL
+0151,16436509,"Yeast AMID homologue Ndi1p displays respiration-restricted apoptotic activity and is involved in chronological aging.",NULL,"Li et al",NULL,2006,"Mol. Biol. Cell","17","1802-1811",NULL,NULL,NULL
+0152,15998808,"A systematic RNAi screen for longevity genes in C. elegans.",NULL,"Hamilton et al",NULL,2005,"Genes Dev.","19","1544-1555",NULL,NULL,NULL
+0153,22661237,"The second international conference ""genetics of aging and longevity"".",NULL,"Anisimov et al",NULL,2012,"Aging (Albany NY)","4","305-317",NULL,NULL,NULL
+0154,22377630,"Ribosome deficiency protects against ER stress in Saccharomyces cerevisiae.",NULL,"Steffen et al",NULL,2012,"Genetics","191","107-118",NULL,NULL,NULL
+0155,17174052,"Ribosomal proteins Rpl10 and Rps6 are potent regulators of yeast replicative life span.",NULL,"Chiocchetti et al",NULL,2007,"Exp. Gerontol.","42","275-286",NULL,NULL,NULL
+0156,12447374,"A systematic RNAi screen identifies a critical role for mitochondria in C. elegans longevity.",NULL,"Lee et al",NULL,2003,"Nat. Genet.","33","40-48",NULL,NULL,NULL
+0157,8608934,"A mutation in the age-1 gene in Caenorhabditis elegans lengthens life and reduces hermaphrodite fertility.",NULL,"Friedman and Johnson",NULL,1988,"Genetics","118","75-86",NULL,NULL,NULL
+0158,8389142,"Oxidative stress and ageing in Caenorhabditis elegans.",NULL,"Vanfleteren J R",NULL,1993,"Biochem. J.","292 ( Pt 2)","605-608",NULL,NULL,NULL
+0159,8056303,"daf-2, daf-16 and daf-23: genetically interacting genes controlling Dauer formation in Caenorhabditis elegans.",NULL,"Gottlieb and Ruvkun",NULL,1994,"Genetics","137","107-120",NULL,NULL,NULL
+0160,8700226,"A phosphatidylinositol-3-OH kinase family member regulating longevity and diapause in Caenorhabditis elegans.",NULL,"Morris et al",NULL,1996,"Nature","382","536-539",NULL,NULL,NULL
+0161,21059759,"Genetic dissection of ion currents underlying all-or-none action potentials in C. elegans body-wall muscle cells.",NULL,"Liu et al",NULL,2011,"J. Physiol. (Lond.)","589","101-117",NULL,NULL,NULL
+0162,16899454,"Mutant analysis of the Shal (Kv4) voltage-gated fast transient K+ channel in Caenorhabditis elegans.",NULL,"Fawcett et al",NULL,2006,"J. Biol. Chem.","281","30725-30735",NULL,NULL,NULL
+0163,22509016,"Midlife gene expressions identify modulators of aging through dietary interventions.",NULL,"Zhou et al",NULL,2012,"Proc. Natl. Acad. Sci. U.S.A.","109","E1201-E1209",NULL,NULL,NULL
+0164,22560223,"TOR signaling and rapamycin influence longevity by regulating SKN-1/Nrf and DAF-16/FoxO.",NULL,"Robida-Stubbs et al",NULL,2012,"Cell Metab.","15","713-724",NULL,NULL,NULL
+0165,11747825,"daf-16 integrates developmental and environmental inputs to mediate aging in the nematode Caenorhabditis elegans.",NULL,"Henderson and Johnson",NULL,2001,"Curr. Biol.","11","1975-1980",NULL,NULL,NULL
+0166,8807294,"A genetic pathway conferring life extension and resistance to UV stress in Caenorhabditis elegans.",NULL,"Murakami and Johnson",NULL,1996,"Genetics","143","1207-1218",NULL,NULL,NULL
+0167,10747056,"Genetic, behavioral and environmental determinants of male longevity in Caenorhabditis elegans.",NULL,"Gems and Riddle",NULL,2000,"Genetics","154","1597-1610",NULL,NULL,NULL
+0168,11381260,"Regulation of the Caenorhabditis elegans longevity protein DAF-16 by insulin/IGF-1 and germline signaling.",NULL,"Lin et al",NULL,2001,"Nat. Genet.","28","139-145",NULL,NULL,NULL
+0169,16530050,"Germ-cell loss extends C. elegans life span through regulation of DAF-16 by kri-1 and lipophilic-hormone signaling.",NULL,"Berman and Kenyon",NULL,2006,"Cell","124","1055-1068",NULL,NULL,NULL
+0170,15905404,"Functional interaction between beta-catenin and FOXO in oxidative stress signaling.",NULL,"Essers et al",NULL,2005,"Science","308","1181-1184",NULL,NULL,NULL
+0171,22319457,"Down-regulating sphingolipid synthesis increases yeast lifespan.",NULL,"Huang et al",NULL,2012,"PLoS Genet.","8",NULL,NULL,NULL,NULL
+0172,18358814,"Direct inhibition of the longevity-promoting factor SKN-1 by insulin-like signaling in C. elegans.",NULL,"Tullet et al",NULL,2008,"Cell","132","1025-1038",NULL,NULL,NULL
+0173,12958363,"Autophagy genes are essential for dauer development and life-span extension in C. elegans.",NULL,"Meléndez et al",NULL,2003,"Science","301","1387-1391",NULL,NULL,NULL
+0174,15129730,"Role of thioredoxin peroxidase in aging of stationary cultures of Saccharomyces cerevisiae.",NULL,"Lee and Park",NULL,2004,"Free Radic. Res.","38","225-231",NULL,NULL,NULL
+0175,20729566,"A new dominant peroxiredoxin allele identified by whole-genome re-sequencing of random mutagenized yeast causes oxidant-resistance and premature aging.",NULL,"Timmermann et al",NULL,2010,"Aging (Albany NY)","2","475-486",NULL,NULL,NULL
+0176,12845331,"Genes that act downstream of DAF-16 to influence the lifespan of Caenorhabditis elegans.",NULL,"Murphy et al",NULL,2003,"Nature","424","277-283",NULL,NULL,NULL
+0177,22132200,"The MDT-15 subunit of mediator interacts with dietary restriction to modulate longevity and fluoranthene toxicity in Caenorhabditis elegans.",NULL,"Schleit et al",NULL,2011,"PLoS ONE","6",NULL,NULL,NULL,NULL
+0178,21562563,"N-acylethanolamine signalling mediates the effect of diet on lifespan in Caenorhabditis elegans.",NULL,"Lucanic et al",NULL,2011,"Nature","473","226-229",NULL,NULL,NULL
+0179,20456299,"drr-2 encodes an eIF4H that acts downstream of TOR in diet-restriction-induced longevity of C. elegans.",NULL,"Ching et al",NULL,2010,"Aging Cell","9","545-557",NULL,NULL,NULL
+0180,15574588,"The AMP-activated protein kinase AAK-2 links energy levels and insulin-like signals to lifespan in C. elegans.",NULL,"Apfeld et al",NULL,2004,"Genes Dev.","18","3004-3009",NULL,NULL,NULL
+0181,15175753,"Drosophila dFOXO controls lifespan and regulates insulin signalling in brain and fat body.",NULL,"Hwangbo et al",NULL,2004,"Nature","429","562-566",NULL,NULL,NULL
+0182,20178842,"Gene regulatory changes in yeast during life extension by nutrient limitation.",NULL,"Wang et al",NULL,2010,"Exp. Gerontol.","45","621-631",NULL,NULL,NULL
+0183,10722658,"The transcriptional response of Saccharomyces cerevisiae to osmotic shock. Hot1p and Msn2p/Msn4p are required for the induction of subsets of high osmolarity glycerol pathway-dependent genes.","","Rep et al","",2000,"J. Biol. Chem.","275","8290-8300","","",NULL
+0184,11102521,"Genomic expression programs in the response of yeast cells to environmental changes.","","Gasch et al","",2000,"Mol. Biol. Cell","11","4241-4257","","",NULL
